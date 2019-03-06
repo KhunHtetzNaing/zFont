@@ -3,14 +3,22 @@
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Color/Yggdrassil_color.ttf",
     "title": "Yggdrassil_color",
     "size": "967 KB",
-    "thumbnail": "https://i.imgur.com/PjemQwR.png",
-    "web": false
+    "thumbnail": "https://1.bp.blogspot.com/-zYVryH3EreU/W0t2QJhfFkI/AAAAAAAAcc0/YJpZZyuXtJwzFrH6p-qwq3gcf7qzuLfyACLcBGAs/s320/Yggdrassil_color.png",
+    "web": false,
+    "preview": "https://i.imgur.com/PjemQwR.png"
   },
   {
     "title": "MasterPan",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/MasterPan.ttf",
     "size": "162 KB",
-    "thumbnail": "https://i.imgur.com/m1jTU7j.png",
-    "web": false
+    "thumbnail": "https://i.imgur.com/Dpmxveu.png",
+    "web": false,
+    "preview": "https://i.imgur.com/m1jTU7j.png"
+  },
+  {
+    "title": "Test",
+    "url": "https://www.facebook.com/KhunHtetzNaing0",
+    "thumb": "https://fossbytes.com/wp-content/uploads/2018/01/Best-Android-Apps-List-fossbytes.jpg",
+    "web": true
   }
 ]
