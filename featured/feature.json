@@ -8,17 +8,18 @@
     "preview": "https://i.imgur.com/PjemQwR.png"
   },
   {
-    "title": "MasterPan",
     "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Cool/MasterPan.ttf",
+    "title": "MasterPan",
     "size": "162 KB",
     "thumbnail": "https://i.imgur.com/Dpmxveu.png",
     "web": false,
     "preview": "https://i.imgur.com/m1jTU7j.png"
   },
   {
-    "title": "Test",
-    "url": "https://www.facebook.com/KhunHtetzNaing0",
-    "preview": "https://fossbytes.com/wp-content/uploads/2018/01/Best-Android-Apps-List-fossbytes.jpg",
-    "web": true
+    "url": "https://raw.githack.com/MgNgoe/mi-font-installer/master/Fonts/Myanmar/Unicode/Pyidaungsu-2.5_Regular.ttf",
+    "title": "Pyidaungsu-2.5_Regular",
+    "size": "178 KB",
+    "thumbnail": "https://i.imgur.com/Mdo3HUk.png",
+    "preview": "https://i.imgur.com/0I1UPdN.jpg"
   }
 ]
