@@ -1,7 +1,7 @@
 {
-  "version": "1.3",
+  "version": "1.5",
   "title": "IMPORTANT!",
-  "message": "New version has been release!\nPlease download and install :)\n\n11/04/2019 [1.4]\n- Fix Not Working on Huawei\n- Fix Not Working on Android 9.0+ (Oppo & Samsung)\n- Fix More Bugs",
+  "message": "New version has been release!\nPlease download and install :)\n\n12/04/2019 [1.5]\n- Fix Cannot install (zFont) Apks on\n  Samsung,Oppo,Realme!",
   "download": "https://github.com/KhunHtetzNaing/zFont/releases/download/apk/zFont.apk",
   "playstore": "com.mgngoe.zfont",
   "uninstall": false
