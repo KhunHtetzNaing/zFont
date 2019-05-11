@@ -1,8 +1,13 @@
 {
-  "version": "1.5",
+  "version": "1.6",
   "title": "IMPORTANT!",
-  "message": "New version has been release!\nPlease download and install :)\n\n12/04/2019 [1.5]\n- Fix Cannot install (zFont) Apks on\n  Samsung,Oppo,Realme!",
+  "message": "New version has been release!\nPlease download and install :)\n\n11/05/2019 [1.6]\n- Add more font packs for Vivo.\n- Add Change Region button for some oppo and realme models\n- Add font pack for Samsung Pie [BETA]\n- Removed Ads on exit app",
   "download": "https://github.com/KhunHtetzNaing/zFont/releases/download/apk/zFont.apk",
   "playstore": "com.mgngoe.zfont",
-  "uninstall": false
+  "uninstall": false,
+  "what": {
+    "model": [],
+    "version": [],
+    "all": true
+  }
 }
