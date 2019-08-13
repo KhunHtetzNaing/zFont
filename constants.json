@@ -3,6 +3,6 @@
   "interstitial":"ca-app-pub-2780984156359274/9258171407",
   "rewarded":"ca-app-pub-2780984156359274/4765103069",
   "sponsor":"http://deloplen.com/afu.php?zoneid=2130201",
-  "show_ad_limit":1,
+  "show_ad_limit":5,
   "admob":true
 }
