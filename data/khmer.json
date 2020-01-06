@@ -1,0 +1,695 @@
+[
+  {
+    "in": true,
+    "n": "Kh_Roboto-Italic",
+    "u": "/Fonts/Language/Khmer/Kh_Roboto-Italic.ttf",
+    "s": "170 KB",
+    "t": "https://i.imgur.com/enT3ba2.png"
+  },
+  {
+    "in": true,
+    "n": "Kh_Roboto-Regular",
+    "u": "/Fonts/Language/Khmer/Kh_Roboto-Regular.ttf",
+    "s": "169 KB",
+    "t": "https://i.imgur.com/pF4oNyA.png"
+  },
+  {
+    "in": true,
+    "n": "Kh_SN_Preytakoy-_v4",
+    "u": "/Fonts/Language/Khmer/Kh_SN_Preytakoy-_v4.ttf",
+    "s": "169 KB",
+    "t": "https://i.imgur.com/zg7Dtjb.png"
+  },
+  {
+    "in": true,
+    "n": "Khmer_Chela_2015_v5",
+    "u": "/Fonts/Language/Khmer/Khmer_Chela_2015_v5.ttf",
+    "s": "74 KB",
+    "t": "https://i.imgur.com/Ly0yxyV.png"
+  },
+  {
+    "in": true,
+    "n": "Khmer_Love_Khmer___Mengly_FC_v5",
+    "u": "/Fonts/Language/Khmer/Khmer_Love_Khmer___Mengly_FC_v5.ttf",
+    "s": "180 KB",
+    "t": "https://i.imgur.com/L3w1zv1.png"
+  },
+  {
+    "in": true,
+    "n": "Khmer_Love_Khmer___Mengly_FC_v6",
+    "u": "/Fonts/Language/Khmer/Khmer_Love_Khmer___Mengly_FC_v6.ttf",
+    "s": "179 KB",
+    "t": "https://i.imgur.com/kVRiXuV.png"
+  },
+  {
+    "in": true,
+    "n": "Khmer_Love_Khmer___Mengly_FC_v7",
+    "u": "/Fonts/Language/Khmer/Khmer_Love_Khmer___Mengly_FC_v7.ttf",
+    "s": "237 KB",
+    "t": "https://i.imgur.com/c3vE7RH.png"
+  },
+  {
+    "in": true,
+    "n": "Khmer_Love_Khmer___Mengly_FC_v8",
+    "u": "/Fonts/Language/Khmer/Khmer_Love_Khmer___Mengly_FC_v8.ttf",
+    "s": "179 KB",
+    "t": "https://i.imgur.com/SdtcU89.png"
+  },
+  {
+    "in": true,
+    "n": "Khmer_Love_Khmer___Mengly_FC_v9",
+    "u": "/Fonts/Language/Khmer/Khmer_Love_Khmer___Mengly_FC_v9.ttf",
+    "s": "184 KB",
+    "t": "https://i.imgur.com/kAiOPWV.png"
+  },
+  {
+    "in": true,
+    "n": "Khmer_Love_Khmer_Mengly_FC",
+    "u": "/Fonts/Language/Khmer/Khmer_Love_Khmer_Mengly_FC.ttf",
+    "s": "180 KB",
+    "t": "https://i.imgur.com/Id0cWLo.png"
+  },
+  {
+    "in": true,
+    "n": "Khmer_OS_Metal_Chrieng-_-v301",
+    "u": "/Fonts/Language/Khmer/Khmer_OS_Metal_Chrieng-_-v301.ttf",
+    "s": "178 KB",
+    "t": "https://i.imgur.com/Y0DI0Dr.png"
+  },
+  {
+    "in": true,
+    "n": "Khmer_Pailin",
+    "u": "/Fonts/Language/Khmer/Khmer_Pailin.ttf",
+    "s": "276 KB",
+    "t": "https://i.imgur.com/JouR8TL.png"
+  },
+  {
+    "in": true,
+    "n": "Khmer_Sangha_2015-_v6",
+    "u": "/Fonts/Language/Khmer/Khmer_Sangha_2015-_v6.ttf",
+    "s": "287 KB",
+    "t": "https://i.imgur.com/J19QxlK.png"
+  },
+  {
+    "in": true,
+    "n": "Khmer_Sexy",
+    "u": "/Fonts/Language/Khmer/Khmer_Sexy.ttf",
+    "s": "23 KB",
+    "t": "https://i.imgur.com/jzD6aSG.png"
+  },
+  {
+    "in": true,
+    "n": "Khmer_SS_2015-_v5",
+    "u": "/Fonts/Language/Khmer/Khmer_SS_2015-_v5.ttf",
+    "s": "238 KB",
+    "t": "https://i.imgur.com/QYPKMYi.png"
+  },
+  {
+    "in": true,
+    "n": "Khmer_Stueng_Songke_v4",
+    "u": "/Fonts/Language/Khmer/Khmer_Stueng_Songke_v4.ttf",
+    "s": "177 KB",
+    "t": "https://i.imgur.com/XPyfIwD.png"
+  },
+  {
+    "in": true,
+    "n": "KhmerOS_Muol_Pali",
+    "u": "/Fonts/Language/Khmer/KhmerOS_Muol_Pali.ttf",
+    "s": "140 KB",
+    "t": "https://i.imgur.com/MIbcsvV.png"
+  },
+  {
+    "in": true,
+    "n": "KhmerSangamMN",
+    "u": "/Fonts/Language/Khmer/KhmerSangamMN.ttf",
+    "s": "538 KB",
+    "t": "https://i.imgur.com/sDMDH93.png"
+  },
+  {
+    "in": true,
+    "n": "KhPrayVeng",
+    "u": "/Fonts/Language/Khmer/KhPrayVeng.ttf",
+    "s": "421 KB",
+    "t": "https://i.imgur.com/TGN2OAw.png"
+  },
+  {
+    "in": true,
+    "n": "KST_Rosemary",
+    "u": "/Fonts/Language/Khmer/KST_Rosemary.ttf",
+    "s": "560 KB",
+    "t": "https://i.imgur.com/YHWlPlX.png"
+  },
+  {
+    "in": true,
+    "n": "Mengly_FC_V5",
+    "u": "/Fonts/Language/Khmer/Mengly_FC_V5.ttf",
+    "s": "174 KB",
+    "t": "https://i.imgur.com/aVJP1Ci.png"
+  },
+  {
+    "in": true,
+    "n": "Mengly_FC_V6",
+    "u": "/Fonts/Language/Khmer/Mengly_FC_V6.ttf",
+    "s": "172 KB",
+    "t": "https://i.imgur.com/tkwyNcX.png"
+  },
+  {
+    "in": true,
+    "n": "Mengly_FC_v10",
+    "u": "/Fonts/Language/Khmer/Mengly_FC_v10.ttf",
+    "s": "169 KB",
+    "t": "https://i.imgur.com/HlrzRQm.png"
+  },
+  {
+    "in": true,
+    "n": "MoolBoran",
+    "u": "/Fonts/Language/Khmer/MoolBoran.ttf",
+    "s": "848 KB",
+    "t": "https://i.imgur.com/NP9w7sN.png"
+  },
+  {
+    "in": true,
+    "n": "nks_ics_kh_v1_Roboto-Bold",
+    "u": "/Fonts/Language/Khmer/nks_ics_kh_v1_Roboto-Bold.ttf",
+    "s": "51 KB",
+    "t": "https://i.imgur.com/FsjbsNK.png"
+  },
+  {
+    "in": true,
+    "n": "nks_ics_kh_v1_Roboto-BoldItalic",
+    "u": "/Fonts/Language/Khmer/nks_ics_kh_v1_Roboto-BoldItalic.ttf",
+    "s": "51 KB",
+    "t": "https://i.imgur.com/KUwZyWA.png"
+  },
+  {
+    "in": true,
+    "n": "nks_ics_kh_v1_Roboto-Italic",
+    "u": "/Fonts/Language/Khmer/nks_ics_kh_v1_Roboto-Italic.ttf",
+    "s": "51 KB",
+    "t": "https://i.imgur.com/P7ykSB9.png"
+  },
+  {
+    "n": "nks_ics_kh_v1_Roboto-Regular",
+    "u": "/Fonts/Language/Khmer/nks_ics_kh_v1_Roboto-Regular.ttf",
+    "s": "51 KB",
+    "t": "https://i.imgur.com/7wXXD4v.png",
+    "in": true
+  },
+  {
+    "u": "/Fonts/Language/Khmer/Nokora.ttf",
+    "n": "Nokora",
+    "s": "58 KB",
+    "t": "https://i.imgur.com/qURMQ76.png",
+    "in": true
+  },
+  {
+    "n": "NokoraB",
+    "u": "/Fonts/Language/Khmer/NokoraB.ttf",
+    "s": "57 KB",
+    "t": "https://i.imgur.com/rPDgmmB.png",
+    "in": true
+  },
+  {
+    "u": "/Fonts/Language/Khmer/NotoSan_Serif_Khmer_with_New_English.ttf",
+    "n": "NotoSan_Serif_Khmer_with_New_English",
+    "s": "128 KB",
+    "t": "https://i.imgur.com/ObTPJPJ.png",
+    "in": true
+  },
+  {
+    "u": "/Fonts/Language/Khmer/NotoSansKhmer-Bold.ttf",
+    "n": "NotoSansKhmer-Bold",
+    "s": "232 KB",
+    "t": "https://i.imgur.com/OO0URf1.png",
+    "in": true
+  },
+  {
+    "u": "/Fonts/Language/Khmer/NotoSansKhmer-Regular.ttf",
+    "n": "NotoSansKhmer-Regular",
+    "s": "231 KB",
+    "t": "https://i.imgur.com/vZWc2Ed.png",
+    "in": true
+  },
+  {
+    "u": "/Fonts/Language/Khmer/NotoSansKhmerUI-Bold.ttf",
+    "n": "NotoSansKhmerUI-Bold",
+    "s": "232 KB",
+    "t": "https://i.imgur.com/qccyvMf.png",
+    "in": true
+  },
+  {
+    "n": "NotoSansKhmerUI-Regular",
+    "u": "/Fonts/Language/Khmer/NotoSansKhmerUI-Regular.ttf",
+    "s": "231 KB",
+    "t": "https://i.imgur.com/pqjLsOT.png",
+    "in": true
+  },
+  {
+    "n": "PreyVeng_ព្រៃវែងធម្មតា",
+    "u": "/Fonts/Language/Khmer/PreyVeng_ព្រៃវែងធម្មតា.ttf",
+    "s": "56 KB",
+    "t": "https://i.imgur.com/yOkxuDC.png",
+    "in": true
+  },
+  {
+    "n": "Roboto_S1",
+    "u": "/Fonts/Language/Khmer/Roboto_S1.ttf",
+    "s": "142 KB",
+    "t": "https://i.imgur.com/WSQG4cV.png",
+    "in": true
+  },
+  {
+    "n": "Roboto-Bold",
+    "u": "/Fonts/Language/Khmer/Roboto-Bold.ttf",
+    "s": "44 KB",
+    "t": "https://i.imgur.com/o6tHKBp.png",
+    "in": true
+  },
+  {
+    "n": "Roboto-BoldItalic",
+    "u": "/Fonts/Language/Khmer/Roboto-BoldItalic.ttf",
+    "s": "46 KB",
+    "t": "https://i.imgur.com/FSSWsZu.png",
+    "in": true
+  },
+  {
+    "n": "Roboto-Italic",
+    "u": "/Fonts/Language/Khmer/Roboto-Italic.ttf",
+    "s": "46 KB",
+    "t": "https://i.imgur.com/r9rQymv.png",
+    "in": true
+  },
+  {
+    "n": "Roboto-Regular",
+    "u": "/Fonts/Language/Khmer/Roboto-Regular.ttf",
+    "s": "49 KB",
+    "t": "https://i.imgur.com/QhmXvMU.png",
+    "in": true
+  },
+  {
+    "n": "Roboto",
+    "u": "/Fonts/Language/Khmer/Roboto.ttf",
+    "s": "142 KB",
+    "t": "https://i.imgur.com/YbGSmcq.png",
+    "in": true
+  },
+  {
+    "n": "Rosemary__Nokia_Pure",
+    "u": "/Fonts/Language/Khmer/Rosemary__Nokia_Pure.ttf",
+    "s": "9.33 MB",
+    "t": "https://i.imgur.com/Ym7GntR.png",
+    "in": true
+  },
+  {
+    "n": "Sampovloun_Children_V9",
+    "u": "/Fonts/Language/Khmer/Sampovloun_Children_V9.ttf",
+    "s": "77 KB",
+    "t": "https://i.imgur.com/gaSc2f6.png",
+    "in": true
+  },
+  {
+    "n": "Sampovloun_Children-V9",
+    "u": "/Fonts/Language/Khmer/Sampovloun_Children-V9.ttf",
+    "s": "77 KB",
+    "t": "https://i.imgur.com/xG85WJx.png",
+    "in": true
+  },
+  {
+    "n": "Sampovloun_Chrung_2015a",
+    "u": "/Fonts/Language/Khmer/Sampovloun_Chrung_2015a.ttf",
+    "s": "101 KB",
+    "t": "https://i.imgur.com/Emm7vep.png",
+    "in": true
+  },
+  {
+    "n": "Sampovloun_Chrung_2015B",
+    "u": "/Fonts/Language/Khmer/Sampovloun_Chrung_2015B.ttf",
+    "s": "101 KB",
+    "t": "https://i.imgur.com/27Scuyi.png",
+    "in": true
+  },
+  {
+    "n": "Sampovloun_Small_v4",
+    "u": "/Fonts/Language/Khmer/Sampovloun_Small_v4.ttf",
+    "s": "100 KB",
+    "t": "https://i.imgur.com/LOZ9Eqo.png",
+    "in": true
+  },
+  {
+    "n": "Sampovloun_SP",
+    "u": "/Fonts/Language/Khmer/Sampovloun_SP.ttf",
+    "s": "55 KB",
+    "t": "https://i.imgur.com/WFg7x8Q.png",
+    "in": true
+  },
+  {
+    "n": "Sampovloun_SS7",
+    "u": "/Fonts/Language/Khmer/Sampovloun_SS7.ttf",
+    "s": "44 KB",
+    "t": "https://i.imgur.com/nJZDDp0.png",
+    "in": true
+  },
+  {
+    "n": "Battambang-Regular",
+    "u": "/Fonts/Language/Khmer/Battambang-Regular.ttf",
+    "s": "349 KB",
+    "t": "https://i.imgur.com/m0oEUWf.png",
+    "in": false
+  },
+  {
+    "n": "Kh_Watt_Prey_Chas",
+    "u": "/Fonts/Language/Khmer/Kh_Watt_Prey_Chas.ttf",
+    "s": "358 KB",
+    "t": "https://i.imgur.com/yCKoHvi.png",
+    "in": false
+  },
+  {
+    "n": "Bayon",
+    "u": "/Fonts/Language/Khmer/Bayon.ttf",
+    "s": "242 KB",
+    "t": "https://i.imgur.com/sVxERad.png",
+    "in": false
+  },
+  {
+    "n": "TimbreKampuchea",
+    "u": "/Fonts/Language/Khmer/TimbreKampuchea.ttf",
+    "s": "315 KB",
+    "t": "https://i.imgur.com/YMpo3Zz.png",
+    "in": false
+  },
+  {
+    "n": "KhmerOSapsara",
+    "u": "/Fonts/Language/Khmer/KhmerOSapsara.ttf",
+    "s": "237 KB",
+    "t": "https://i.imgur.com/BzmXuEK.png",
+    "in": false
+  },
+  {
+    "n": "ASvadek_Cello",
+    "u": "/Fonts/Language/Khmer/ASvadek_Cello.ttf",
+    "s": "506 KB",
+    "t": "https://i.imgur.com/m2msiUj.png",
+    "in": false
+  },
+  {
+    "n": "KhmerOSclassic",
+    "u": "/Fonts/Language/Khmer/KhmerOSclassic.ttf",
+    "s": "302 KB",
+    "t": "https://i.imgur.com/sMXC0Dx.png",
+    "in": false
+  },
+  {
+    "n": "Freehand-Regular",
+    "u": "/Fonts/Language/Khmer/Freehand-Regular.ttf",
+    "s": "451 KB",
+    "t": "https://i.imgur.com/iPvA5Nb.png",
+    "in": false
+  },
+  {
+    "n": "Chenla",
+    "u": "/Fonts/Language/Khmer/Chenla.ttf",
+    "s": "286 KB",
+    "t": "https://i.imgur.com/F96fSZ6.png",
+    "in": false
+  },
+  {
+    "n": "Khmer-Angkulileka",
+    "u": "/Fonts/Language/Khmer/Khmer-Angkulileka.ttf",
+    "s": "398 KB",
+    "t": "https://i.imgur.com/13oHAfP.png",
+    "in": false
+  },
+  {
+    "n": "Metal-Regular",
+    "u": "/Fonts/Language/Khmer/Metal-Regular.ttf",
+    "s": "400 KB",
+    "t": "https://i.imgur.com/cYpBiPc.png",
+    "in": false
+  },
+  {
+    "n": "Koulen-Regular",
+    "u": "/Fonts/Language/Khmer/Koulen-Regular.ttf",
+    "s": "240 KB",
+    "t": "https://i.imgur.com/E2h98QA.png",
+    "in": false
+  },
+  {
+    "n": "Battambang-Bold",
+    "u": "/Fonts/Language/Khmer/Battambang-Bold.ttf",
+    "s": "338 KB",
+    "t": "https://i.imgur.com/fbI17L7.png",
+    "in": false
+  },
+  {
+    "n": "Bokor",
+    "u": "/Fonts/Language/Khmer/Bokor.ttf",
+    "s": "341 KB",
+    "t": "https://i.imgur.com/xlxXiKc.png",
+    "in": false
+  },
+  {
+    "n": "Hanuman-Bold",
+    "u": "/Fonts/Language/Khmer/Hanuman-Bold.ttf",
+    "s": "119 KB",
+    "t": "https://i.imgur.com/o62YFCG.png",
+    "in": false
+  },
+  {
+    "n": "Khla-Bold",
+    "u": "/Fonts/Language/Khmer/Khla-Bold.ttf",
+    "s": "44 KB",
+    "t": "https://i.imgur.com/fZcYIuD.png",
+    "in": false
+  },
+  {
+    "n": "Ah_Ja_Thom_Prey_Veng_Small",
+    "u": "/Fonts/Language/Khmer/Ah_Ja_Thom_Prey_Veng_Small.ttf",
+    "s": "426 KB",
+    "t": "https://i.imgur.com/tgwR6N6.png",
+    "in": false
+  },
+  {
+    "n": "RonTeasDav-Samuria",
+    "u": "/Fonts/Language/Khmer/RonTeasDav-Samuria.ttf",
+    "s": "725 KB",
+    "t": "https://i.imgur.com/sh2ey3k.png",
+    "in": false
+  },
+  {
+    "n": "Siemreap-Regular",
+    "u": "/Fonts/Language/Khmer/Siemreap-Regular.ttf",
+    "s": "278 KB",
+    "t": "https://i.imgur.com/T9HKJHe.png",
+    "in": false
+  },
+  {
+    "n": "Tlok",
+    "u": "/Fonts/Language/Khmer/Tlok.ttf",
+    "s": "346 KB",
+    "t": "https://i.imgur.com/oEy9VWf.png",
+    "in": false
+  },
+  {
+    "n": "KhmerKhaoI-Dang",
+    "u": "/Fonts/Language/Khmer/KhmerKhaoI-Dang.ttf",
+    "s": "272 KB",
+    "t": "https://i.imgur.com/d1LaQiQ.png",
+    "in": false
+  },
+  {
+    "n": "Ah_Ja_Thom_Prey_Veng",
+    "u": "/Fonts/Language/Khmer/Ah_Ja_Thom_Prey_Veng.ttf",
+    "s": "411 KB",
+    "t": "https://i.imgur.com/d7nmxC2.png",
+    "in": false
+  },
+  {
+    "n": "KonKhmer_Arom",
+    "u": "/Fonts/Language/Khmer/KonKhmer_Arom.ttf",
+    "s": "415 KB",
+    "t": "https://i.imgur.com/4U37Eic.png",
+    "in": false
+  },
+  {
+    "n": "Dangrek",
+    "u": "/Fonts/Language/Khmer/Dangrek.ttf",
+    "s": "263 KB",
+    "t": "https://i.imgur.com/Lpbiu5m.png",
+    "in": false
+  },
+  {
+    "n": "OdorMeanChey-Regular",
+    "u": "/Fonts/Language/Khmer/OdorMeanChey-Regular.ttf",
+    "s": "303 KB",
+    "t": "https://i.imgur.com/hykVOqC.png",
+    "in": false
+  },
+  {
+    "n": "KhmerKolab-Regular",
+    "u": "/Fonts/Language/Khmer/KhmerKolab-Regular.ttf",
+    "s": "244 KB",
+    "t": "https://i.imgur.com/q7r9j6z.png",
+    "in": false
+  },
+  {
+    "n": "Hanuman-Regular",
+    "u": "/Fonts/Language/Khmer/Hanuman-Regular.ttf",
+    "s": "125 KB",
+    "t": "https://i.imgur.com/yIXjgj2.png",
+    "in": false
+  },
+  {
+    "n": "KhmerCnMongRussey-Regular",
+    "u": "/Fonts/Language/Khmer/KhmerCnMongRussey-Regular.ttf",
+    "s": "394 KB",
+    "t": "https://i.imgur.com/a1EuAD1.png",
+    "in": false
+  },
+  {
+    "n": "Angkor",
+    "u": "/Fonts/Language/Khmer/Angkor.ttf",
+    "s": "259 KB",
+    "t": "https://i.imgur.com/nCFneZL.png",
+    "in": false
+  },
+  {
+    "n": "ASvadek_Momo_W",
+    "u": "/Fonts/Language/Khmer/ASvadek_Momo_W.ttf",
+    "s": "513 KB",
+    "t": "https://i.imgur.com/BjTlpXQ.png",
+    "in": false
+  },
+  {
+    "n": "Content-Bold",
+    "u": "/Fonts/Language/Khmer/Content-Bold.ttf",
+    "s": "299 KB",
+    "t": "https://i.imgur.com/v4rP5gI.png",
+    "in": false
+  },
+  {
+    "n": "Moul-Regular",
+    "u": "/Fonts/Language/Khmer/Moul-Regular.ttf",
+    "s": "377 KB",
+    "t": "https://i.imgur.com/69LR0ON.png",
+    "in": false
+  },
+  {
+    "n": "Khmer-Regular",
+    "u": "/Fonts/Language/Khmer/Khmer-Regular.ttf",
+    "s": "335 KB",
+    "t": "https://i.imgur.com/EnbH3QD.png",
+    "in": false
+  },
+  {
+    "n": "Preahvihear",
+    "u": "/Fonts/Language/Khmer/Preahvihear.ttf",
+    "s": "248 KB",
+    "t": "https://i.imgur.com/E0NluPw.png",
+    "in": false
+  },
+  {
+    "n": "KonKhmer_DuyMech",
+    "u": "/Fonts/Language/Khmer/KonKhmer_DuyMech.ttf",
+    "s": "383 KB",
+    "t": "https://i.imgur.com/IK8VfPx.png",
+    "in": false
+  },
+  {
+    "n": "Moulpali-Regular",
+    "u": "/Fonts/Language/Khmer/Moulpali-Regular.ttf",
+    "s": "301 KB",
+    "t": "https://i.imgur.com/dzUyitj.png",
+    "in": false
+  },
+  {
+    "n": "Khmer_OS_Pheatra_C5",
+    "u": "/Fonts/Language/Khmer/Khmer_OS_Pheatra_C5.ttf",
+    "s": "349 KB",
+    "t": "https://i.imgur.com/3FD4nUq.png",
+    "in": false
+  },
+  {
+    "n": "Fasthand-Regular",
+    "u": "/Fonts/Language/Khmer/Fasthand-Regular.ttf",
+    "s": "121 KB",
+    "t": "https://i.imgur.com/75W9PWw.png",
+    "in": false
+  },
+  {
+    "n": "KmengKhmer_Sorry",
+    "u": "/Fonts/Language/Khmer/KmengKhmer_Sorry.ttf",
+    "s": "454 KB",
+    "t": "https://i.imgur.com/kVGyFC0.png",
+    "in": false
+  },
+  {
+    "n": "Ah_Ja_Thom_Content",
+    "u": "/Fonts/Language/Khmer/Ah_Ja_Thom_Content.ttf",
+    "s": "439 KB",
+    "t": "https://i.imgur.com/CNIVHPq.png",
+    "in": false
+  },
+  {
+    "n": "AngTaso",
+    "u": "/Fonts/Language/Khmer/AngTaso.ttf",
+    "s": "224 KB",
+    "t": "https://i.imgur.com/Wf55otI.png",
+    "in": false
+  },
+  {
+    "n": "Khla-Regular",
+    "u": "/Fonts/Language/Khmer/Khla-Regular.ttf",
+    "s": "45 KB",
+    "t": "https://i.imgur.com/M6higQP.png",
+    "in": false
+  },
+  {
+    "n": "KhmerTelecommunication",
+    "u": "/Fonts/Language/Khmer/KhmerTelecommunication.ttf",
+    "s": "160 KB",
+    "t": "https://i.imgur.com/Im3tmI8.png",
+    "in": false
+  },
+  {
+    "n": "Rayuth_HD_T7",
+    "u": "/Fonts/Language/Khmer/Rayuth_HD_T7.ttf",
+    "s": "351 KB",
+    "t": "https://i.imgur.com/fkINo9g.png",
+    "in": false
+  },
+  {
+    "n": "Content-Regular",
+    "u": "/Fonts/Language/Khmer/Content-Regular.ttf",
+    "s": "305 KB",
+    "t": "https://i.imgur.com/siJpbjR.png",
+    "in": false
+  },
+  {
+    "n": "KhBlBrushHand-Regular",
+    "u": "/Fonts/Language/Khmer/KhBlBrushHand-Regular.ttf",
+    "s": "328 KB",
+    "t": "https://i.imgur.com/sJb8P9j.png",
+    "in": false
+  },
+  {
+    "n": "Taprom-Regular",
+    "u": "/Fonts/Language/Khmer/Taprom-Regular.ttf",
+    "s": "324 KB",
+    "t": "https://i.imgur.com/7B76tmi.png",
+    "in": false
+  },
+  {
+    "u": "/Fonts/Language/Khmer/KhmerCnPoipet-Regular.ttf",
+    "n": "KhmerCnPoipet-Regular",
+    "s": "205 KB",
+    "t": "https://i.imgur.com/49I3le2.png",
+    "in": false
+  },
+  {
+    "u": "/Fonts/Language/Khmer/KonKhmer_AS_ME.ttf",
+    "n": "KonKhmer_AS_ME",
+    "s": "616 KB",
+    "t": "https://i.imgur.com/xr8m6AN.png",
+    "in": false
+  }
+]

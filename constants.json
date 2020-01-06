@@ -1,8 +1,152 @@
 {
-  "banner":"ca-app-pub-2780984156359274/3172163254",
-  "interstitial":"ca-app-pub-2780984156359274/9258171407",
-  "rewarded":"ca-app-pub-2780984156359274/4765103069",
-  "sponsor":"https://m.youtube.com/c/KhunHtetzNaingX",
-  "show_ad_limit":5,
-  "admob":true
+  "banner": "ca-app-pub-2780984156359274/3172163254",
+  "interstitial": "ca-app-pub-2780984156359274/9258171407",
+  "rewarded": "ca-app-pub-2780984156359274/4765103069",
+  "sponsor": "https://m.youtube.com/c/KhunHtetzNaingX",
+  "show_ad_limit": 5,
+  "admob": true,
+  "img": "https://i.imgur.com/",
+  "font": "https://gitcdn.link/repo/KhunHtetzNaing/zFont_Fonts/master",
+  "lang": [
+    {
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/arabic.json",
+      "name": "Arabic"
+    },
+    {
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/chakma.json",
+      "name": "Chakma"
+    },
+    {
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/chinese.json",
+      "name": "Chinese"
+    },
+    {
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/english.json",
+      "name": "English"
+    },
+    {
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/khmer.json",
+      "name": "Khmer"
+    },
+    {
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/lao.json",
+      "name": "Lao"
+    },
+    {
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/myanmar.json",
+      "name": "Myanmar"
+    },
+    {
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/paoh.json",
+      "name": "PaOh"
+    },
+    {
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/russian.json",
+      "name": "Russian"
+    },
+    {
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/shan.json",
+      "name": "Shan"
+    },
+    {
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/tai_tham.json",
+      "name": "Tai Tham"
+    },
+    {
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/thai.json",
+      "name": "Thai"
+    },
+    {
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/vietnamese.json",
+      "name": "Vietnamese"
+    }
+  ],
+  "rooted": [
+    {
+      "Myanmar": [
+        "SmartZawgyi.ttf",
+        "ZawgyiOne.ttf",
+        "Padauk.ttf",
+        "Padauk-book.ttf",
+        "Padauk-bookbold.ttf",
+        "NotoSansMyanmar-Bold.ttf",
+        "NotoSansMyanmar-Regular.ttf",
+        "NotoSansMyanmarUI-Bold.ttf",
+        "NotoSansMyanmarUI-Regular.ttf",
+        "SamsungMyanmar.ttf",
+        "ZawgyiOne2008.ttf",
+        "mmsd.ttf",
+        "NotoSansMyanmarZawgyi-Bold.ttf",
+        "NotoSansMyanmarZawgyi-Regular.ttf",
+        "NotoSansMyanmar-Bold-ZawDecode.ttf",
+        "NotoSansMyanmar-Regular-ZawDecode.ttf",
+        "NotoSansMyanmarUI-Bold-ZawDecode.ttf",
+        "NotoSansMyanmarUI-Regular-ZawDecode.ttf"
+      ],
+      "English": [
+        "Roboto-Medium.ttf",
+        "Roboto-Light.ttf",
+        "GoogleSans-Italic.ttf",
+        "RobotoCondensed-Bold.ttf",
+        "RobotoCondensed-Light.ttf",
+        "Roboto-Regular.ttf",
+        "Roboto-MediumItalic.ttf",
+        "GoogleSans-Bold.ttf",
+        "RobotoCondensed-Italic.ttf",
+        "RobotoCondensed-BoldItalic.ttf",
+        "GoogleSans-BoldItalic.ttf",
+        "GoogleSans-Regular.ttf",
+        "RobotoCondensed-Medium.ttf",
+        "RobotoCondensed-LightItalic.ttf",
+        "GoogleSans-MediumItalic.ttf",
+        "Roboto-ThinItalic.ttf",
+        "RobotoCondensed-Regular.ttf",
+        "RobotoCondensed-MediumItalic.ttf",
+        "Roboto-BoldItalic.ttf",
+        "Roboto-LightItalic.ttf",
+        "Roboto-Italic.ttf",
+        "Roboto-BlackItalic.ttf",
+        "Roboto-Bold.ttf",
+        "Roboto-Thin.ttf",
+        "ProductSans-Regular.ttf",
+        "Roboto-Black.ttf",
+        "GoogleSans-Medium.ttf"
+      ],
+      "Emoji": [
+        "NotoColorEmoji.ttf"
+      ]
+    }
+  ],
+  "featured": [
+    {
+      "url": "/Fonts/Color/Yggdrassil_color.ttf",
+      "title": "Yggdrassil_color",
+      "size": "967 KB",
+      "thumbnail": "zYune0b.png",
+      "web": false,
+      "preview": "PjemQwR.png"
+    },
+    {
+      "url": "/Fonts/Cool/MasterPan.ttf",
+      "title": "MasterPan",
+      "size": "162 KB",
+      "thumbnail": "Dpmxveu.png",
+      "web": false,
+      "preview": "m1jTU7j.png"
+    },
+    {
+      "url": "/Fonts/Emoji/iOS12.ttf",
+      "title": "iOS12",
+      "size": "17.1 MB",
+      "thumbnail": "0n0KZgn.png",
+      "preview": "el5HtiX.jpg"
+    },
+    {
+      "url": "/Fonts/Language/Myanmar/Unicode/Pyidaungsu-2.5.3_Regular.ttf",
+      "title": "Pyidaungsu-2.5.3_Regular",
+      "size": "185 KB",
+      "thumbnail": "cLH1NNY.png",
+      "preview": "0I1UPdN.jpg"
+    }
+  ]
 }
