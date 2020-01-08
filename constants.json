@@ -6,7 +6,7 @@
   "show_ad_limit": 5,
   "admob": true,
   "img": "https://i.imgur.com/",
-  "font": "https://gitcdn.link/repo/KhunHtetzNaing/zFont_Fonts/master",
+  "font": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master",
   "lang": [
     {
       "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/arabic.json",
