@@ -125,7 +125,8 @@
       "size": "967 KB",
       "thumbnail": "zYune0b.png",
       "web": false,
-      "preview": "PjemQwR.png"
+      "preview": "PjemQwR.png",
+      "cat":"Color"
     },
     {
       "url": "/Fonts/Cool/MasterPan.ttf",
@@ -133,21 +134,24 @@
       "size": "162 KB",
       "thumbnail": "Dpmxveu.png",
       "web": false,
-      "preview": "m1jTU7j.png"
+      "preview": "m1jTU7j.png",
+      "cat":"Cool"
     },
     {
-      "url": "/Fonts/Emoji/iOS12.ttf",
-      "title": "iOS12",
-      "size": "17.1 MB",
+      "url": "/Fonts/Emoji/iOS13.2.ttf",
+      "title": "iOS13.2",
+      "size": "42.1 MB",
       "thumbnail": "0n0KZgn.png",
-      "preview": "el5HtiX.jpg"
+      "preview": "el5HtiX.jpg",
+      "cat":"iOS"
     },
     {
       "url": "/Fonts/Language/Myanmar/Unicode/Pyidaungsu-2.5.3_Regular.ttf",
       "title": "Pyidaungsu-2.5.3_Regular",
       "size": "185 KB",
       "thumbnail": "cLH1NNY.png",
-      "preview": "0I1UPdN.jpg"
+      "preview": "0I1UPdN.jpg",
+      "cat":"Myanmar"
     }
   ]
 }
