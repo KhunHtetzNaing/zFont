@@ -1,6 +1,47 @@
 [
   {
     "in": true,
+    "n": "iOS_v13.3",
+    "u": "/Fonts/Emoji/iOS_v13.3.ttf",
+    "s": "42.1 MB",
+    "t": "PZbgVf3.png",
+    "a": "Newgon@XDA"
+  },
+  {
+    "a": "Newgon@XDA",
+    "in": true,
+    "n": "Facebook_v4.0",
+    "u": "/Fonts/Emoji/Facebook_v4.0.ttf",
+    "s": "36.7 MB",
+    "t": "I5gkNR4.png"
+  },
+  {
+    "in": true,
+    "n": "WhatsApp_v1.1",
+    "u": "/Fonts/Emoji/WhatsApp_v1.1.ttf",
+    "s": "33.9 MB",
+    "t": "njCX5wn.png",
+    "a": "Newgon@XDA"
+  },
+  {
+    "in": true,
+    "n": "Windows10+iOSFlag",
+    "u": "/Fonts/Emoji/Windows10+iOSFlag.ttf",
+    "s": "10.4 MB",
+    "t": "nx0ygOj.png",
+    "a": "Newgon@XDA"
+  },
+  {
+    "in": true,
+    "n": "OpenMoji_v12.1",
+    "u": "/Fonts/Emoji/OpenMoji_v12.1.ttf",
+    "s": "3.38 MB",
+    "t": "bwfYlXS.png",
+    "a": "Newgon@XDA"
+  },
+  {
+    "a": "Newgon@XDA",
+    "in": true,
     "n": "iOS13.2",
     "u": "/Fonts/Emoji/iOS13.2.ttf",
     "s": "42.1 MB",

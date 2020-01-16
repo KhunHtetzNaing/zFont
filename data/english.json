@@ -1,5 +1,149 @@
 [
   {
+    "a": "Firman Akbar",
+    "in": true,
+    "n": "BurbankBigCondensed",
+    "u": "/Fonts/Language/English/BurbankBigCondensed.ttf",
+    "s": "109 KB",
+    "t": "C5uQ3Zo.png"
+  },
+  {
+    "a": "Cekodok Pisang",
+    "in": true,
+    "n": "Yellowtail",
+    "u": "/Fonts/Language/English/Yellowtail.ttf",
+    "s": "65 KB",
+    "t": "GcJTUvI.png"
+  },
+  {
+    "a": "Aa'esha Umm Luqman",
+    "in": true,
+    "n": "CaviarDreamBold",
+    "u": "/Fonts/Language/English/CaviarDreamBold.ttf",
+    "s": "54 KB",
+    "t": "xa99m8t.png"
+  },
+  {
+    "a": "Lorenze Mae Concepcion",
+    "in": true,
+    "n": "BauhausITC",
+    "u": "/Fonts/Language/English/BauhausITC.ttf",
+    "s": "150 KB",
+    "t": "mUo5oSh.png"
+  },
+  {
+    "a": "Malaya Tojin",
+    "in": true,
+    "n": "Oswald",
+    "u": "/Fonts/Language/English/Oswald.ttf",
+    "s": "72 KB",
+    "t": "tKOiljV.png"
+  },
+  {
+    "a": "Sabbir Hossain",
+    "in": true,
+    "n": "Bangla",
+    "u": "/Fonts/Language/English/Bangla.ttf",
+    "s": "183 KB",
+    "t": "N7ODHGZ.png"
+  },
+  {
+    "a": "Abdullah Al Mahmud",
+    "in": true,
+    "n": "BalooDa",
+    "u": "/Fonts/Language/English/BalooDa.ttf",
+    "s": "427 KB",
+    "t": "hbL9m1n.png"
+  },
+  {
+    "a": "Kevin Donato",
+    "in": true,
+    "n": "SFCartoonistHand",
+    "u": "/Fonts/Language/English/SFCartoonistHand.ttf",
+    "s": "55 KB",
+    "t": "WLZNRTk.png"
+  },
+  {
+    "a": "Kevin Donato",
+    "in": true,
+    "n": "SFCartoonistHandSC",
+    "u": "/Fonts/Language/English/SFCartoonistHandSC.ttf",
+    "s": "58 KB",
+    "t": "RE7EemH.png"
+  },
+  {
+    "a": "Malaya Tojin",
+    "in": true,
+    "n": "PriceDown",
+    "u": "/Fonts/Language/English/PriceDown.ttf",
+    "s": "182 KB",
+    "t": "ODYofN6.png"
+  },
+  {
+    "a": "Bravo M Justin",
+    "in": true,
+    "n": "DeiYLatin",
+    "u": "/Fonts/Language/English/DeiYLatin.ttf",
+    "s": "29 KB",
+    "t": "1CGzwrD.png"
+  },
+  {
+    "a": "Asep Firmansyah",
+    "in": true,
+    "n": "TimesNewRoman",
+    "u": "/Fonts/Language/English/TimesNewRoman.ttf",
+    "s": "75 KB",
+    "t": "obb0OgG.png"
+  },
+  {
+    "a": "Logan Sotgiu",
+    "in": true,
+    "n": "Atma",
+    "u": "/Fonts/Language/English/Atma.ttf",
+    "s": "215 KB",
+    "t": "Peru8VB.png"
+  },
+  {
+    "a": "Natli Ruby",
+    "in": true,
+    "n": "DJB_Drives_Me_Dotty",
+    "u": "/Fonts/Language/English/DJB_Drives_Me_Dotty.ttf",
+    "s": "62 KB",
+    "t": "OfMoVJB.png"
+  },
+  {
+    "a": "Marielle Laurent",
+    "in": true,
+    "n": "Asinastra",
+    "u": "/Fonts/Language/English/Asinastra.ttf",
+    "s": "32 KB",
+    "t": "EXd529k.png"
+  },
+  {
+    "a": "Jonayed Ahmmed Ratul",
+    "in": true,
+    "n": "Galada",
+    "u": "/Fonts/Language/English/Galada.ttf",
+    "s": "183 KB",
+    "t": "N81btCl.png"
+  },
+  {
+    "a": "Divafi",
+    "in": true,
+    "n": "Danila",
+    "u": "/Fonts/Language/English/Danila.ttf",
+    "s": "22 KB",
+    "t": "cNrQi1Q.png"
+  },
+  {
+    "a": "Marcel Tapies Rubio",
+    "in": true,
+    "n": "OldLondon",
+    "u": "/Fonts/Language/English/OldLondon.ttf",
+    "s": "49 KB",
+    "t": "yV9Qb1v.png"
+  },
+  {
     "n": "Muli-ExtraLight",
     "u": "/Fonts/Language/English/Muli/Muli-ExtraLight.ttf",
     "in": true,

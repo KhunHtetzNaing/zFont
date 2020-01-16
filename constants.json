@@ -59,6 +59,14 @@
     {
       "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/vietnamese.json",
       "name": "Vietnamese"
+    },
+    {
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/urdu.json",
+      "name": "Urdu"
+    },
+    {
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/bengali.json",
+      "name": "Bengali"
     }
   ],
   "rooted": [
@@ -126,7 +134,7 @@
       "thumbnail": "zYune0b.png",
       "web": false,
       "preview": "PjemQwR.png",
-      "cat":"Color"
+      "cat": "Color"
     },
     {
       "url": "/Fonts/Cool/MasterPan.ttf",
@@ -135,7 +143,7 @@
       "thumbnail": "Dpmxveu.png",
       "web": false,
       "preview": "m1jTU7j.png",
-      "cat":"Cool"
+      "cat": "Cool"
     },
     {
       "url": "/Fonts/Emoji/iOS13.2.ttf",
@@ -143,7 +151,7 @@
       "size": "42.1 MB",
       "thumbnail": "0n0KZgn.png",
       "preview": "el5HtiX.jpg",
-      "cat":"Emoji"
+      "cat": "Emoji"
     },
     {
       "url": "/Fonts/Language/Myanmar/Unicode/Pyidaungsu-2.5.3_Regular.ttf",
@@ -151,7 +159,7 @@
       "size": "185 KB",
       "thumbnail": "cLH1NNY.png",
       "preview": "0I1UPdN.jpg",
-      "cat":"Myanmar"
+      "cat": "Myanmar"
     }
   ]
 }
