@@ -1,58 +1,56 @@
 [
-  [
-    {
-      "a": "Ch Phaitoon",
-      "in": true,
-      "n": "ChocoCooky",
-      "u": "/Fonts/Language/Thai/ChocoCooky.ttf",
-      "s": "1.42 MB",
-      "t": "dgamWk4.png"
-    },
-    {
-      "n": "Thonburi",
-      "u": "/Fonts/Language/Thai/Thonburi.ttf",
-      "in": true,
-      "s": "218 KB",
-      "t": "CPnUnyd.png",
-      "a": "Jëtsädäkörn Thinöċhäi"
-    },
-    {
-      "n": "Beer",
-      "u": "/Fonts/Language/Thai/Beer.ttf",
-      "in": true,
-      "s": "86 KB",
-      "t": "LDiXejt.png",
-      "a": "lipgo"
-    },
-    {
-      "n": "WRTishIdol",
-      "u": "/Fonts/Language/Thai/WRTishIdol.ttf",
-      "in": true,
-      "s": "120 KB",
-      "t": "0ZQy7gj.png",
-      "a": "Bowbow Wawa"
-    }
-  ],
+  {
+    "in": true,
+    "n": "ChocoCooky",
+    "u": "/Fonts/Language/Thai/ChocoCooky.ttf",
+    "s": "1.42 MB",
+    "a": "Ch Phaitoon",
+    "t": "dgamWk4.png"
+  },
+  {
+    "in": true,
+    "n": "Thonburi",
+    "u": "/Fonts/Language/Thai/Thonburi.ttf",
+    "s": "218 KB",
+    "t": "CPnUnyd.png",
+    "a": "Jëtsädäkörn Thinöċhäi"
+  },
+  {
+    "n": "Beer",
+    "u": "/Fonts/Language/Thai/Beer.ttf",
+    "s": "86 KB",
+    "t": "LDiXejt.png",
+    "in": true,
+    "a": "lipgo"
+  },
+  {
+    "n": "WRTishIdol",
+    "u": "/Fonts/Language/Thai/WRTishIdol.ttf",
+    "s": "120 KB",
+    "t": "0ZQy7gj.png",
+    "in": true,
+    "a": "Bowbow Wawa"
+  },
   {
     "n": "สับปะรด",
     "u": "/Fonts/Language/Thai/สับปะรด.ttf",
-    "in": false,
     "s": "158 KB",
-    "t": "TbK7Sdq.png"
+    "t": "TbK7Sdq.png",
+    "in": false
   },
   {
     "n": "TH-Chakra-Petch-Bold",
     "u": "/Fonts/Language/Thai/TH-Chakra-Petch-Bold.ttf",
-    "in": false,
     "s": "69 KB",
-    "t": "RnAoUhV.png"
+    "t": "RnAoUhV.png",
+    "in": false
   },
   {
     "n": "RDCHULAJARUEK",
     "u": "/Fonts/Language/Thai/RDCHULAJARUEK.ttf",
-    "in": false,
     "s": "76 KB",
-    "t": "6cXbCH1.png"
+    "t": "6cXbCH1.png",
+    "in": false
   },
   {
     "n": "thaisanslite_r1",
@@ -203,8 +201,8 @@
   },
   {
     "n": "คุณจะรักฉันไหม",
-    "u": "/Fonts/Language/Thai/คุณจะรักฉันไหม.ttf",
     "s": "143 KB",
+    "u": "/Fonts/Language/Thai/คุณจะรักฉันไหม.ttf",
     "t": "jAA3Tra.png",
     "in": false
   },
@@ -279,46 +277,46 @@
     "in": false
   },
   {
+    "in": false,
     "n": "WRTishidolRegular",
     "u": "/Fonts/Language/Thai/WRTishidolRegular.ttf",
     "s": "120 KB",
-    "t": "tWeRdNo.png",
-    "in": false
+    "t": "tWeRdNo.png"
   },
   {
+    "in": false,
     "n": "อาหารไทย",
     "u": "/Fonts/Language/Thai/อาหารไทย.ttf",
     "s": "74 KB",
-    "t": "bLXZF5Z.png",
-    "in": false
+    "t": "bLXZF5Z.png"
   },
   {
+    "in": false,
     "n": "NotoSansThaiUI-Regular",
     "u": "/Fonts/Language/Thai/NotoSansThaiUI-Regular.ttf",
     "s": "22 KB",
-    "t": "AJ3Fms4.png",
-    "in": false
+    "t": "AJ3Fms4.png"
   },
   {
+    "in": false,
     "n": "CHAWPMAI",
     "u": "/Fonts/Language/Thai/CHAWPMAI.ttf",
     "s": "22 KB",
-    "t": "9EprDNj.png",
-    "in": false
+    "t": "9EprDNj.png"
   },
   {
+    "in": false,
     "n": "WRTishSmile",
     "u": "/Fonts/Language/Thai/WRTishSmile.ttf",
     "s": "120 KB",
-    "t": "XK8ZnzE.png",
-    "in": false
+    "t": "XK8ZnzE.png"
   },
   {
+    "in": false,
     "n": "มีชื่อเสียง",
     "u": "/Fonts/Language/Thai/มีชื่อเสียง.ttf",
     "s": "164 KB",
-    "t": "zTiXhK8.png",
-    "in": false
+    "t": "zTiXhK8.png"
   },
   {
     "n": "SR-FahJon-NP",
@@ -360,32 +358,32 @@
     "t": "ZzEVZmP.png"
   },
   {
-    "u": "/Fonts/Language/Thai/Garuda.ttf",
     "n": "Garuda",
+    "u": "/Fonts/Language/Thai/Garuda.ttf",
     "s": "73 KB",
     "t": "SF0xkaL.png"
   },
   {
-    "u": "/Fonts/Language/Thai/Book_Akhanake.ttf",
     "n": "Book_Akhanake",
+    "u": "/Fonts/Language/Thai/Book_Akhanake.ttf",
     "s": "110 KB",
     "t": "XSa2u6b.png"
   },
   {
-    "u": "/Fonts/Language/Thai/Circular.ttf",
     "n": "Circular",
+    "u": "/Fonts/Language/Thai/Circular.ttf",
     "s": "84 KB",
     "t": "dyNpi5K.png"
   },
   {
-    "u": "/Fonts/Language/Thai/rtE-Porama-Regular.ttf",
     "n": "rtE-Porama-Regular",
+    "u": "/Fonts/Language/Thai/rtE-Porama-Regular.ttf",
     "s": "75 KB",
     "t": "FP8wEaC.png"
   },
   {
-    "u": "/Fonts/Language/Thai/EDSense.ttf",
     "n": "EDSense",
+    "u": "/Fonts/Language/Thai/EDSense.ttf",
     "s": "97 KB",
     "t": "fjHiJvS.png"
   },
