@@ -3,10 +3,34 @@
   "interstitial": "ca-app-pub-2780984156359274/9258171407",
   "rewarded": "ca-app-pub-2780984156359274/4765103069",
   "sponsor": "https://www.joox.com/mm/single/7vs2FMw0tuLt5WKICxlYgw==",
-  "show_ad_limit": 5,
+  "show_ad_limit": 10,
   "admob": true,
   "img": "https://i.imgur.com/",
   "font": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master",
+  "ss_font":"https://github.com/KhunHtetzNaing/SS_zFont/raw/master/apk/",
+  "ss_img":"https://github.com/KhunHtetzNaing/SS_zFont/raw/master/img/",
+  "oppo_fonts": [
+    {
+      "name": "X-Gclint Hello",
+      "id": "30d34a23967d71fa9ede8fc499d3b72a.ctr"
+    },
+    {
+      "name": "Furious Hello",
+      "id": "e3784fea84de59c33636de743ad7be59.ctr"
+    },
+    {
+      "name": "Freedom Hello",
+      "id": "9e5ca1590a9af6e4b03e5b9d467c64db.ctr"
+    },
+    {
+      "name": "OppoSans-Regular",
+      "id": "5b3ce293e4a1457881d228d24469fc7e.ctr"
+    },
+    {
+      "name": "KK Milky Tea Hello",
+      "id": "ebe2f9c7514c852ede0ad3c412370007.ctr"
+    }
+  ],
   "lang": [
     {
       "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/arabic.json",
