@@ -3,13 +3,13 @@
   "interstitial": "ca-app-pub-2780984156359274/9258171407",
   "rewarded": "ca-app-pub-2780984156359274/4765103069",
   "sponsor": "http://onemboaran.com/afu.php?zoneid=2795394",
-  "custom_js":"",
+  "custom_js": "",
   "show_ad_limit": 10,
   "admob": true,
   "img": "https://i.imgur.com/",
   "font": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master",
-  "ss_font":"https://github.com/KhunHtetzNaing/SS_zFont/raw/master/apk/",
-  "ss_img":"https://github.com/KhunHtetzNaing/SS_zFont/raw/master/img/",
+  "ss_font": "https://github.com/KhunHtetzNaing/SS_zFont/raw/master/apk/",
+  "ss_img": "https://github.com/KhunHtetzNaing/SS_zFont/raw/master/img/",
   "oppo_fonts": [
     {
       "name": "X-Gclint Hello",
@@ -92,6 +92,10 @@
     {
       "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/bengali.json",
       "name": "Bengali"
+    },
+    {
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/ukrainian.json",
+      "name": "Ukrainian"
     }
   ],
   "rooted": [
