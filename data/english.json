@@ -1,5 +1,85 @@
 [
   {
+    "a": "Dinette Dismon",
+    "in": true,
+    "n": "Century_Schoolbook_Bold_Condensed_BT",
+    "u": "/Fonts/Language/English/Century_Schoolbook_Bold_Condensed_BT.ttf",
+    "s": "48 KB",
+    "t": "MHcBjYE.png"
+  },
+  {
+    "a": "Hunter Kole",
+    "in": true,
+    "n": "Comic_Sans_MS",
+    "u": "/Fonts/Language/English/Comic_Sans_MS.ttf",
+    "s": "62 KB",
+    "t": "k2fIfWj.png"
+  },
+  {
+    "a": "georgikidyov",
+    "in": true,
+    "n": "DEC_Terminal_Modern",
+    "u": "/Fonts/Language/English/DEC_Terminal_Modern.ttf",
+    "s": "211 KB",
+    "t": "FiuuiQt.png"
+  },
+  {
+    "a": "Harold Apoc",
+    "in": true,
+    "n": "Espar_Arial_Classic",
+    "u": "/Fonts/Language/English/Espar_Arial_Classic.ttf",
+    "s": "36 KB",
+    "t": "RVpEJzK.png"
+  },
+  {
+    "a": "Ronny220",
+    "in": true,
+    "n": "GoogleSans-Regular",
+    "u": "/Fonts/Language/English/GoogleSans-Regular.ttf",
+    "s": "117 KB",
+    "t": "EKx49D8.png"
+  },
+  {
+    "a": "Brad",
+    "in": true,
+    "n": "JOJO",
+    "u": "/Fonts/Language/English/JOJO.ttf",
+    "s": "27 KB",
+    "t": "Djn0xoV.png"
+  },
+  {
+    "a": "Degree34",
+    "in": true,
+    "n": "LilitaOne-Regular",
+    "u": "/Fonts/Language/English/LilitaOne-Regular.ttf",
+    "s": "27 KB",
+    "t": "BDAtVMc.png"
+  },
+  {
+    "a": "Bloop",
+    "in": true,
+    "n": "Minecraftia-Regular",
+    "u": "/Fonts/Language/English/Minecraftia-Regular.ttf",
+    "s": "68 KB",
+    "t": "watjAD8.png"
+  },
+  {
+    "a": "Dieter Steffmann",
+    "in": true,
+    "n": "Nougat-ExtraBlack",
+    "u": "/Fonts/Language/English/Nougat-ExtraBlack.ttf",
+    "s": "27 KB",
+    "t": "MRNmpth.png"
+  },
+  {
+    "a": "Denis Odintsov",
+    "in": true,
+    "n": "Sumy-Regular",
+    "u": "/Fonts/Language/English/Sumy-Regular.ttf",
+    "s": "42 KB",
+    "t": "1IpiHMk.png"
+  },
+  {
     "a": "Firman Akbar",
     "in": true,
     "n": "BurbankBigCondensed",
