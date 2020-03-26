@@ -1,4 +1,27 @@
 [
+  [
+    {
+      "in": true,
+      "n": "ColorFul",
+      "u": "/Fonts/Color/ColorFul.ttf",
+      "s": "113 KB",
+      "t": "g5R2b9d.png"
+    },
+    {
+      "in": true,
+      "n": "Qlassik",
+      "u": "/Fonts/Color/Qlassik.ttf",
+      "s": "430 KB",
+      "t": "9GFoRrw.png"
+    },
+    {
+      "in": true,
+      "n": "TrueColors",
+      "u": "/Fonts/Color/TrueColors.ttf",
+      "s": "35 KB",
+      "t": "ExJXXmC.png"
+    }
+  ],
   {
     "n": "Yggdrassil_color",
     "t": "zYune0b.png",
