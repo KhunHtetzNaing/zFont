@@ -661,6 +661,27 @@
   ],
   "stylish": [
     {
+      "in": true,
+      "n": "Imprima_Love",
+      "u": "/Fonts/Language/English/TEST/Imprima_Love.ttf",
+      "s": "26 KB",
+      "t": "DVHnGRT.png"
+    },
+    {
+      "in": true,
+      "n": "Marmelad_Ribbon",
+      "u": "/Fonts/Language/English/TEST/Marmelad_Ribbon.ttf",
+      "s": "96 KB",
+      "t": "Wdk37Qd.png"
+    },
+    {
+      "in": true,
+      "n": "Fiesole_Italic",
+      "u": "/Fonts/Language/English/TEST/Fiesole_Italic.ttf",
+      "s": "108 KB",
+      "t": "rryxXaj.png"
+    },
+    {
       "a": "Paras Gawali",
       "in": true,
       "n": "Comic_Book",
@@ -3118,6 +3139,20 @@
   ],
   "myanmar": [
     {
+      "in": true,
+      "n": "Uni-Yang_v2.5.3",
+      "u": "/Fonts/Language/Myanmar/Unicode/Uni-Yang_v2.5.3.ttf",
+      "s": "208 KB",
+      "t": "gOdSkhF.png"
+    },
+    {
+      "in": true,
+      "n": "Uni-Yang(wdc)_v2.5.3",
+      "u": "/Fonts/Language/Myanmar/Unicode/Uni-Yang(wdc)_v2.5.3.ttf",
+      "s": "207 KB",
+      "t": "qyKTsGA.png"
+    },
+    {
       "n": "MyMyanmar",
       "u": "/Fonts/Language/Myanmar/Unicode/MyMyanmar.ttf",
       "in": true,
@@ -3179,13 +3214,6 @@
       "in": true,
       "s": "29 KB",
       "t": "jnJDPXE.png"
-    },
-    {
-      "in": false,
-      "n": "Uni_Yang_v2.5.3",
-      "u": "/Fonts/Language/Myanmar/Unicode/Uni_Yang_v2.5.3.ttf",
-      "s": "208 KB",
-      "t": "3ki0xR9.png"
     },
     {
       "in": false,
