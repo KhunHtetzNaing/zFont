@@ -357,6 +357,111 @@
   ],
   "color": [
     {
+      "in": true,
+      "n": "Color_Font_6",
+      "u": "/Fonts/Color/Color_Font_6.ttf",
+      "s": "14.0 MB",
+      "t": "w7oh2wW.png"
+    },
+    {
+      "in": true,
+      "n": "Color_Font_10",
+      "u": "/Fonts/Color/Color_Font_10.ttf",
+      "s": "16.5 MB",
+      "t": "s53MNyz.png"
+    },
+    {
+      "in": true,
+      "n": "Color_Font_15",
+      "u": "/Fonts/Color/Color_Font_15.ttf",
+      "s": "8.69 MB",
+      "t": "4YNqHQX.png"
+    },
+    {
+      "in": true,
+      "n": "Color_Font_2",
+      "u": "/Fonts/Color/Color_Font_2.ttf",
+      "s": "13.4 MB",
+      "t": "pgQZcQb.png"
+    },
+    {
+      "in": true,
+      "n": "Color_Font_7",
+      "u": "/Fonts/Color/Color_Font_7.ttf",
+      "s": "5.92 MB",
+      "t": "WbdGq8x.png"
+    },
+    {
+      "in": true,
+      "n": "Color_Font_14",
+      "u": "/Fonts/Color/Color_Font_14.ttf",
+      "s": "7.73 MB",
+      "t": "vWFDM96.png"
+    },
+    {
+      "in": true,
+      "n": "Color_Font_3",
+      "u": "/Fonts/Color/Color_Font_3.ttf",
+      "s": "11.9 MB",
+      "t": "ksKzjvp.png"
+    },
+    {
+      "in": true,
+      "n": "Color_Font_9",
+      "u": "/Fonts/Color/Color_Font_9.ttf",
+      "s": "8.34 MB",
+      "t": "bzaSWMT.png"
+    },
+    {
+      "in": true,
+      "n": "Color_Font_11",
+      "u": "/Fonts/Color/Color_Font_11.ttf",
+      "s": "16.2 MB",
+      "t": "lY9RIxz.png"
+    },
+    {
+      "in": true,
+      "n": "Color_Font_1",
+      "u": "/Fonts/Color/Color_Font_1.ttf",
+      "s": "15.8 MB",
+      "t": "UoqROFB.png"
+    },
+    {
+      "in": true,
+      "n": "Color_Font_5",
+      "u": "/Fonts/Color/Color_Font_5.ttf",
+      "s": "8.96 MB",
+      "t": "RgWFVeq.png"
+    },
+    {
+      "in": true,
+      "n": "Color_Font_8",
+      "u": "/Fonts/Color/Color_Font_8.ttf",
+      "s": "14.1 MB",
+      "t": "ppp2Pmr.png"
+    },
+    {
+      "in": true,
+      "n": "Color_Font_13",
+      "u": "/Fonts/Color/Color_Font_13.ttf",
+      "s": "10.6 MB",
+      "t": "nSzeGew.png"
+    },
+    {
+      "in": true,
+      "n": "Color_Font_4",
+      "u": "/Fonts/Color/Color_Font_4.ttf",
+      "s": "9.33 MB",
+      "t": "99nsFcd.png"
+    },
+    {
+      "in": true,
+      "n": "Color_Font_12",
+      "u": "/Fonts/Color/Color_Font_12.ttf",
+      "s": "8.03 MB",
+      "t": "XF3Fkby.png"
+    },
+    {
       "n": "ColorFul",
       "u": "/Fonts/Color/ColorFul.ttf",
       "s": "113 KB",
