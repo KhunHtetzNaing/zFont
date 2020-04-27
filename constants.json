@@ -356,24 +356,22 @@
     }
   ],
   "color": [
-    [
-      {
-        "a": "purbasha Jio",
-        "in": true,
-        "n": "color_party",
-        "u": "/Fonts/Color/color_party.ttf",
-        "s": "344 KB",
-        "t": "AXClOsg.png"
-      },
-      {
-        "a": "purbasha Jio",
-        "in": true,
-        "n": "X-lovely_girl",
-        "u": "/Fonts/Color/X-lovely_girl.ttf",
-        "s": "417 KB",
-        "t": "Xkl3p1u.png"
-      }
-    ],
+    {
+      "a": "purbasha Jio",
+      "in": true,
+      "n": "color_party",
+      "u": "/Fonts/Color/color_party.ttf",
+      "s": "344 KB",
+      "t": "AXClOsg.png"
+    },
+    {
+      "a": "purbasha Jio",
+      "in": true,
+      "n": "X-lovely_girl",
+      "u": "/Fonts/Color/X-lovely_girl.ttf",
+      "s": "417 KB",
+      "t": "Xkl3p1u.png"
+    },
     {
       "in": true,
       "n": "Color_Font_6",
