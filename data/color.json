@@ -1,27 +1,32 @@
 [
-  
-    {
-      
-      "n": "ColorFul",
-      "u": "/Fonts/Color/ColorFul.ttf",
-      "s": "113 KB",
-      "t": "g5R2b9d.png"
-    },
-    {
-      "in": true,
-      "n": "Qlassik",
-      "u": "/Fonts/Color/Qlassik.ttf",
-      "s": "430 KB",
-      "t": "9GFoRrw.png"
-    },
-    {
-      "in": true,
-      "n": "TrueColors",
-      "u": "/Fonts/Color/TrueColors.ttf",
-      "s": "35 KB",
-      "t": "ExJXXmC.png"
-    }
-  ,
+  {
+    "a": "purbasha Jio",
+    "in": true,
+    "n": "youth_colours",
+    "u": "/Fonts/Color/youth_colours.ttf",
+    "s": "679 KB",
+    "t": "ugE5Uuj.png"
+  },
+  {
+    "n": "ColorFul",
+    "u": "/Fonts/Color/ColorFul.ttf",
+    "s": "113 KB",
+    "t": "g5R2b9d.png"
+  },
+  {
+    "in": true,
+    "n": "Qlassik",
+    "u": "/Fonts/Color/Qlassik.ttf",
+    "s": "430 KB",
+    "t": "9GFoRrw.png"
+  },
+  {
+    "in": true,
+    "n": "TrueColors",
+    "u": "/Fonts/Color/TrueColors.ttf",
+    "s": "35 KB",
+    "t": "ExJXXmC.png"
+  },
   {
     "n": "Yggdrassil_color",
     "t": "zYune0b.png",
