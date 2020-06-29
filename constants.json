@@ -179,19 +179,19 @@
       "cat": "Cool"
     },
     {
-      "url": "/Fonts/Emoji/iOS13.2.ttf",
-      "title": "iOS13.2",
-      "size": "42.1 MB",
-      "thumbnail": "0n0KZgn.png",
-      "preview": "el5HtiX.jpg",
+      "url": "/Fonts/Emoji/iOS_v14.ttf",
+      "title": "iOS_v14",
+      "size": "20.5 MB",
+      "thumbnail": "X6LFGqH.png",
+      "preview": "RDL4AQh.jpg",
       "cat": "Emoji"
     },
     {
-      "url": "/Fonts/Language/Myanmar/Unicode/Pyidaungsu-2.5.3_Regular.ttf",
+      "url": "/Fonts/Language/English/SanFransisco.ttf",
       "title": "Pyidaungsu-2.5.3_Regular",
-      "size": "185 KB",
-      "thumbnail": "cLH1NNY.png",
-      "preview": "0I1UPdN.jpg",
+      "size": "181 KB",
+      "thumbnail": "cHVHV9Y.png",
+      "preview": "hwPQMCl.jpg",
       "cat": "Myanmar"
     }
   ],
