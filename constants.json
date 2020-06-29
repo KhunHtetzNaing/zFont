@@ -161,7 +161,7 @@
   ],
   "featured": [
     {
-      "url": "/Fonts/Color/Yggdrassil_color.ttf",
+      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Color/Yggdrassil_color.ttf",
       "title": "Yggdrassil_color",
       "size": "967 KB",
       "thumbnail": "zYune0b.png",
@@ -170,7 +170,7 @@
       "cat": "Color"
     },
     {
-      "url": "/Fonts/Cool/MasterPan.ttf",
+      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Cool/MasterPan.ttf",
       "title": "MasterPan",
       "size": "162 KB",
       "thumbnail": "Dpmxveu.png",
@@ -179,7 +179,7 @@
       "cat": "Cool"
     },
     {
-      "url": "/Fonts/Emoji/iOS_v14.ttf",
+      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Emoji/iOS_v14.ttf",
       "title": "iOS_v14",
       "size": "20.5 MB",
       "thumbnail": "X6LFGqH.png",
@@ -187,8 +187,8 @@
       "cat": "Emoji"
     },
     {
-      "url": "/Fonts/Language/English/SanFransisco.ttf",
-      "title": "Pyidaungsu-2.5.3_Regular",
+      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Language/English/SanFransisco.ttf",
+      "title": "SanFransisco",
       "size": "181 KB",
       "thumbnail": "cHVHV9Y.png",
       "preview": "hwPQMCl.jpg",
