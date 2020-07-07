@@ -197,6 +197,7 @@
   ],
   "emoji": [
     {
+      "a":"RickyBush_",
       "in": true,
       "n": "iOS_v14",
       "u": "/Fonts/Emoji/iOS_v14.ttf",
@@ -204,7 +205,54 @@
       "t": "X6LFGqH.png"
     },
     {
+      "a": "RickyBush_",
       "in": true,
+      "n": "Kitchen+Google11Beta",
+      "u": "/Fonts/Emoji/Kitchen+Google11Beta.ttf",
+      "s": "9.79 MB",
+      "t": "TnHJSiK.png"
+    },
+    {
+      "a": "RickyBush_",
+      "in": true,
+      "n": "FaceBook5.0",
+      "u": "/Fonts/Emoji/FaceBook5.0.ttf",
+      "s": "12.3 MB",
+      "t": "bL97H4Z.png"
+    },
+    {
+      "a": "RickyBush_",
+      "in": true,
+      "n": "JoyPixel",
+      "u": "/Fonts/Emoji/JoyPixel.ttf",
+      "s": "22.1 MB",
+      "t": "IDqpw3X.png"
+    },
+    {
+      "a": "RickyBush_",
+      "in": true,
+      "n": "Android_11_Beta",
+      "u": "/Fonts/Emoji/Android_11_Beta.ttf",
+      "s": "9.26 MB",
+      "t": "hf5DFuA.png"
+    },
+    {
+      "a": "RickyBush_",
+      "in": true,
+      "n": "EmojiDex",
+      "u": "/Fonts/Emoji/EmojiDex.ttf",
+      "s": "33.2 MB",
+      "t": "COqhcBX.png"
+    },
+    {
+      "a": "RickyBush_",
+      "in": true,
+      "n": "JoyPixel_NoNum",
+      "u": "/Fonts/Emoji/JoyPixel_NoNum.ttf",
+      "s": "22.1 MB",
+      "t": "nUOPPy0.png"
+    },
+    {
       "n": "iOS_v13.3",
       "u": "/Fonts/Emoji/iOS_v13.3.ttf",
       "s": "42.1 MB",
@@ -213,14 +261,12 @@
     },
     {
       "a": "Newgon@XDA",
-      "in": true,
       "n": "Facebook_v4.0",
       "u": "/Fonts/Emoji/Facebook_v4.0.ttf",
       "s": "36.7 MB",
       "t": "I5gkNR4.png"
     },
     {
-      "in": true,
       "n": "WhatsApp_v1.1",
       "u": "/Fonts/Emoji/WhatsApp_v1.1.ttf",
       "s": "33.9 MB",
@@ -228,7 +274,6 @@
       "a": "Newgon@XDA"
     },
     {
-      "in": true,
       "n": "Windows10+iOSFlag",
       "u": "/Fonts/Emoji/Windows10+iOSFlag.ttf",
       "s": "10.4 MB",
@@ -236,7 +281,6 @@
       "a": "Newgon@XDA"
     },
     {
-      "in": true,
       "n": "OpenMoji_v12.1",
       "u": "/Fonts/Emoji/OpenMoji_v12.1.ttf",
       "s": "3.38 MB",
@@ -245,7 +289,6 @@
     },
     {
       "a": "Newgon@XDA",
-      "in": true,
       "n": "iOS13.2",
       "u": "/Fonts/Emoji/iOS13.2.ttf",
       "s": "42.1 MB",
@@ -254,14 +297,12 @@
     {
       "n": "iOS10.2",
       "u": "/Fonts/Emoji/iOS10.2.ttf",
-      "in": true,
       "s": "41.2 MB",
       "t": "hyLk7LD.png"
     },
     {
       "n": "IOS12.1",
       "u": "/Fonts/Emoji/iOS12.1.ttf",
-      "in": true,
       "s": "24.8 MB",
       "t": "4jssrGb.png"
     },
