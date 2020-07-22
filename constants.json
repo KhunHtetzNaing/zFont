@@ -3789,6 +3789,14 @@
   "myanmar": [
     {
       "in": true,
+      "n": "Myanmar_Old_Oppo",
+      "a":"Khon Zaw Thu",
+      "u": "/Fonts/Language/Myanmar/Unicode/Myanmar_Old_Oppo.ttf",
+      "s": "161 KB",
+      "t": "NKR1Gd0.png"
+    },
+    {
+      "in": true,
       "n": "Uni-Yang_v2.5.3",
       "u": "/Fonts/Language/Myanmar/Unicode/Uni-Yang_v2.5.3.ttf",
       "s": "208 KB",
