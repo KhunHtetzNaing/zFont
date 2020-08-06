@@ -3788,742 +3788,1417 @@
   ],
   "myanmar": [
     {
+      "unicode": true,
       "in": true,
-      "m": 29,
-      "n": "MyanmarEthnic_Pink",
-      "u": "/Fonts/Language/Myanmar/Unicode/color/MyanmarEthnic_Pink.ttf",
-      "s": "186 KB",
-      "t": "w1MmmCM.png"
-    },
-    {
-      "in": true,
-      "m": 29,
-      "n": "MyanmarWebPro_RedPink",
-      "u": "/Fonts/Language/Myanmar/Unicode/color/MyanmarWebPro_RedPink.ttf",
-      "s": "195 KB",
-      "t": "TIRMZlj.png"
-    },
-    {
-      "in": true,
-      "m": 29,
-      "n": "MyanmarYellow_FlowerColor",
-      "u": "/Fonts/Language/Myanmar/Unicode/color/MyanmarYellow_FlowerColor.ttf",
-      "s": "202 KB",
-      "t": "WUDxlbd.png"
-    },
-    {
-      "in": true,
-      "m": 29,
-      "n": "NamTeng_Green",
-      "u": "/Fonts/Language/Myanmar/Unicode/color/NamTeng_Green.ttf",
-      "s": "249 KB",
-      "t": "Bp9keCm.png"
-    },
-    {
-      "in": true,
-      "m": 29,
-      "n": "NamTeng_Blue",
-      "u": "/Fonts/Language/Myanmar/Unicode/color/NamTeng_Blue.ttf",
-      "s": "249 KB",
-      "t": "DU32sSs.png"
-    },
-    {
-      "in": true,
-      "m": 29,
-      "n": "MyanmarEthnic_Dark_pink",
-      "u": "/Fonts/Language/Myanmar/Unicode/color/MyanmarEthnic_Dark_pink.ttf",
-      "s": "186 KB",
-      "t": "QjHKEBj.png"
-    },
-    {
-      "in": true,
-      "m": 29,
-      "n": "MyanmarEthnic_Blue",
-      "u": "/Fonts/Language/Myanmar/Unicode/color/MyanmarEthnic_Blue.ttf",
-      "s": "186 KB",
-      "t": "BgtTqYx.png"
-    },
-    {
-      "in": true,
-      "m": 29,
-      "n": "NamTeng_Pink",
-      "u": "/Fonts/Language/Myanmar/Unicode/color/NamTeng_Pink.ttf",
-      "s": "249 KB",
-      "t": "q3ZdQYR.png"
-    },
-    {
-      "in": true,
-      "m": 29,
-      "n": "MyanmarJojar_Pink",
-      "u": "/Fonts/Language/Myanmar/Unicode/color/MyanmarJojar_Pink.ttf",
-      "s": "144 KB",
-      "t": "DzSWrES.png"
-    },
-    {
-      "in": true,
-      "m": 29,
-      "n": "MyanmarJojarPro_Pink",
-      "u": "/Fonts/Language/Myanmar/Unicode/color/MyanmarJojarPro_Pink.ttf",
-      "s": "208 KB",
-      "t": "cKVyDyX.png"
-    },
-    {
-      "in": false,
       "n": "Myanmar_Old_Oppo",
-      "a": "Khon Zaw Thu",
       "u": "/Fonts/Language/Myanmar/Unicode/Myanmar_Old_Oppo.ttf",
       "s": "161 KB",
-      "t": "NKR1Gd0.png"
+      "t": "8b3kRB3.png",
+      "a": "Kyaw Swar"
     },
     {
-      "in": false,
-      "n": "Uni-Yang_v2.5.3",
-      "u": "/Fonts/Language/Myanmar/Unicode/Uni-Yang_v2.5.3.ttf",
-      "s": "208 KB",
-      "t": "gOdSkhF.png"
-    },
-    {
-      "in": false,
-      "n": "Uni-Yang(wdc)_v2.5.3",
-      "u": "/Fonts/Language/Myanmar/Unicode/Uni-Yang(wdc)_v2.5.3.ttf",
-      "s": "207 KB",
-      "t": "qyKTsGA.png"
-    },
-    {
-      "n": "MyMyanmar",
-      "u": "/Fonts/Language/Myanmar/Unicode/MyMyanmar.ttf",
-      "in": false,
-      "s": "96 KB",
-      "t": "B5OHb3o.png"
-    },
-    {
-      "n": "NanKhomeGrand",
-      "u": "/Fonts/Language/Myanmar/Unicode/NanKhomeGrand.ttf",
-      "in": false,
-      "s": "270 KB",
-      "t": "pMI8Ak7.png"
-    },
-    {
-      "n": "Pangram",
-      "u": "/Fonts/Language/Myanmar/Unicode/Pangram.ttf",
-      "in": false,
-      "s": "306 KB",
-      "t": "YFdVTAW.png"
-    },
-    {
-      "n": "PangramBig",
-      "u": "/Fonts/Language/Myanmar/Unicode/PangramBig.ttf",
-      "in": false,
-      "s": "334 KB",
-      "t": "llgWEvg.png"
-    },
-    {
-      "n": "ShanUnicode",
-      "u": "/Fonts/Language/Myanmar/Unicode/ShanUnicode.ttf",
-      "in": false,
-      "s": "451 KB",
-      "t": "mHRXaq7.png"
-    },
-    {
-      "n": "ThanLwin",
-      "u": "/Fonts/Language/Myanmar/Unicode/ThanLwin.ttf",
-      "in": false,
-      "s": "1.03 MB",
-      "t": "91Dh7ve.png"
-    },
-    {
-      "n": "UniHeart",
-      "u": "/Fonts/Language/Myanmar/Unicode/UniHeart.ttf",
-      "in": false,
-      "s": "262 KB",
-      "t": "GtfE1jZ.png"
-    },
-    {
-      "n": "WinInnwa_Uni",
-      "u": "/Fonts/Language/Myanmar/Unicode/WinInnwa_Uni.ttf",
-      "in": false,
-      "s": "394 KB",
-      "t": "0LXqkvc.png"
-    },
-    {
-      "n": "Yangon",
-      "u": "/Fonts/Language/Myanmar/Unicode/Yangon.ttf",
-      "in": false,
-      "s": "29 KB",
-      "t": "jnJDPXE.png"
-    },
-    {
-      "in": false,
-      "n": "JojarPro",
-      "u": "/Fonts/Language/Myanmar/Unicode/JojarPro.ttf",
-      "s": "200 KB",
-      "t": "aA8eyNl.png"
-    },
-    {
-      "in": false,
-      "n": "Asoka_Myanmar",
-      "u": "/Fonts/Language/Myanmar/Unicode/Asoka_Myanmar.ttf",
-      "s": "291 KB",
-      "t": "G3fbYSh.png"
-    },
-    {
-      "in": false,
-      "n": "Hopone",
-      "u": "/Fonts/Language/Myanmar/Unicode/Hopone.ttf",
-      "s": "592 KB",
-      "t": "oP73QHc.png"
-    },
-    {
-      "in": false,
-      "n": "Hopone_Mod",
-      "u": "/Fonts/Language/Myanmar/Unicode/Hopone_Mod.ttf",
-      "s": "741 KB",
-      "t": "ZdwdXeT.png"
-    },
-    {
-      "in": false,
-      "n": "Hsi-Hseng",
-      "u": "/Fonts/Language/Myanmar/Unicode/Hsi-Hseng.ttf",
-      "s": "1.52 MB",
-      "t": "7LQkWMp.png"
-    },
-    {
-      "in": false,
-      "n": "KhunPaOh-Bold",
-      "u": "/Fonts/Language/Myanmar/Unicode/KhunPaOh-Bold.ttf",
-      "s": "206 KB",
-      "t": "84ZG2zH.png"
-    },
-    {
-      "in": false,
-      "n": "KhunPaOh-Regular",
-      "u": "/Fonts/Language/Myanmar/Unicode/KhunPaOh-Regular.ttf",
-      "s": "207 KB",
-      "t": "EALmQBb.png"
-    },
-    {
-      "in": false,
-      "n": "MM_Bagan_v1",
-      "u": "/Fonts/Language/Myanmar/Unicode/MM_Bagan_v1.ttf",
-      "s": "233 KB",
-      "t": "NS78jLT.png"
-    },
-    {
-      "in": false,
-      "n": "MM_Ethnic_v1",
-      "u": "/Fonts/Language/Myanmar/Unicode/MM_Ethnic_v1.ttf",
-      "s": "211 KB",
-      "t": "6PErVL3.png"
-    },
-    {
-      "in": false,
-      "n": "MM_Grand_v1",
-      "u": "/Fonts/Language/Myanmar/Unicode/MM_Grand_v1.ttf",
-      "s": "234 KB",
-      "t": "6nRfmxe.png"
-    },
-    {
-      "in": false,
-      "n": "MM_Hopong_v1",
-      "u": "/Fonts/Language/Myanmar/Unicode/MM_Hopong_v1.ttf",
-      "s": "195 KB",
-      "t": "g4I0d61.png"
-    },
-    {
-      "in": false,
-      "n": "MM_Katkuu",
-      "u": "/Fonts/Language/Myanmar/Unicode/MM_Katkuu.ttf",
-      "s": "178 KB",
-      "t": "cXZrpUX.png"
-    },
-    {
-      "in": false,
-      "n": "MM_Phetkon",
-      "u": "/Fonts/Language/Myanmar/Unicode/MM_Phetkon.ttf",
-      "s": "200 KB",
-      "t": "3rZkKsX.png"
-    },
-    {
-      "in": false,
-      "n": "MM_Sangam",
-      "u": "/Fonts/Language/Myanmar/Unicode/MM_Sangam.ttf",
-      "s": "195 KB",
-      "t": "aNpL9fW.png"
-    },
-    {
-      "in": false,
-      "n": "MUA_Office",
-      "u": "/Fonts/Language/Myanmar/Unicode/MUA_Office.ttf",
-      "s": "236 KB",
-      "t": "PUAOCU9.png"
-    },
-    {
-      "in": false,
-      "n": "MyanmarYein",
-      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarYein.ttf",
-      "s": "249 KB",
-      "t": "GOa64is.png"
-    },
-    {
-      "in": false,
-      "n": "MyanmarChatu",
-      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarChatu.ttf",
-      "s": "92 KB",
-      "t": "6cv1Uu6.png"
-    },
-    {
-      "in": false,
-      "n": "MyanmarKhyay",
-      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarKhyay.ttf",
-      "s": "40 KB",
-      "t": "3zKC0on.png"
-    },
-    {
-      "in": false,
-      "n": "MyanmarPaOhOne",
-      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPaOhOne.ttf",
-      "s": "334 KB",
-      "t": "Rp4uAoU.png"
-    },
-    {
-      "in": false,
-      "n": "MyanmarPaOhRosemary",
-      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPaOhRosemary.ttf",
-      "s": "361 KB",
-      "t": "EhWkW1F.png"
-    },
-    {
-      "in": false,
-      "n": "MyanmarYein2",
-      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarYein2.ttf",
-      "s": "362 KB",
-      "t": "HptU81G.png"
-    },
-    {
-      "in": false,
-      "n": "Padauk",
-      "u": "/Fonts/Language/Myanmar/Unicode/Padauk.ttf",
-      "s": "461 KB",
-      "t": "vQtjSUX.png"
-    },
-    {
-      "in": false,
-      "n": "PadaukBook",
-      "u": "/Fonts/Language/Myanmar/Unicode/PadaukBook.ttf",
-      "s": "465 KB",
-      "t": "PqoJUXC.png"
-    },
-    {
-      "in": false,
-      "n": "PadaukBookBold",
-      "u": "/Fonts/Language/Myanmar/Unicode/PadaukBookBold.ttf",
-      "s": "431 KB",
-      "t": "ejjde5R.png"
-    },
-    {
-      "in": false,
-      "n": "PadaukGrandPro2.8",
-      "u": "/Fonts/Language/Myanmar/Unicode/PadaukGrandPro2.8.ttf",
-      "s": "1.52 MB",
-      "t": "fmsOdxk.png"
-    },
-    {
-      "in": false,
-      "n": "Pyidaungsu-2.5.3_Bold",
-      "u": "/Fonts/Language/Myanmar/Unicode/Pyidaungsu-2.5.3_Bold.ttf",
-      "s": "228 KB",
-      "t": "Mu1U2Se.png"
-    },
-    {
-      "in": false,
-      "n": "Pyidaungsu-2.5.3_Regular",
-      "u": "/Fonts/Language/Myanmar/Unicode/Pyidaungsu-2.5.3_Regular.ttf",
-      "s": "185 KB",
-      "t": "cLH1NNY.png"
-    },
-    {
-      "u": "/Fonts/Language/Myanmar/Unicode/Pyidaungsu-2.5_Bold.ttf",
-      "n": "Pyidaungsu-2.5_Bold",
-      "s": "179 KB",
-      "t": "qdPB1nF.png"
-    },
-    {
-      "u": "/Fonts/Language/Myanmar/Unicode/Pyidaungsu-2.5_Regular.ttf",
-      "n": "Pyidaungsu-2.5_Regular",
-      "s": "178 KB",
-      "t": "Mdo3HUk.png"
-    },
-    {
-      "u": "/Fonts/Language/Myanmar/Unicode/Pyidaungsu Book-1.7_Bold.ttf",
-      "n": "Pyidaungsu Book-1.7_Bold",
-      "s": "166 KB",
-      "t": "vtDN2SE.png"
-    },
-    {
-      "u": "/Fonts/Language/Myanmar/Unicode/Pyidaungsu Book-1.7_Regular.ttf",
-      "n": "Pyidaungsu Book-1.7_Regular",
-      "s": "166 KB",
-      "t": "oiKOnMv.png"
-    },
-    {
-      "u": "/Fonts/Language/Myanmar/Unicode/Pyidaungsu-1.8_Bold.ttf",
-      "n": "Pyidaungsu-1.8_Bold",
-      "s": "186 KB",
-      "t": "4nByVLU.png"
-    },
-    {
-      "n": "Pyidaungsu-1.8_Regular",
-      "u": "/Fonts/Language/Myanmar/Unicode/Pyidaungsu-1.8_Regular.ttf",
-      "s": "184 KB",
-      "t": "4zcGvW0.png"
-    },
-    {
-      "u": "/Fonts/Language/Myanmar/Unicode/PadaukKyaungchikote.ttf",
-      "n": "PadaukKyaungchikote",
-      "s": "271 KB",
-      "t": "SL7Mq3s.png"
-    },
-    {
-      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarCensus.ttf",
-      "n": "MyanmarCensus",
-      "s": "155 KB",
-      "t": "A1WSOaE.png"
-    },
-    {
-      "u": "/Fonts/Language/Myanmar/Unicode/Myanmar3.ttf",
-      "n": "Myanmar3",
-      "s": "119 KB",
-      "t": "IKvL2dc.png"
-    },
-    {
-      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarText_Regular.ttf",
-      "n": "MyanmarText_Regular",
-      "s": "243 KB",
-      "t": "lcSxy3s.png"
-    },
-    {
-      "u": "/Fonts/Language/Myanmar/Unicode/Phetsot.ttf",
-      "n": "Phetsot",
-      "s": "41 KB",
-      "t": "kKnPyzb.png"
-    },
-    {
-      "n": "ThuriyaVolt",
-      "u": "/Fonts/Language/Myanmar/Unicode/ThuriyaVolt.ttf",
-      "s": "65 KB",
-      "t": "shIyOfD.png"
-    },
-    {
-      "n": "NamKhoneUnicode",
-      "u": "/Fonts/Language/Myanmar/Unicode/NamKhoneUnicode.ttf",
-      "s": "520 KB",
-      "t": "iCJlzHG.png"
-    },
-    {
-      "n": "SamsungMyanmar",
-      "u": "/Fonts/Language/Myanmar/Unicode/SamsungMyanmar.ttf",
-      "s": "152 KB",
-      "t": "RmSociY.png"
-    },
-    {
-      "n": "PadaukGhostтАЛ",
-      "u": "/Fonts/Language/Myanmar/Unicode/PadaukGhostтАЛ.ttf",
-      "s": "240 KB",
-      "t": "hmH4OhY.png"
-    },
-    {
-      "n": "Nayone",
-      "u": "/Fonts/Language/Myanmar/Unicode/Nayone.ttf",
-      "s": "42 KB",
-      "t": "BffoK7P.png"
-    },
-    {
-      "n": "MyanmarText_Bold",
-      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarText_Bold.ttf",
-      "s": "243 KB",
-      "t": "XNbsUoI.png"
-    },
-    {
-      "n": "Thanlwin-Regular",
-      "u": "/Fonts/Language/Myanmar/Unicode/Thanlwin-Regular.ttf",
-      "s": "1.03 MB",
-      "t": "8PsDw7k.png"
-    },
-    {
-      "n": "NKGrand",
-      "u": "/Fonts/Language/Myanmar/Unicode/NKGrand.ttf",
-      "s": "270 KB",
-      "t": "M89yiF4.png"
-    },
-    {
-      "n": "Gantgaw",
-      "u": "/Fonts/Language/Myanmar/Unicode/Gantgaw.ttf",
+      "unicode": true,
+      "in": true,
+      "n": "ကံ့ကော်",
+      "u": "/Fonts/Language/Myanmar/Unicode/ကံ့ကော်.ttf",
       "s": "79 KB",
-      "t": "YzvLKTF.png"
+      "t": "7nXvusm.png",
+      "a": "Kyaw Swar"
     },
     {
-      "n": "PaohDragonApp",
-      "u": "/Fonts/Language/Myanmar/Unicode/PaohDragonApp.ttf",
-      "s": "87 KB",
-      "t": "qhg8zDc.png"
+      "unicode": true,
+      "in": true,
+      "n": "ကက္ကူ",
+      "u": "/Fonts/Language/Myanmar/Unicode/ကက္ကူ.ttf",
+      "s": "178 KB",
+      "t": "ljtglA1.png",
+      "a": "Kyaw Swar"
     },
     {
-      "n": "NotoSansMyanmar-Regular",
-      "u": "/Fonts/Language/Myanmar/Unicode/NotoSansMyanmar-Regular.ttf",
-      "s": "105 KB",
-      "t": "M0dk93w.png"
+      "unicode": true,
+      "in": true,
+      "n": "ကျိုင်းတုံ",
+      "u": "/Fonts/Language/Myanmar/Unicode/ကျိုင်းတုံ.ttf",
+      "s": "156 KB",
+      "t": "YMit7E6.png",
+      "a": "Kyaw Swar"
     },
     {
+      "unicode": true,
+      "in": true,
+      "n": "ဟိုပုံး_Mod",
+      "u": "/Fonts/Language/Myanmar/Unicode/ဟိုပုံး_Mod.ttf",
+      "s": "741 KB",
+      "t": "iIq88SW.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ခတ္တာ",
+      "u": "/Fonts/Language/Myanmar/Unicode/ခတ္တာ.ttf",
+      "s": "76 KB",
+      "t": "IZEgrcs.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ခမ်းကောင်",
+      "u": "/Fonts/Language/Myanmar/Unicode/ခမ်းကောင်.ttf",
+      "s": "255 KB",
+      "t": "TbKDkS1.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ချယ်ရီ",
+      "u": "/Fonts/Language/Myanmar/Unicode/ချယ်ရီ.ttf",
+      "s": "149 KB",
+      "t": "7jFiSqM.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ခွန်ပအိုဝ်ႏ-Bold",
+      "u": "/Fonts/Language/Myanmar/Unicode/ခွန်ပအိုဝ်ႏ-Bold.ttf",
+      "s": "206 KB",
+      "t": "KV0zy13.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ခွန်ပအိုဝ်ႏ-Regular",
+      "u": "/Fonts/Language/Myanmar/Unicode/ခွန်ပအိုဝ်ႏ-Regular.ttf",
+      "s": "207 KB",
+      "t": "WAoPzsp.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ခွေး",
+      "u": "/Fonts/Language/Myanmar/Unicode/ခွေး.ttf",
+      "s": "40 KB",
+      "t": "yHo10ZK.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ခေး",
+      "u": "/Fonts/Language/Myanmar/Unicode/ခေး.ttf",
+      "s": "40 KB",
+      "t": "2XKrV3I.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "စကား",
+      "u": "/Fonts/Language/Myanmar/Unicode/စကား.ttf",
+      "s": "40 KB",
+      "t": "iAdWi2k.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "စံပယ်",
+      "u": "/Fonts/Language/Myanmar/Unicode/စံပယ်.ttf",
+      "s": "41 KB",
+      "t": "ZKIC4NO.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "စံပယ်ပန်း",
+      "u": "/Fonts/Language/Myanmar/Unicode/စံပယ်ပန်း.ttf",
+      "s": "161 KB",
+      "t": "lXG9Dw3.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ဆီဆိုင်",
+      "u": "/Fonts/Language/Myanmar/Unicode/ဆီဆိုင်.ttf",
+      "s": "1.52 MB",
+      "t": "1THfDrc.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "တန်ခူး",
+      "u": "/Fonts/Language/Myanmar/Unicode/တန်ခူး.ttf",
+      "s": "45 KB",
+      "t": "PyiLRrs.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "တိုင်းရင်းသား",
+      "u": "/Fonts/Language/Myanmar/Unicode/တိုင်းရင်းသား.ttf",
+      "s": "211 KB",
+      "t": "B3b7TXW.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "တောင်ကြီး",
+      "u": "/Fonts/Language/Myanmar/Unicode/တောင်ကြီး.ttf",
+      "s": "116 KB",
+      "t": "Bxe8HaX.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "နမ့်ခုံး-Grand",
+      "u": "/Fonts/Language/Myanmar/Unicode/နမ့်ခုံး-Grand.ttf",
+      "s": "270 KB",
+      "t": "4d32c5i.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "နမ့်ခုံး",
+      "u": "/Fonts/Language/Myanmar/Unicode/နမ့်ခုံး.ttf",
+      "s": "520 KB",
+      "t": "f6aRvMj.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "နယုန်",
+      "u": "/Fonts/Language/Myanmar/Unicode/နယုန်.ttf",
+      "s": "42 KB",
+      "t": "clCYAAN.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ပင်လုံ",
+      "u": "/Fonts/Language/Myanmar/Unicode/ပင်လုံ.ttf",
+      "s": "1.66 MB",
+      "t": "bJp9j1c.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ပြည်ထောင်စု-2.5.3_Bold",
+      "u": "/Fonts/Language/Myanmar/Unicode/ပြည်ထောင်စု-2.5.3_Bold.ttf",
+      "s": "228 KB",
+      "t": "CUXAvNP.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ပြည်ထောင်စု-2.5.3_Regular",
+      "u": "/Fonts/Language/Myanmar/Unicode/ပြည်ထောင်စု-2.5.3_Regular.ttf",
+      "s": "185 KB",
+      "t": "Zv2guN1.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ပိတောက်-bold",
+      "u": "/Fonts/Language/Myanmar/Unicode/ပိတောက်-bold.ttf",
+      "s": "432 KB",
+      "t": "A5QepPF.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ပိတောက်-book",
+      "u": "/Fonts/Language/Myanmar/Unicode/ပိတောက်-book.ttf",
+      "s": "465 KB",
+      "t": "kYRuORn.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ပိတောက်-bookbold",
+      "u": "/Fonts/Language/Myanmar/Unicode/ပိတောက်-bookbold.ttf",
+      "s": "431 KB",
+      "t": "fBjTYl0.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ပိတောက်-သရဲ",
+      "u": "/Fonts/Language/Myanmar/Unicode/ပိတောက်-သရဲ.ttf",
+      "s": "240 KB",
+      "t": "zvcDExZ.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ပိတောက်",
+      "u": "/Fonts/Language/Myanmar/Unicode/ပိတောက်.ttf",
+      "s": "461 KB",
+      "t": "3QPzRgY.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ပိတောက်ကြောင်ချီး",
+      "u": "/Fonts/Language/Myanmar/Unicode/ပိတောက်ကြောင်ချီး.ttf",
+      "s": "271 KB",
+      "t": "ZBJRrH0.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ပုဂံ",
+      "u": "/Fonts/Language/Myanmar/Unicode/ပုဂံ.ttf",
+      "s": "233 KB",
+      "t": "mCoRj7h.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ပုန်းညက်",
+      "u": "/Fonts/Language/Myanmar/Unicode/ပုန်းညက်.ttf",
+      "s": "38 KB",
+      "t": "VtHXKhJ.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ပုရပိုက်",
+      "u": "/Fonts/Language/Myanmar/Unicode/ပုရပိုက်.ttf",
+      "s": "162 KB",
+      "t": "M6vM89Z.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ပေါက်ကလေး",
+      "u": "/Fonts/Language/Myanmar/Unicode/ပေါက်ကလေး.ttf",
+      "s": "39 KB",
+      "t": "McAhfKo.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ဖက်စုတ်",
+      "u": "/Fonts/Language/Myanmar/Unicode/ဖက်စုတ်.ttf",
+      "s": "41 KB",
+      "t": "C9dfM8T.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ဖယ်ခုံ",
+      "u": "/Fonts/Language/Myanmar/Unicode/ဖယ်ခုံ.ttf",
+      "s": "200 KB",
+      "t": "CemDQCi.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "မြန်မာနှင်းဆီ",
+      "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာနှင်းဆီ.ttf",
+      "s": "361 KB",
+      "t": "eAlPBaM.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "မြန်မာ့ပန်း",
+      "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာ့ပန်း.ttf",
+      "s": "172 KB",
+      "t": "v90dKwD.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "မြန်မာပအိုဝ်း-နှင်းဆီ",
+      "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာပအိုဝ်း-နှင်းဆီ.ttf",
+      "s": "361 KB",
+      "t": "00dwb2y.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "မြန်မာပအိုဝ်း",
+      "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာပအိုဝ်း.ttf",
+      "s": "229 KB",
+      "t": "wJe2Dp0.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ယင်းမာ",
+      "u": "/Fonts/Language/Myanmar/Unicode/ယင်းမာ.ttf",
+      "s": "75 KB",
+      "t": "M9xauCa.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "မြန်မာပအိုဝ်းဝမ်း",
+      "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာပအိုဝ်းဝမ်း.ttf",
+      "s": "334 KB",
+      "t": "thdmPr2.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "မြန်မာယိမ်း",
+      "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာယိမ်း.ttf",
+      "s": "258 KB",
+      "t": "3GQiqPF.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ယွန်းချို",
+      "u": "/Fonts/Language/Myanmar/Unicode/ယွန်းချို.ttf",
+      "s": "419 KB",
+      "t": "ekzvZik.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ရန်ကုန်",
+      "u": "/Fonts/Language/Myanmar/Unicode/ရန်ကုန်.ttf",
+      "s": "29 KB",
+      "t": "XCpr2WZ.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ရိုးရာ_Regular",
+      "u": "/Fonts/Language/Myanmar/Unicode/ရိုးရာ_Regular.ttf",
+      "s": "1.44 MB",
+      "t": "xD8pEzL.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "လက်ရေး",
+      "u": "/Fonts/Language/Myanmar/Unicode/လက်ရေး.ttf",
+      "s": "198 KB",
+      "t": "aJ9s1n3.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "သံလွင်-Regular",
+      "u": "/Fonts/Language/Myanmar/Unicode/သံလွင်-Regular.ttf",
+      "s": "1.03 MB",
+      "t": "I5QhIwq.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "သာလွန်",
+      "u": "/Fonts/Language/Myanmar/Unicode/သာလွန်.ttf",
+      "s": "344 KB",
+      "t": "Fu1FYEo.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ဟိုပုံး_v1",
+      "u": "/Fonts/Language/Myanmar/Unicode/ဟိုပုံး_v1.ttf",
+      "s": "195 KB",
+      "t": "8o7nzEE.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ကြိုးကြာ_Pro",
+      "u": "/Fonts/Language/Myanmar/Unicode/ကြိုးကြာ_Pro.ttf",
+      "s": "200 KB",
+      "t": "31sc8rh.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "မြန်မာယိမ်း_၂",
+      "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာယိမ်း_၂.ttf",
+      "s": "362 KB",
+      "t": "VfAYkXn.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "မိုင်မြန်မာ",
+      "u": "/Fonts/Language/Myanmar/Unicode/မိုင်မြန်မာ.ttf",
+      "s": "96 KB",
+      "t": "6yM6PY2.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ရိုးရာ_Bold",
+      "u": "/Fonts/Language/Myanmar/Unicode/ရိုးရာ_Bold.ttf",
+      "s": "1.40 MB",
+      "t": "iyKZr87.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ရိုးရာ_Light",
+      "u": "/Fonts/Language/Myanmar/Unicode/ရိုးရာ_Light.ttf",
+      "s": "1.58 MB",
+      "t": "4meR2LR.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ဝင်းအင်းဝ",
+      "u": "/Fonts/Language/Myanmar/Unicode/ဝင်းအင်းဝ.ttf",
+      "s": "394 KB",
+      "t": "AbVm3yu.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "သံလွင်-Bold",
+      "u": "/Fonts/Language/Myanmar/Unicode/သံလွင်-Bold.ttf",
+      "s": "1.03 MB",
+      "t": "ml98Xcs.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "သံလွင်",
+      "u": "/Fonts/Language/Myanmar/Unicode/သံလွင်.ttf",
+      "s": "1.03 MB",
+      "t": "UIlvVUp.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "သူရိယ-Volt",
+      "u": "/Fonts/Language/Myanmar/Unicode/သူရိယ-Volt.ttf",
+      "s": "65 KB",
+      "t": "rEPT2gA.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "သူရိယ",
+      "u": "/Fonts/Language/Myanmar/Unicode/သူရိယ.ttf",
+      "s": "31 KB",
+      "t": "xku0ejz.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ဟိုပုံး",
+      "u": "/Fonts/Language/Myanmar/Unicode/ဟိုပုံး.ttf",
+      "s": "592 KB",
+      "t": "crPq84v.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "အသောက",
+      "u": "/Fonts/Language/Myanmar/Unicode/အသောက.ttf",
+      "s": "291 KB",
+      "t": "fAWuvMl.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "Cooljazz",
+      "u": "/Fonts/Language/Myanmar/Unicode/Cooljazz.ttf",
+      "s": "2.16 MB",
+      "t": "fcSoLFf.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
       "n": "Kamjing",
       "u": "/Fonts/Language/Myanmar/Unicode/Kamjing.ttf",
       "s": "237 KB",
-      "t": "hCCTElq.png"
+      "t": "8L6jINP.png",
+      "a": "Kyaw Swar"
     },
     {
-      "n": "Taungyi",
-      "u": "/Fonts/Language/Myanmar/Unicode/Taungyi.ttf",
-      "s": "116 KB",
-      "t": "Z1NHvRU.png"
+      "unicode": true,
+      "in": true,
+      "n": "MM_Grand_v1",
+      "u": "/Fonts/Language/Myanmar/Unicode/MM_Grand_v1.ttf",
+      "s": "234 KB",
+      "t": "7MizMg2.png",
+      "a": "Kyaw Swar"
     },
     {
-      "n": "YoeYar-One_Light",
-      "u": "/Fonts/Language/Myanmar/Unicode/YoeYar-One_Light.ttf",
-      "s": "1.58 MB",
-      "t": "bFGcyRT.png"
+      "unicode": true,
+      "in": true,
+      "n": "MM_Sangam",
+      "u": "/Fonts/Language/Myanmar/Unicode/MM_Sangam.ttf",
+      "s": "195 KB",
+      "t": "zhkKjyf.png",
+      "a": "Kyaw Swar"
     },
     {
-      "n": "MonAnonta",
-      "u": "/Fonts/Language/Myanmar/Unicode/MonAnonta.ttf",
+      "unicode": true,
+      "in": true,
+      "n": "Mon3",
+      "u": "/Fonts/Language/Myanmar/Unicode/Mon3.ttf",
       "s": "242 KB",
-      "t": "JtbWbzp.png"
+      "t": "EcG0Mgd.png",
+      "a": "Kyaw Swar"
     },
     {
-      "n": "KengTawng",
-      "u": "/Fonts/Language/Myanmar/Unicode/KengTawng.ttf",
-      "s": "156 KB",
-      "t": "NoatPor.png"
+      "unicode": true,
+      "in": true,
+      "n": "MUA_Office",
+      "u": "/Fonts/Language/Myanmar/Unicode/MUA_Office.ttf",
+      "s": "236 KB",
+      "t": "pEsVnks.png",
+      "a": "Kyaw Swar"
     },
     {
-      "n": "Tagu",
-      "u": "/Fonts/Language/Myanmar/Unicode/Tagu.ttf",
-      "s": "45 KB",
-      "t": "XI5PX0e.png"
+      "unicode": true,
+      "in": true,
+      "n": "Myanmar3MultiOS",
+      "u": "/Fonts/Language/Myanmar/Unicode/Myanmar3MultiOS.ttf",
+      "s": "119 KB",
+      "t": "bFXBHBX.png",
+      "a": "Kyaw Swar"
     },
     {
-      "n": "MyanmarTextMelano",
-      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarTextMelano.ttf",
-      "s": "254 KB",
-      "t": "M0xHpCP.png"
-    },
-    {
-      "n": "NK_SSmart3",
-      "u": "/Fonts/Language/Myanmar/Unicode/NK_SSmart3.ttf",
-      "s": "422 KB",
-      "t": "b4PCl9a.png"
-    },
-    {
-      "n": "MyanmarPaOh",
-      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPaOh.ttf",
-      "s": "229 KB",
-      "t": "XoENPPG.png"
-    },
-    {
-      "n": "Cherry",
-      "u": "/Fonts/Language/Myanmar/Unicode/Cherry.ttf",
-      "s": "149 KB",
-      "t": "urpzdgC.png"
-    },
-    {
-      "n": "YoeYar-One_Bold",
-      "u": "/Fonts/Language/Myanmar/Unicode/YoeYar-One_Bold.ttf",
-      "s": "1.40 MB",
-      "t": "ptRYRnT.png"
-    },
-    {
-      "n": "NotoSansMyanmarUI-Regular",
-      "u": "/Fonts/Language/Myanmar/Unicode/NotoSansMyanmarUI-Regular.ttf",
-      "s": "91 KB",
-      "t": "UH816T7.png"
-    },
-    {
-      "n": "MyanmarSansPro",
-      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSansPro.ttf",
-      "s": "39 KB",
-      "t": "Vf7QOjY.png"
-    },
-    {
-      "n": "NK_SSmart4",
-      "u": "/Fonts/Language/Myanmar/Unicode/NK_SSmart4.ttf",
-      "s": "454 KB",
-      "t": "tnL7bH2.png"
-    },
-    {
-      "n": "Kuttar",
-      "u": "/Fonts/Language/Myanmar/Unicode/Kuttar.ttf",
-      "s": "76 KB",
-      "t": "OTNIPwB.png"
-    },
-    {
-      "n": "Sabae",
-      "u": "/Fonts/Language/Myanmar/Unicode/Sabae.ttf",
-      "s": "41 KB",
-      "t": "Dwqo9Ze.png"
-    },
-    {
-      "n": "ShanUnicode",
-      "u": "/Fonts/Language/Myanmar/Unicode/ShanUnicode.ttf",
-      "s": "451 KB",
-      "t": "jxCvk1t.png"
-    },
-    {
-      "n": "NotoSansMyanmar-Bold",
-      "u": "/Fonts/Language/Myanmar/Unicode/NotoSansMyanmar-Bold.ttf",
-      "s": "102 KB",
-      "t": "fqjNG7Q.png"
-    },
-    {
-      "n": "Parabaik",
-      "u": "/Fonts/Language/Myanmar/Unicode/Parabaik.ttf",
-      "s": "162 KB",
-      "t": "vaNP8K3.png"
-    },
-    {
-      "n": "MyanmarSquare",
-      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSquare.ttf",
-      "s": "40 KB",
-      "t": "qNgOQba.png"
-    },
-    {
-      "n": "Ponenyet",
-      "u": "/Fonts/Language/Myanmar/Unicode/Ponenyet.ttf",
-      "s": "38 KB",
-      "t": "JreJzwx.png"
-    },
-    {
-      "n": "Pauklay",
-      "u": "/Fonts/Language/Myanmar/Unicode/Pauklay.ttf",
-      "s": "39 KB",
-      "t": "DKjp9kn.png"
-    },
-    {
-      "n": "Khway",
-      "u": "/Fonts/Language/Myanmar/Unicode/Khway.ttf",
-      "s": "40 KB",
-      "t": "IuQ26Dq.png"
-    },
-    {
-      "n": "MyanmarAngoun",
-      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarAngoun.ttf",
-      "s": "67 KB",
-      "t": "u0kl6bE.png"
-    },
-    {
-      "n": "Thuriya",
-      "u": "/Fonts/Language/Myanmar/Unicode/Thuriya.ttf",
-      "s": "31 KB",
-      "t": "mTsxHh3.png"
-    },
-    {
-      "n": "Jasmine",
-      "u": "/Fonts/Language/Myanmar/Unicode/Jasmine.ttf",
-      "s": "161 KB",
-      "t": "OkjuYkl.png"
-    },
-    {
-      "n": "YoeYar-One_Regular",
-      "u": "/Fonts/Language/Myanmar/Unicode/YoeYar-One_Regular.ttf",
-      "s": "1.44 MB",
-      "t": "yIlkvGf.png"
-    },
-    {
-      "n": "MyanmarPixel",
-      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPixel.ttf",
-      "s": "38 KB",
-      "t": "xBWJn9R.png"
-    },
-    {
-      "n": "mon3",
-      "u": "/Fonts/Language/Myanmar/Unicode/mon3.ttf",
-      "s": "242 KB",
-      "t": "pqI8QI8.png"
-    },
-    {
-      "n": "MyanmarBlack",
-      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarBlack.ttf",
-      "s": "38 KB",
-      "t": "3hJgxvF.png"
-    },
-    {
-      "n": "MyanmarSquareLight",
-      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSquareLight.ttf",
-      "s": "75 KB",
-      "t": "2pQCPhF.png"
-    },
-    {
-      "n": "MyanmarPunk",
-      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPunk.ttf",
-      "s": "51 KB",
-      "t": "VZ6oOXc.png"
-    },
-    {
-      "n": "MyanmarNjaun",
-      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarNjaun.ttf",
-      "s": "39 KB",
-      "t": "VqGvokp.png"
-    },
-    {
-      "n": "Yunghkio",
-      "u": "/Fonts/Language/Myanmar/Unicode/Yunghkio.ttf",
-      "s": "419 KB",
-      "t": "weOvAJm.png"
-    },
-    {
-      "n": "WinUniInnwa",
-      "u": "/Fonts/Language/Myanmar/Unicode/WinUniInnwa.ttf",
-      "s": "394 KB",
-      "t": "nKaPFbN.png"
-    },
-    {
-      "n": "Sagar",
-      "u": "/Fonts/Language/Myanmar/Unicode/Sagar.ttf",
-      "s": "40 KB",
-      "t": "wMNDsJH.png"
-    },
-    {
+      "unicode": true,
+      "in": true,
       "n": "Myanmar3PaOh",
       "u": "/Fonts/Language/Myanmar/Unicode/Myanmar3PaOh.ttf",
       "s": "99 KB",
-      "t": "8HGC7Eb.png"
+      "t": "Js4nrrt.png",
+      "a": "Kyaw Swar"
     },
     {
-      "n": "Tharlon",
-      "u": "/Fonts/Language/Myanmar/Unicode/Tharlon.ttf",
-      "s": "344 KB",
-      "t": "NqcOdLv.png"
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarAngoun",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarAngoun.ttf",
+      "s": "67 KB",
+      "t": "s2RXHm6.png",
+      "a": "Kyaw Swar"
     },
     {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarApril",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarApril.ttf",
+      "s": "463 KB",
+      "t": "TXb6Drg.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarAyarTyepwriter",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarAyarTyepwriter.ttf",
+      "s": "219 KB",
+      "t": "PUctoYL.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarBagan",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarBagan.ttf",
+      "s": "201 KB",
+      "t": "PqsepCj.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarBlack",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarBlack.ttf",
+      "s": "38 KB",
+      "t": "UfQHEn4.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarCensus",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarCensus.ttf",
+      "s": "155 KB",
+      "t": "R3dqVxZ.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarChatu",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarChatu.ttf",
+      "s": "92 KB",
+      "t": "Q1y0oQ7.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarCutekitten",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarCutekitten.ttf",
+      "s": "237 KB",
+      "t": "H0sjq8m.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarDreams",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarDreams.ttf",
+      "s": "191 KB",
+      "t": "JrYVL1m.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarEthnic",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarEthnic.ttf",
+      "s": "181 KB",
+      "t": "ILEuF2J.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarFlowerTwo",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarFlowerTwo.ttf",
+      "s": "299 KB",
+      "t": "eF5EGGS.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarGrand",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarGrand.ttf",
+      "s": "207 KB",
+      "t": "vs877uB.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarHoliday",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarHoliday.ttf",
+      "s": "268 KB",
+      "t": "BNGizR8.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarHopong",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarHopong.ttf",
+      "s": "174 KB",
+      "t": "saArBCC.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarJasmine",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarJasmine.ttf",
+      "s": "330 KB",
+      "t": "1Ys18Q8.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarJojar",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarJojar.ttf",
+      "s": "139 KB",
+      "t": "eYUvWwZ.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarJojarPro",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarJojarPro.ttf",
+      "s": "200 KB",
+      "t": "m7f58bw.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarKalay",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarKalay.ttf",
+      "s": "173 KB",
+      "t": "Ljz2VtH.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarKhyay",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarKhyay.ttf",
+      "s": "40 KB",
+      "t": "m94N95d.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarKitten",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarKitten.ttf",
+      "s": "307 KB",
+      "t": "JB76L4b.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarKitty",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarKitty.ttf",
+      "s": "442 KB",
+      "t": "FvkJxAr.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarKyaungChee",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarKyaungChee.ttf",
+      "s": "265 KB",
+      "t": "7ZkS6K6.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarLove",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarLove.ttf",
+      "s": "231 KB",
+      "t": "HkGiOnW.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarMON3Anonta",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarMON3Anonta.ttf",
+      "s": "242 KB",
+      "t": "SC0tsQB.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarNjaun",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarNjaun.ttf",
+      "s": "39 KB",
+      "t": "ZwLzQpj.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarNotes",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarNotes.ttf",
+      "s": "212 KB",
+      "t": "HOVhQuS.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarOS",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarOS.ttf",
+      "s": "231 KB",
+      "t": "VDVd09d.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarPadaung",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPadaung.ttf",
+      "s": "203 KB",
+      "t": "DDW99Vr.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarPangram",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPangram.ttf",
+      "s": "215 KB",
+      "t": "pr2CGFE.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarPaOhPyu",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPaOhPyu.ttf",
+      "s": "154 KB",
+      "t": "nGIAnm1.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarPauklay",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPauklay.ttf",
+      "s": "122 KB",
+      "t": "zDUe67N.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarPixel",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPixel.ttf",
+      "s": "38 KB",
+      "t": "81ERmdc.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
       "n": "MyanmarPixelSmooth",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPixelSmooth.ttf",
       "s": "39 KB",
-      "t": "RFGFfPB.png"
+      "t": "2enyU0R.png",
+      "a": "Kyaw Swar"
     },
     {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarPunk",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPunk.ttf",
+      "s": "51 KB",
+      "t": "9HNqnUQ.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarPyay",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPyay.ttf",
+      "s": "159 KB",
+      "t": "6oBDokD.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarPyayTwo",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPyayTwo.ttf",
+      "s": "187 KB",
+      "t": "vonqynv.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarPyidaungsu",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPyidaungsu.ttf",
+      "s": "178 KB",
+      "t": "pP8a2UU.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarPyu",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPyu.ttf",
+      "s": "166 KB",
+      "t": "rEWELaH.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarPyuPro",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPyuPro.ttf",
+      "s": "168 KB",
+      "t": "NzMX1mz.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarRosemary",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarRosemary.ttf",
+      "s": "1.48 MB",
+      "t": "FLIXmDL.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarSagar",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSagar.ttf",
+      "s": "158 KB",
+      "t": "WaEdhIE.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarSansPro",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSansPro.ttf",
+      "s": "39 KB",
+      "t": "WD7lLYV.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarSketch",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSketch.ttf",
+      "s": "315 KB",
+      "t": "oAKbWdi.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarSquare",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSquare.ttf",
+      "s": "149 KB",
+      "t": "ziCmBz7.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarSquareLight",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSquareLight.ttf",
+      "s": "75 KB",
+      "t": "jVVj9C5.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarSweetie",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSweetie.ttf",
+      "s": "468 KB",
+      "t": "XZPFqiY.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarSweety",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSweety.ttf",
+      "s": "224 KB",
+      "t": "70zsjPL.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarTagaung",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarTagaung.ttf",
+      "s": "142 KB",
+      "t": "9DMvncM.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarTaunggyi",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarTaunggyi.ttf",
+      "s": "201 KB",
+      "t": "753bU1R.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarTaungthu",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarTaungthu.ttf",
+      "s": "256 KB",
+      "t": "V2R4dke.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarText_Bold",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarText_Bold.ttf",
+      "s": "243 KB",
+      "t": "6tPYyRG.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarText_Regular",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarText_Regular.ttf",
+      "s": "243 KB",
+      "t": "ImHBxgf.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarText",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarText.ttf",
+      "s": "346 KB",
+      "t": "tCWC8a7.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarTextMelano",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarTextMelano.ttf",
+      "s": "254 KB",
+      "t": "ttPolIH.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarThanLwin",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarThanLwin.ttf",
+      "s": "151 KB",
+      "t": "GfS9lRA.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarUI",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarUI.ttf",
+      "s": "150 KB",
+      "t": "8cBxbAn.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarUni-ZG",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarUni-ZG.ttf",
+      "s": "156 KB",
+      "t": "mWA2g7t.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarWaitzar",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarWaitzar.ttf",
+      "s": "180 KB",
+      "t": "bkvM961.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarWazo",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarWazo.ttf",
+      "s": "379 KB",
+      "t": "EjBipqi.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "MyanmarYellowflower",
+      "u": "/Fonts/Language/Myanmar/Unicode/MyanmarYellowflower.ttf",
+      "s": "196 KB",
+      "t": "EYPsjkx.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "NK_SSmart2",
+      "u": "/Fonts/Language/Myanmar/Unicode/NK_SSmart2.ttf",
+      "s": "404 KB",
+      "t": "RefTuy2.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "NK_SSmart3",
+      "u": "/Fonts/Language/Myanmar/Unicode/NK_SSmart3.ttf",
+      "s": "422 KB",
+      "t": "hTAnQmk.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "NK_SSmart4",
+      "u": "/Fonts/Language/Myanmar/Unicode/NK_SSmart4.ttf",
+      "s": "454 KB",
+      "t": "rYeuq1H.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "NKGrand",
+      "u": "/Fonts/Language/Myanmar/Unicode/NKGrand.ttf",
+      "s": "270 KB",
+      "t": "8ntUgfq.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "NotoSansMyanmar-Bold",
+      "u": "/Fonts/Language/Myanmar/Unicode/NotoSansMyanmar-Bold.ttf",
+      "s": "102 KB",
+      "t": "yH6OVyy.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "NotoSansMyanmar-Regular",
+      "u": "/Fonts/Language/Myanmar/Unicode/NotoSansMyanmar-Regular.ttf",
+      "s": "105 KB",
+      "t": "88c7zZz.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
       "n": "NotoSansMyanmarUI-Bold",
       "u": "/Fonts/Language/Myanmar/Unicode/NotoSansMyanmarUI-Bold.ttf",
       "s": "92 KB",
-      "t": "g4JrO0V.png"
+      "t": "dqv4qrK.png",
+      "a": "Kyaw Swar"
     },
     {
-      "n": "Yinmar",
-      "u": "/Fonts/Language/Myanmar/Unicode/Yinmar.ttf",
-      "s": "75 KB",
-      "t": "npV4RuT.png"
+      "unicode": true,
+      "in": true,
+      "n": "NotoSansMyanmarUI-Regular",
+      "u": "/Fonts/Language/Myanmar/Unicode/NotoSansMyanmarUI-Regular.ttf",
+      "s": "91 KB",
+      "t": "6aUmTyG.png",
+      "a": "Kyaw Swar"
     },
     {
-      "n": "PangLong",
-      "u": "/Fonts/Language/Myanmar/Unicode/PangLong.ttf",
-      "s": "426 KB",
-      "t": "5j2SY5x.png"
+      "unicode": true,
+      "in": true,
+      "n": "PadaukGrandPro2.8",
+      "u": "/Fonts/Language/Myanmar/Unicode/PadaukGrandPro2.8.ttf",
+      "s": "1.52 MB",
+      "t": "kXKM8zA.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "PadaukSagar",
+      "u": "/Fonts/Language/Myanmar/Unicode/PadaukSagar.ttf",
+      "s": "338 KB",
+      "t": "mOc716Y.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "PadaukSgaw-Bold",
+      "u": "/Fonts/Language/Myanmar/Unicode/PadaukSgaw-Bold.ttf",
+      "s": "435 KB",
+      "t": "fI1Pa98.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "PadaukSgaw-book",
+      "u": "/Fonts/Language/Myanmar/Unicode/PadaukSgaw-book.ttf",
+      "s": "468 KB",
+      "t": "lCTXyOP.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "PadaukSgaw-bookbold",
+      "u": "/Fonts/Language/Myanmar/Unicode/PadaukSgaw-bookbold.ttf",
+      "s": "434 KB",
+      "t": "TrfcNvH.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "PadaukSgaw",
+      "u": "/Fonts/Language/Myanmar/Unicode/PadaukSgaw.ttf",
+      "s": "464 KB",
+      "t": "STTPfCr.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "Pangram",
+      "u": "/Fonts/Language/Myanmar/Unicode/Pangram.ttf",
+      "s": "306 KB",
+      "t": "B9VCrBB.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "PangramBig",
+      "u": "/Fonts/Language/Myanmar/Unicode/PangramBig.ttf",
+      "s": "334 KB",
+      "t": "XrxN4we.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "PaohDragonApp",
+      "u": "/Fonts/Language/Myanmar/Unicode/PaohDragonApp.ttf",
+      "s": "87 KB",
+      "t": "jRQujh5.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "PaOhMyanmarGrand",
+      "u": "/Fonts/Language/Myanmar/Unicode/PaOhMyanmarGrand.ttf",
+      "s": "284 KB",
+      "t": "xEWUdtl.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "PaOhMyanmarPyum",
+      "u": "/Fonts/Language/Myanmar/Unicode/PaOhMyanmarPyum.ttf",
+      "s": "218 KB",
+      "t": "7g03CoB.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "PaOhShanWanhai",
+      "u": "/Fonts/Language/Myanmar/Unicode/PaOhShanWanhai.ttf",
+      "s": "340 KB",
+      "t": "w4aZvYX.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "Sabel",
+      "u": "/Fonts/Language/Myanmar/Unicode/Sabel.ttf",
+      "s": "1.96 MB",
+      "t": "fHdq4Ce.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "SamsungMyanmar",
+      "u": "/Fonts/Language/Myanmar/Unicode/SamsungMyanmar.ttf",
+      "s": "152 KB",
+      "t": "RfN7jgc.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ShanUnicode",
+      "u": "/Fonts/Language/Myanmar/Unicode/ShanUnicode.ttf",
+      "s": "451 KB",
+      "t": "q9RAUmB.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "Uni-Yang_v2.5.3",
+      "u": "/Fonts/Language/Myanmar/Unicode/Uni-Yang_v2.5.3.ttf",
+      "s": "208 KB",
+      "t": "kEHzczU.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "Uni-Yang(wdc)_v2.5.3",
+      "u": "/Fonts/Language/Myanmar/Unicode/Uni-Yang(wdc)_v2.5.3.ttf",
+      "s": "207 KB",
+      "t": "LlY5UUr.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "UnicodeHeart",
+      "u": "/Fonts/Language/Myanmar/Unicode/UnicodeHeart.ttf",
+      "s": "262 KB",
+      "t": "9FOVGHF.png",
+      "a": "Kyaw Swar"
     }
   ]
 }
