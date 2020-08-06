@@ -5041,55 +5041,10 @@
     {
       "unicode": true,
       "in": true,
-      "n": "PadaukGrandPro2.8",
-      "u": "/Fonts/Language/Myanmar/Unicode/PadaukGrandPro2.8.ttf",
-      "s": "1.52 MB",
-      "t": "kXKM8zA.png",
-      "a": "Kyaw Swar"
-    },
-    {
-      "unicode": true,
-      "in": true,
       "n": "PadaukSagar",
       "u": "/Fonts/Language/Myanmar/Unicode/PadaukSagar.ttf",
       "s": "338 KB",
       "t": "mOc716Y.png",
-      "a": "Kyaw Swar"
-    },
-    {
-      "unicode": true,
-      "in": true,
-      "n": "PadaukSgaw-Bold",
-      "u": "/Fonts/Language/Myanmar/Unicode/PadaukSgaw-Bold.ttf",
-      "s": "435 KB",
-      "t": "fI1Pa98.png",
-      "a": "Kyaw Swar"
-    },
-    {
-      "unicode": true,
-      "in": true,
-      "n": "PadaukSgaw-book",
-      "u": "/Fonts/Language/Myanmar/Unicode/PadaukSgaw-book.ttf",
-      "s": "468 KB",
-      "t": "lCTXyOP.png",
-      "a": "Kyaw Swar"
-    },
-    {
-      "unicode": true,
-      "in": true,
-      "n": "PadaukSgaw-bookbold",
-      "u": "/Fonts/Language/Myanmar/Unicode/PadaukSgaw-bookbold.ttf",
-      "s": "434 KB",
-      "t": "TrfcNvH.png",
-      "a": "Kyaw Swar"
-    },
-    {
-      "unicode": true,
-      "in": true,
-      "n": "PadaukSgaw",
-      "u": "/Fonts/Language/Myanmar/Unicode/PadaukSgaw.ttf",
-      "s": "464 KB",
-      "t": "STTPfCr.png",
       "a": "Kyaw Swar"
     },
     {
