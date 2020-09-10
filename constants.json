@@ -3850,9 +3850,9 @@
     {
       "unicode": true,
       "in": true,
-      "n": "ဟိုပုံး_Mod",
-      "u": "/Fonts/Language/Myanmar/Unicode/ဟိုပုံး_Mod.ttf",
-      "s": "741 KB",
+      "n": "ကြိုးကြာ_Pro",
+      "u": "/Fonts/Language/Myanmar/Unicode/ကြိုးကြာ_Pro.ttf",
+      "s": "200 KB",
       "t": "iIq88SW.png",
       "a": "Kyaw Swar"
     },
@@ -4183,18 +4183,18 @@
     {
       "unicode": true,
       "in": true,
-      "n": "ယင်းမာ",
-      "u": "/Fonts/Language/Myanmar/Unicode/ယင်းမာ.ttf",
-      "s": "75 KB",
+      "n": "မြန်မာပအိုဝ်းဝမ်း",
+      "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာပအိုဝ်းဝမ်း.ttf",
+      "s": "334 KB",
       "t": "M9xauCa.png",
       "a": "Kyaw Swar"
     },
     {
       "unicode": true,
       "in": true,
-      "n": "မြန်မာပအိုဝ်းဝမ်း",
-      "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာပအိုဝ်းဝမ်း.ttf",
-      "s": "334 KB",
+      "n": "မြန်မာယိမ်း_၂",
+      "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာယိမ်း_၂.ttf",
+      "s": "362 KB",
       "t": "thdmPr2.png",
       "a": "Kyaw Swar"
     },
@@ -4210,10 +4210,28 @@
     {
       "unicode": true,
       "in": true,
+      "n": "မိုင်မြန်မာ",
+      "u": "/Fonts/Language/Myanmar/Unicode/မိုင်မြန်မာ.ttf",
+      "s": "96 KB",
+      "t": "ekzvZik.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ယင်းမာ",
+      "u": "/Fonts/Language/Myanmar/Unicode/ယင်းမာ.ttf",
+      "s": "75 KB",
+      "t": "XCpr2WZ.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
       "n": "ယွန်းချို",
       "u": "/Fonts/Language/Myanmar/Unicode/ယွန်းချို.ttf",
       "s": "419 KB",
-      "t": "ekzvZik.png",
+      "t": "xD8pEzL.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4222,79 +4240,7 @@
       "n": "ရန်ကုန်",
       "u": "/Fonts/Language/Myanmar/Unicode/ရန်ကုန်.ttf",
       "s": "29 KB",
-      "t": "XCpr2WZ.png",
-      "a": "Kyaw Swar"
-    },
-    {
-      "unicode": true,
-      "in": true,
-      "n": "ရိုးရာ_Regular",
-      "u": "/Fonts/Language/Myanmar/Unicode/ရိုးရာ_Regular.ttf",
-      "s": "1.44 MB",
-      "t": "xD8pEzL.png",
-      "a": "Kyaw Swar"
-    },
-    {
-      "unicode": true,
-      "in": true,
-      "n": "လက်ရေး",
-      "u": "/Fonts/Language/Myanmar/Unicode/လက်ရေး.ttf",
-      "s": "198 KB",
       "t": "aJ9s1n3.png",
-      "a": "Kyaw Swar"
-    },
-    {
-      "unicode": true,
-      "in": true,
-      "n": "သံလွင်-Regular",
-      "u": "/Fonts/Language/Myanmar/Unicode/သံလွင်-Regular.ttf",
-      "s": "1.03 MB",
-      "t": "I5QhIwq.png",
-      "a": "Kyaw Swar"
-    },
-    {
-      "unicode": true,
-      "in": true,
-      "n": "သာလွန်",
-      "u": "/Fonts/Language/Myanmar/Unicode/သာလွန်.ttf",
-      "s": "344 KB",
-      "t": "Fu1FYEo.png",
-      "a": "Kyaw Swar"
-    },
-    {
-      "unicode": true,
-      "in": true,
-      "n": "ဟိုပုံး_v1",
-      "u": "/Fonts/Language/Myanmar/Unicode/ဟိုပုံး_v1.ttf",
-      "s": "195 KB",
-      "t": "8o7nzEE.png",
-      "a": "Kyaw Swar"
-    },
-    {
-      "unicode": true,
-      "in": true,
-      "n": "ကြိုးကြာ_Pro",
-      "u": "/Fonts/Language/Myanmar/Unicode/ကြိုးကြာ_Pro.ttf",
-      "s": "200 KB",
-      "t": "31sc8rh.png",
-      "a": "Kyaw Swar"
-    },
-    {
-      "unicode": true,
-      "in": true,
-      "n": "မြန်မာယိမ်း_၂",
-      "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာယိမ်း_၂.ttf",
-      "s": "362 KB",
-      "t": "VfAYkXn.png",
-      "a": "Kyaw Swar"
-    },
-    {
-      "unicode": true,
-      "in": true,
-      "n": "မိုင်မြန်မာ",
-      "u": "/Fonts/Language/Myanmar/Unicode/မိုင်မြန်မာ.ttf",
-      "s": "96 KB",
-      "t": "6yM6PY2.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4303,7 +4249,7 @@
       "n": "ရိုးရာ_Bold",
       "u": "/Fonts/Language/Myanmar/Unicode/ရိုးရာ_Bold.ttf",
       "s": "1.40 MB",
-      "t": "iyKZr87.png",
+      "t": "I5QhIwq.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4312,7 +4258,25 @@
       "n": "ရိုးရာ_Light",
       "u": "/Fonts/Language/Myanmar/Unicode/ရိုးရာ_Light.ttf",
       "s": "1.58 MB",
-      "t": "4meR2LR.png",
+      "t": "Fu1FYEo.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ရိုးရာ_Regular",
+      "u": "/Fonts/Language/Myanmar/Unicode/ရိုးရာ_Regular.ttf",
+      "s": "1.44 MB",
+      "t": "8o7nzEE.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "လက်ရေး",
+      "u": "/Fonts/Language/Myanmar/Unicode/လက်ရေး.ttf",
+      "s": "198 KB",
+      "t": "31sc8rh.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4321,7 +4285,7 @@
       "n": "ဝင်းအင်းဝ",
       "u": "/Fonts/Language/Myanmar/Unicode/ဝင်းအင်းဝ.ttf",
       "s": "394 KB",
-      "t": "AbVm3yu.png",
+      "t": "VfAYkXn.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4330,7 +4294,16 @@
       "n": "သံလွင်-Bold",
       "u": "/Fonts/Language/Myanmar/Unicode/သံလွင်-Bold.ttf",
       "s": "1.03 MB",
-      "t": "ml98Xcs.png",
+      "t": "6yM6PY2.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "သံလွင်-Regular",
+      "u": "/Fonts/Language/Myanmar/Unicode/သံလွင်-Regular.ttf",
+      "s": "1.03 MB",
+      "t": "iyKZr87.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4339,7 +4312,16 @@
       "n": "သံလွင်",
       "u": "/Fonts/Language/Myanmar/Unicode/သံလွင်.ttf",
       "s": "1.03 MB",
-      "t": "UIlvVUp.png",
+      "t": "4meR2LR.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "သာလွန်",
+      "u": "/Fonts/Language/Myanmar/Unicode/သာလွန်.ttf",
+      "s": "344 KB",
+      "t": "AbVm3yu.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4348,7 +4330,7 @@
       "n": "သူရိယ-Volt",
       "u": "/Fonts/Language/Myanmar/Unicode/သူရိယ-Volt.ttf",
       "s": "65 KB",
-      "t": "rEPT2gA.png",
+      "t": "ml98Xcs.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4357,6 +4339,24 @@
       "n": "သူရိယ",
       "u": "/Fonts/Language/Myanmar/Unicode/သူရိယ.ttf",
       "s": "31 KB",
+      "t": "UIlvVUp.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ဟိုပုံး_Mod",
+      "u": "/Fonts/Language/Myanmar/Unicode/ဟိုပုံး_Mod.ttf",
+      "s": "741 KB",
+      "t": "rEPT2gA.png",
+      "a": "Kyaw Swar"
+    },
+    {
+      "unicode": true,
+      "in": true,
+      "n": "ဟိုပုံး_v1",
+      "u": "/Fonts/Language/Myanmar/Unicode/ဟိုပုံး_v1.ttf",
+      "s": "195 KB",
       "t": "xku0ejz.png",
       "a": "Kyaw Swar"
     },
@@ -4417,8 +4417,8 @@
     {
       "unicode": true,
       "in": true,
-      "n": "Mon3",
-      "u": "/Fonts/Language/Myanmar/Unicode/Mon3.ttf",
+      "n": "mon3",
+      "u": "/Fonts/Language/Myanmar/Unicode/mon3.ttf",
       "s": "242 KB",
       "t": "EcG0Mgd.png",
       "a": "Kyaw Swar"
