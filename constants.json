@@ -199,6 +199,109 @@
     {
       "a": "RickyBush_",
       "in": true,
+      "n": "iOS14(beta)",
+      "u": "/Fonts/Emoji/iOS14(beta).ttf",
+      "s": "12.8 MB",
+      "t": "7lguUaz.png"
+    },
+    {
+      "a": "RickyBush_",
+      "in": true,
+      "n": "unofficial_iOS14(13.1)",
+      "u": "/Fonts/Emoji/unofficial_iOS14(13.1).ttf",
+      "s": "12.7 MB",
+      "t": "g3hfmka.png"
+    },
+    {
+      "a": "RickyBush_",
+      "in": true,
+      "n": "iOS+GMonkey",
+      "u": "/Fonts/Emoji/iOS+GMonkey.ttf",
+      "s": "12.7 MB",
+      "t": "F5M1Lwp.png"
+    },
+    {
+      "a": "RickyBush_",
+      "in": true,
+      "n": "iOS+GPoo",
+      "u": "/Fonts/Emoji/iOS+GPoo.ttf",
+      "s": "12.6 MB",
+      "t": "jDw8Zqa.png"
+    },
+    {
+      "a": "RickyBush_",
+      "in": true,
+      "n": "iOS+Gturtle",
+      "u": "/Fonts/Emoji/iOS+Gturtle.ttf",
+      "s": "12.7 MB",
+      "t": "yS867pf.png"
+    },
+    {
+      "a": "RickyBush_",
+      "in": true,
+      "n": "GMonkey",
+      "u": "/Fonts/Emoji/GMonkey.ttf",
+      "s": "5.98 MB",
+      "t": "zxyEb5D.png"
+    },
+    {
+      "a": "RickyBush_",
+      "in": true,
+      "n": "Google11",
+      "u": "/Fonts/Emoji/Google11.ttf",
+      "s": "5.70 MB",
+      "t": "d6MOlvA.png"
+    },
+    {
+      "a": "RickyBush_",
+      "in": true,
+      "n": "GPoo",
+      "u": "/Fonts/Emoji/GPoo.ttf",
+      "s": "5.92 MB",
+      "t": "tkDq4iN.png"
+    },
+    {
+      "a": "RickyBush_",
+      "in": true,
+      "n": "Gturtle",
+      "u": "/Fonts/Emoji/Gturtle.ttf",
+      "s": "5.95 MB",
+      "t": "GrKaBwc.png"
+    },
+    {
+      "a": "RickyBush_",
+      "in": true,
+      "n": "JoyPixels6.0",
+      "u": "/Fonts/Emoji/JoyPixels6.0.ttf",
+      "s": "22.1 MB",
+      "t": "N4ZAyCG.png"
+    },
+    {
+      "a": "RickyBush_",
+      "in": true,
+      "n": "Twemoji",
+      "u": "/Fonts/Emoji/Twemoji.ttf",
+      "s": "1.63 MB",
+      "t": "0m4H38E.png"
+    },
+    {
+      "a": "RickyBush_",
+      "in": true,
+      "n": "Samsung_2.5",
+      "u": "/Fonts/Emoji/Samsung_2.5.ttf",
+      "s": "9.48 MB",
+      "t": "9fVwuBz.png"
+    },
+    {
+      "a": "RickyBush_",
+      "in": true,
+      "n": "EmojiKitchen",
+      "u": "/Fonts/Emoji/EmojiKitchen.ttf",
+      "s": "6.20 MB",
+      "t": "dCXW6Gp.png"
+    },
+    {
+      "a": "RickyBush_",
       "n": "iOS_v14",
       "u": "/Fonts/Emoji/iOS_v14.ttf",
       "s": "20.5 MB",
@@ -206,7 +309,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "Kitchen+Google11Beta",
       "u": "/Fonts/Emoji/Kitchen+Google11Beta.ttf",
       "s": "9.79 MB",
@@ -214,7 +316,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "FaceBook5.0",
       "u": "/Fonts/Emoji/FaceBook5.0.ttf",
       "s": "12.3 MB",
@@ -222,7 +323,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "JoyPixel",
       "u": "/Fonts/Emoji/JoyPixel.ttf",
       "s": "22.1 MB",
@@ -230,7 +330,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "Android_11_Beta",
       "u": "/Fonts/Emoji/Android_11_Beta.ttf",
       "s": "9.26 MB",
@@ -238,7 +337,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "EmojiDex",
       "u": "/Fonts/Emoji/EmojiDex.ttf",
       "s": "33.2 MB",
@@ -246,7 +344,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "JoyPixel_NoNum",
       "u": "/Fonts/Emoji/JoyPixel_NoNum.ttf",
       "s": "22.1 MB",
@@ -317,12 +414,6 @@
       "s": "22.08 MB",
       "u": "/Fonts/Emoji/iOS11Emoji.ttf",
       "t": "04inix4.png"
-    },
-    {
-      "n": "Twemoji",
-      "u": "/Fonts/Emoji/Twemoji.ttf",
-      "s": "17.03 MB",
-      "t": "QQD64wg.png"
     },
     {
       "n": "Windows 10",
