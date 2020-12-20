@@ -41,6 +41,10 @@
       "name": "Arabic"
     },
     {
+      "url": "",
+      "name": "Color"
+    },
+    {
       "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/chakma.json",
       "name": "Chakma"
     },
@@ -51,6 +55,10 @@
     {
       "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/english.json",
       "name": "English"
+    },
+    {
+      "url": "",
+      "name": "Emoji"
     },
     {
       "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/khmer.json",
