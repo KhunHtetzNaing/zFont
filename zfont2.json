@@ -66,6 +66,10 @@
       "name": "Khmer"
     },
     {
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/kurdish.json",
+      "name": "Kurdish 🔥"
+    },
+    {
       "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/lao.json",
       "name": "Lao"
     },
@@ -107,11 +111,11 @@
     },
     {
       "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/ukrainian.json",
-      "name": "Ukrainian 🔥"
+      "name": "Ukrainian"
     },
     {
       "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/korean.json",
-      "name": "Korean 🔥"
+      "name": "Korean"
     }
   ],
   "rooted": [
