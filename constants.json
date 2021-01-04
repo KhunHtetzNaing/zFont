@@ -2,8 +2,8 @@
   "banner": "ca-app-pub-2780984156359274/3172163254",
   "interstitial": "ca-app-pub-2780984156359274/9258171407",
   "rewarded": "ca-app-pub-2780984156359274/4765103069",
-  "fb_interstitial":"",
-  "fb_banner":"",
+  "fb_interstitial": "",
+  "fb_banner": "",
   "sponsor": "http://onemboaran.com/afu.php?zoneid=2795394",
   "custom_js": "",
   "show_ad_limit": 10,
@@ -201,7 +201,6 @@
   "emoji": [
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "iOS14(beta)",
       "u": "/Fonts/Emoji/iOS14(beta).ttf",
       "s": "12.8 MB",
@@ -209,7 +208,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "unofficial_iOS14(13.1)",
       "u": "/Fonts/Emoji/unofficial_iOS14(13.1).ttf",
       "s": "12.7 MB",
@@ -217,7 +215,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "iOS+GMonkey",
       "u": "/Fonts/Emoji/iOS+GMonkey.ttf",
       "s": "12.7 MB",
@@ -225,7 +222,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "iOS+GPoo",
       "u": "/Fonts/Emoji/iOS+GPoo.ttf",
       "s": "12.6 MB",
@@ -233,7 +229,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "iOS+Gturtle",
       "u": "/Fonts/Emoji/iOS+Gturtle.ttf",
       "s": "12.7 MB",
@@ -241,7 +236,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "GMonkey",
       "u": "/Fonts/Emoji/GMonkey.ttf",
       "s": "5.98 MB",
@@ -249,7 +243,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "Google11",
       "u": "/Fonts/Emoji/Google11.ttf",
       "s": "5.70 MB",
@@ -257,7 +250,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "GPoo",
       "u": "/Fonts/Emoji/GPoo.ttf",
       "s": "5.92 MB",
@@ -265,7 +257,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "Gturtle",
       "u": "/Fonts/Emoji/Gturtle.ttf",
       "s": "5.95 MB",
@@ -273,7 +264,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "JoyPixels6.0",
       "u": "/Fonts/Emoji/JoyPixels6.0.ttf",
       "s": "22.1 MB",
@@ -281,7 +271,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "Twemoji",
       "u": "/Fonts/Emoji/Twemoji.ttf",
       "s": "1.63 MB",
@@ -289,7 +278,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "Samsung_2.5",
       "u": "/Fonts/Emoji/Samsung_2.5.ttf",
       "s": "9.48 MB",
@@ -297,7 +285,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "EmojiKitchen",
       "u": "/Fonts/Emoji/EmojiKitchen.ttf",
       "s": "6.20 MB",
@@ -499,7 +486,6 @@
   ],
   "color": [
     {
-      "in": true,
       "n": "All_I_Ask",
       "u": "/Fonts/Color/All_I_Ask.ttf",
       "s": "281 KB",
@@ -507,7 +493,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "Among_Flowers_Smile",
       "u": "/Fonts/Color/Among_Flowers_Smile.ttf",
       "s": "271 KB",
@@ -515,7 +500,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "Beloved_Bunny",
       "u": "/Fonts/Color/Beloved_Bunny.ttf",
       "s": "321 KB",
@@ -523,7 +507,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "Colorful_Fruits",
       "u": "/Fonts/Color/Colorful_Fruits.ttf",
       "s": "349 KB",
@@ -531,7 +514,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "DearYou",
       "u": "/Fonts/Color/DearYou.ttf",
       "s": "225 KB",
@@ -539,7 +521,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "Fighting",
       "u": "/Fonts/Color/Fighting.ttf",
       "s": "321 KB",
@@ -547,7 +528,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "ForeverHello",
       "u": "/Fonts/Color/ForeverHello.ttf",
       "s": "3.31 MB",
@@ -555,7 +535,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "Frozen_heart",
       "u": "/Fonts/Color/Frozen_heart.ttf",
       "s": "373 KB",
@@ -563,7 +542,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "Fruit_Jelly",
       "u": "/Fonts/Color/Fruit_Jelly.ttf",
       "s": "401 KB",
@@ -571,7 +549,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "GetLucky",
       "u": "/Fonts/Color/GetLucky.ttf",
       "s": "2.91 MB",
@@ -579,7 +556,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "GirlHello",
       "u": "/Fonts/Color/GirlHello.ttf",
       "s": "284 KB",
@@ -587,7 +563,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "HappySummer",
       "u": "/Fonts/Color/HappySummer.ttf",
       "s": "3.52 MB",
@@ -595,7 +570,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "Heart_to_heart",
       "u": "/Fonts/Color/Heart_to_heart.ttf",
       "s": "341 KB",
@@ -603,7 +577,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "Heartbeat_interval",
       "u": "/Fonts/Color/Heartbeat_interval.ttf",
       "s": "228 KB",
@@ -611,7 +584,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "HeartByHeart",
       "u": "/Fonts/Color/HeartByHeart.ttf",
       "s": "416 KB",
@@ -619,7 +591,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "Hibernal_Snow",
       "u": "/Fonts/Color/Hibernal_Snow.ttf",
       "s": "95 KB",
@@ -627,7 +598,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "Hug_you_deeply",
       "u": "/Fonts/Color/Hug_you_deeply.ttf",
       "s": "290 KB",
@@ -635,7 +605,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "INeverLeft",
       "u": "/Fonts/Color/INeverLeft.ttf",
       "s": "333 KB",
@@ -643,7 +612,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "LastKiss",
       "u": "/Fonts/Color/LastKiss.ttf",
       "s": "360 KB",
@@ -651,7 +619,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "Lemon_Juice",
       "u": "/Fonts/Color/Lemon_Juice.ttf",
       "s": "290 KB",
@@ -659,7 +626,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "LoveActually",
       "u": "/Fonts/Color/LoveActually.ttf",
       "s": "398 KB",
@@ -667,7 +633,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "LoveInTheTime",
       "u": "/Fonts/Color/LoveInTheTime.ttf",
       "s": "375 KB",
@@ -675,7 +640,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "LoveSongForYou",
       "u": "/Fonts/Color/LoveSongForYou.ttf",
       "s": "363 KB",
@@ -683,7 +647,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "MeetLove",
       "u": "/Fonts/Color/MeetLove.ttf",
       "s": "232 KB",
@@ -691,7 +654,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "Memories_With_You",
       "u": "/Fonts/Color/Memories_With_You.ttf",
       "s": "581 KB",
@@ -699,7 +661,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "MyDarling",
       "u": "/Fonts/Color/MyDarling.ttf",
       "s": "89 KB",
@@ -707,7 +668,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "MyFirstLove",
       "u": "/Fonts/Color/MyFirstLove.ttf",
       "s": "323 KB",
@@ -715,7 +675,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "MyGarden",
       "u": "/Fonts/Color/MyGarden.ttf",
       "s": "335 KB",
@@ -723,7 +682,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "NorthenLights",
       "u": "/Fonts/Color/NorthenLights.ttf",
       "s": "469 KB",
@@ -731,7 +689,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "OneDream",
       "u": "/Fonts/Color/OneDream.ttf",
       "s": "266 KB",
@@ -739,7 +696,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "PurplePotatoCake",
       "u": "/Fonts/Color/PurplePotatoCake.ttf",
       "s": "270 KB",
@@ -747,7 +703,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "RainbowRain",
       "u": "/Fonts/Color/RainbowRain.ttf",
       "s": "334 KB",
@@ -755,7 +710,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "SayHello",
       "u": "/Fonts/Color/SayHello.ttf",
       "s": "257 KB",
@@ -763,7 +717,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "Shiny_Star",
       "u": "/Fonts/Color/Shiny_Star.ttf",
       "s": "323 KB",
@@ -771,7 +724,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "SparklingWater",
       "u": "/Fonts/Color/SparklingWater.ttf",
       "s": "218 KB",
@@ -779,7 +731,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "StarLights",
       "u": "/Fonts/Color/StarLights.ttf",
       "s": "382 KB",
@@ -787,7 +738,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "Sweet-Dreams",
       "u": "/Fonts/Color/Sweet-Dreams.ttf",
       "s": "2.61 MB",
@@ -795,7 +745,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "TasteOfTears",
       "u": "/Fonts/Color/TasteOfTears.ttf",
       "s": "287 KB",
@@ -803,7 +752,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "The_Galaxy",
       "u": "/Fonts/Color/The_Galaxy.ttf",
       "s": "92 KB",
@@ -811,7 +759,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "TheBlueWhale",
       "u": "/Fonts/Color/TheBlueWhale.ttf",
       "s": "191 KB",
@@ -819,7 +766,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "TikTok",
       "u": "/Fonts/Color/TikTok.ttf",
       "s": "326 KB",
@@ -827,7 +773,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "Tsundere",
       "u": "/Fonts/Color/Tsundere.ttf",
       "s": "275 KB",
@@ -835,7 +780,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "Twinkle_Twinkle",
       "u": "/Fonts/Color/Twinkle_Twinkle.ttf",
       "s": "407 KB",
@@ -843,7 +787,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "ViVid_colors",
       "u": "/Fonts/Color/ViVid_colors.ttf",
       "s": "267 KB",
@@ -851,7 +794,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "X-Faster",
       "u": "/Fonts/Color/X-Faster.ttf",
       "s": "490 KB",
@@ -859,7 +801,6 @@
       "a": "Mg Mg"
     },
     {
-      "in": true,
       "n": "Good_Luck_Hello",
       "u": "/Fonts/Color/Good_Luck_Hello.ttf",
       "s": "291 KB",
@@ -1350,14 +1291,12 @@
     {
       "n": "Mytype",
       "s": "40 KB",
-      "in": true,
       "u": "/Fonts/Stylish/Mytype.ttf",
       "t": "zX4RCDN.png",
       "a": "Ricky Diviva"
     },
     {
       "a": "mira Jio",
-      "in": true,
       "n": "aisoo",
       "u": "/Fonts/Stylish/aisoo.ttf",
       "s": "108 KB",
@@ -1365,7 +1304,6 @@
     },
     {
       "a": "mira Jio",
-      "in": true,
       "n": "Appal",
       "u": "/Fonts/Stylish/Appal.ttf",
       "s": "99 KB",
@@ -1373,7 +1311,6 @@
     },
     {
       "a": "mira Jio",
-      "in": true,
       "n": "begonia",
       "u": "/Fonts/Stylish/begonia.ttf",
       "s": "78 KB",
@@ -1381,7 +1318,6 @@
     },
     {
       "a": "mira Jio",
-      "in": true,
       "n": "Decorate",
       "u": "/Fonts/Stylish/Decorate.ttf",
       "s": "175 KB",
@@ -1389,7 +1325,6 @@
     },
     {
       "a": "mira Jio",
-      "in": true,
       "n": "Flow",
       "u": "/Fonts/Stylish/Flow.ttf",
       "s": "144 KB",
@@ -1397,7 +1332,6 @@
     },
     {
       "a": "mira Jio",
-      "in": true,
       "n": "Hibiscus",
       "u": "/Fonts/Stylish/Hibiscus.ttf",
       "s": "369 KB",
@@ -1405,28 +1339,24 @@
     },
     {
       "a": "mira Jio",
-      "in": true,
       "n": "HOLD",
       "u": "/Fonts/Stylish/HOLD.ttf",
       "s": "115 KB",
       "t": "RjdGj5M.png"
     },
     {
-      "in": true,
       "n": "Imprima_Love",
       "u": "/Fonts/Language/English/TEST/Imprima_Love.ttf",
       "s": "26 KB",
       "t": "DVHnGRT.png"
     },
     {
-      "in": true,
       "n": "Marmelad_Ribbon",
       "u": "/Fonts/Language/English/TEST/Marmelad_Ribbon.ttf",
       "s": "96 KB",
       "t": "Wdk37Qd.png"
     },
     {
-      "in": true,
       "n": "Fiesole_Italic",
       "u": "/Fonts/Language/English/TEST/Fiesole_Italic.ttf",
       "s": "108 KB",
@@ -1434,7 +1364,6 @@
     },
     {
       "a": "Paras Gawali",
-      "in": true,
       "n": "Comic_Book",
       "u": "/Fonts/Cool/Comic_Book.ttf",
       "s": "39 KB",
@@ -1442,7 +1371,6 @@
     },
     {
       "a": "Dinette Dismon",
-      "in": true,
       "n": "Century_Schoolbook_Bold_Condensed_BT",
       "u": "/Fonts/Language/English/Century_Schoolbook_Bold_Condensed_BT.ttf",
       "s": "48 KB",
@@ -1450,7 +1378,6 @@
     },
     {
       "a": "Hunter Kole",
-      "in": true,
       "n": "Comic_Sans_MS",
       "u": "/Fonts/Language/English/Comic_Sans_MS.ttf",
       "s": "62 KB",
@@ -1458,7 +1385,6 @@
     },
     {
       "a": "georgikidyov",
-      "in": true,
       "n": "DEC_Terminal_Modern",
       "u": "/Fonts/Language/English/DEC_Terminal_Modern.ttf",
       "s": "211 KB",
@@ -1466,7 +1392,6 @@
     },
     {
       "a": "Harold Apoc",
-      "in": true,
       "n": "Espar_Arial_Classic",
       "u": "/Fonts/Language/English/Espar_Arial_Classic.ttf",
       "s": "36 KB",
@@ -1474,7 +1399,6 @@
     },
     {
       "a": "Ronny220",
-      "in": true,
       "n": "GoogleSans-Regular",
       "u": "/Fonts/Language/English/GoogleSans-Regular.ttf",
       "s": "117 KB",
@@ -1482,7 +1406,6 @@
     },
     {
       "a": "Brad",
-      "in": true,
       "n": "JOJO",
       "u": "/Fonts/Language/English/JOJO.ttf",
       "s": "27 KB",
@@ -1490,7 +1413,6 @@
     },
     {
       "a": "Degree34",
-      "in": true,
       "n": "LilitaOne-Regular",
       "u": "/Fonts/Language/English/LilitaOne-Regular.ttf",
       "s": "27 KB",
@@ -1498,7 +1420,6 @@
     },
     {
       "a": "Bloop",
-      "in": true,
       "n": "Minecraftia-Regular",
       "u": "/Fonts/Language/English/Minecraftia-Regular.ttf",
       "s": "68 KB",
@@ -1506,7 +1427,6 @@
     },
     {
       "a": "Dieter Steffmann",
-      "in": true,
       "n": "Nougat-ExtraBlack",
       "u": "/Fonts/Language/English/Nougat-ExtraBlack.ttf",
       "s": "27 KB",
@@ -1514,14 +1434,12 @@
     },
     {
       "a": "Denis Odintsov",
-      "in": true,
       "n": "Sumy-Regular",
       "u": "/Fonts/Language/English/Sumy-Regular.ttf",
       "s": "42 KB",
       "t": "1IpiHMk.png"
     },
     {
-      "in": true,
       "n": "Acquest_Script",
       "u": "/Fonts/Language/English/Acquest_Script.ttf",
       "s": "164 KB",
@@ -1529,7 +1447,6 @@
       "a": "Papaa Di Patlo"
     },
     {
-      "in": true,
       "n": "New_Walt_Disney",
       "u": "/Fonts/Language/English/New_Walt_Disney.ttf",
       "s": "32 KB",
@@ -1760,7 +1677,6 @@
     },
     {
       "a": "Firman Akbar",
-      "in": true,
       "n": "BurbankBigCondensed",
       "u": "/Fonts/Language/English/BurbankBigCondensed.ttf",
       "s": "109 KB",
@@ -1768,7 +1684,6 @@
     },
     {
       "a": "Cekodok Pisang",
-      "in": true,
       "n": "Yellowtail",
       "u": "/Fonts/Language/English/Yellowtail.ttf",
       "s": "65 KB",
@@ -1776,7 +1691,6 @@
     },
     {
       "a": "Aa'esha Umm Luqman",
-      "in": true,
       "n": "CaviarDreamBold",
       "u": "/Fonts/Language/English/CaviarDreamBold.ttf",
       "s": "54 KB",
@@ -1784,7 +1698,6 @@
     },
     {
       "a": "Lorenze Mae Concepcion",
-      "in": true,
       "n": "BauhausITC",
       "u": "/Fonts/Language/English/BauhausITC.ttf",
       "s": "150 KB",
@@ -1792,7 +1705,6 @@
     },
     {
       "a": "Malaya Tojin",
-      "in": true,
       "n": "Oswald",
       "u": "/Fonts/Language/English/Oswald.ttf",
       "s": "72 KB",
@@ -1800,7 +1712,6 @@
     },
     {
       "a": "Sabbir Hossain",
-      "in": true,
       "n": "Bangla",
       "u": "/Fonts/Language/English/Bangla.ttf",
       "s": "183 KB",
@@ -1808,7 +1719,6 @@
     },
     {
       "a": "Abdullah Al Mahmud",
-      "in": true,
       "n": "BalooDa",
       "u": "/Fonts/Language/English/BalooDa.ttf",
       "s": "427 KB",
@@ -1816,7 +1726,6 @@
     },
     {
       "a": "Kevin Donato",
-      "in": true,
       "n": "SFCartoonistHand",
       "u": "/Fonts/Language/English/SFCartoonistHand.ttf",
       "s": "55 KB",
@@ -1824,7 +1733,6 @@
     },
     {
       "a": "Kevin Donato",
-      "in": true,
       "n": "SFCartoonistHandSC",
       "u": "/Fonts/Language/English/SFCartoonistHandSC.ttf",
       "s": "58 KB",
@@ -1832,7 +1740,6 @@
     },
     {
       "a": "Malaya Tojin",
-      "in": true,
       "n": "PriceDown",
       "u": "/Fonts/Language/English/PriceDown.ttf",
       "s": "182 KB",
@@ -1840,7 +1747,6 @@
     },
     {
       "a": "Bravo M Justin",
-      "in": true,
       "n": "DeiYLatin",
       "u": "/Fonts/Language/English/DeiYLatin.ttf",
       "s": "29 KB",
@@ -1848,7 +1754,6 @@
     },
     {
       "a": "Asep Firmansyah",
-      "in": true,
       "n": "TimesNewRoman",
       "u": "/Fonts/Language/English/TimesNewRoman.ttf",
       "s": "75 KB",
@@ -1856,7 +1761,6 @@
     },
     {
       "a": "Logan Sotgiu",
-      "in": true,
       "n": "Atma",
       "u": "/Fonts/Language/English/Atma.ttf",
       "s": "215 KB",
@@ -1864,7 +1768,6 @@
     },
     {
       "a": "Natli Ruby",
-      "in": true,
       "n": "DJB_Drives_Me_Dotty",
       "u": "/Fonts/Language/English/DJB_Drives_Me_Dotty.ttf",
       "s": "62 KB",
@@ -1872,7 +1775,6 @@
     },
     {
       "a": "Marielle Laurent",
-      "in": true,
       "n": "Asinastra",
       "u": "/Fonts/Language/English/Asinastra.ttf",
       "s": "32 KB",
@@ -1880,7 +1782,6 @@
     },
     {
       "a": "Jonayed Ahmmed Ratul",
-      "in": true,
       "n": "Galada",
       "u": "/Fonts/Language/English/Galada.ttf",
       "s": "183 KB",
@@ -1888,7 +1789,6 @@
     },
     {
       "a": "Divafi",
-      "in": true,
       "n": "Danila",
       "u": "/Fonts/Language/English/Danila.ttf",
       "s": "22 KB",
@@ -1896,7 +1796,6 @@
     },
     {
       "a": "Marcel Tapies Rubio",
-      "in": true,
       "n": "OldLondon",
       "u": "/Fonts/Language/English/OldLondon.ttf",
       "s": "49 KB",
@@ -1905,96 +1804,82 @@
     {
       "n": "Muli-ExtraLight",
       "u": "/Fonts/Language/English/Muli/Muli-ExtraLight.ttf",
-      "in": true,
       "s": "85 KB",
       "t": "6wx1Qre.png"
     },
     {
       "n": "Muli-ExtraLightItalic",
       "u": "/Fonts/Language/English/Muli/Muli-ExtraLightItalic.ttf",
-      "in": true,
       "s": "87 KB",
       "t": "c9oeWvn.png"
     },
     {
       "n": "Muli-Light",
       "u": "/Fonts/Language/English/Muli/Muli-Light.ttf",
-      "in": true,
       "s": "87 KB",
       "t": "GWnZkjd.png"
     },
     {
       "n": "Muli-LightItalic",
       "u": "/Fonts/Language/English/Muli/Muli-LightItalic.ttf",
-      "in": true,
       "s": "88 KB",
       "t": "Szt5DJk.png"
     },
     {
       "n": "Muli-Regular",
       "u": "/Fonts/Language/English/Muli/Muli-Regular.ttf",
-      "in": true,
       "s": "88 KB",
       "t": "OZWzGw5.png"
     },
     {
       "n": "Muli-Italic",
       "u": "/Fonts/Language/English/Muli/Muli-Italic.ttf",
-      "in": true,
       "s": "90 KB",
       "t": "Dco4W8f.png"
     },
     {
       "n": "Muli-SemiBold",
       "u": "/Fonts/Language/English/Muli/Muli-SemiBold.ttf",
-      "in": true,
       "s": "87 KB",
       "t": "nLOZMjQ.png"
     },
     {
       "n": "Muli-SemiBoldItalic",
       "u": "/Fonts/Language/English/Muli/Muli-SemiBoldItalic.ttf",
-      "in": true,
       "s": "89 KB",
       "t": "QH0lkHD.png"
     },
     {
       "n": "Muli-Bold",
       "u": "/Fonts/Language/English/Muli/Muli-Bold.ttf",
-      "in": true,
       "s": "88 KB",
       "t": "kWbCAge.png"
     },
     {
-      "in": true,
       "n": "Muli-BoldItalic",
       "u": "/Fonts/Language/English/Muli/Muli-BoldItalic.ttf",
       "s": "90 KB",
       "t": "hHjfb5Q.png"
     },
     {
-      "in": true,
       "n": "Muli-ExtraBold",
       "u": "/Fonts/Language/English/Muli/Muli-ExtraBold.ttf",
       "s": "89 KB",
       "t": "uvQ0kkx.png"
     },
     {
-      "in": true,
       "n": "Muli-ExtraBoldItalic",
       "u": "/Fonts/Language/English/Muli/Muli-ExtraBoldItalic.ttf",
       "s": "90 KB",
       "t": "QBR3siq.png"
     },
     {
-      "in": true,
       "n": "Muli-Black",
       "u": "/Fonts/Language/English/Muli/Muli-Black.ttf",
       "s": "89 KB",
       "t": "Xj0URY4.png"
     },
     {
-      "in": true,
       "n": "Muli-BlackItalic",
       "u": "/Fonts/Language/English/Muli/Muli-BlackItalic.ttf",
       "s": "91 KB",
@@ -3891,7 +3776,6 @@
   "myanmar": [
     {
       "unicode": true,
-      "in": true,
       "n": "ပြည်ထောင်စု_Bold",
       "u": "/Fonts/Language/Myanmar/Unicode/color/ပြည်ထောင်စု_Bold.ttf",
       "s": "234 KB",
@@ -3899,7 +3783,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ပြည်ထောင်စု_Regular",
       "u": "/Fonts/Language/Myanmar/Unicode/color/ပြည်ထောင်စု_Regular.ttf",
       "s": "190 KB",
@@ -3907,7 +3790,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "Myanmar_Old_Oppo",
       "u": "/Fonts/Language/Myanmar/Unicode/Myanmar_Old_Oppo.ttf",
       "s": "161 KB",
@@ -3916,7 +3798,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ကံ့ကော်",
       "u": "/Fonts/Language/Myanmar/Unicode/ကံ့ကော်.ttf",
       "s": "79 KB",
@@ -3925,7 +3806,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ကက္ကူ",
       "u": "/Fonts/Language/Myanmar/Unicode/ကက္ကူ.ttf",
       "s": "178 KB",
@@ -3934,7 +3814,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ကျိုင်းတုံ",
       "u": "/Fonts/Language/Myanmar/Unicode/ကျိုင်းတုံ.ttf",
       "s": "156 KB",
@@ -3943,7 +3822,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ကြိုးကြာ_Pro",
       "u": "/Fonts/Language/Myanmar/Unicode/ကြိုးကြာ_Pro.ttf",
       "s": "200 KB",
@@ -3952,7 +3830,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ခတ္တာ",
       "u": "/Fonts/Language/Myanmar/Unicode/ခတ္တာ.ttf",
       "s": "76 KB",
@@ -3961,7 +3838,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ခမ်းကောင်",
       "u": "/Fonts/Language/Myanmar/Unicode/ခမ်းကောင်.ttf",
       "s": "255 KB",
@@ -3970,7 +3846,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ချယ်ရီ",
       "u": "/Fonts/Language/Myanmar/Unicode/ချယ်ရီ.ttf",
       "s": "149 KB",
@@ -3979,7 +3854,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ခွန်ပအိုဝ်ႏ-Bold",
       "u": "/Fonts/Language/Myanmar/Unicode/ခွန်ပအိုဝ်ႏ-Bold.ttf",
       "s": "206 KB",
@@ -3988,7 +3862,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ခွန်ပအိုဝ်ႏ-Regular",
       "u": "/Fonts/Language/Myanmar/Unicode/ခွန်ပအိုဝ်ႏ-Regular.ttf",
       "s": "207 KB",
@@ -3997,7 +3870,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ခွေး",
       "u": "/Fonts/Language/Myanmar/Unicode/ခွေး.ttf",
       "s": "40 KB",
@@ -4006,7 +3878,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ခေး",
       "u": "/Fonts/Language/Myanmar/Unicode/ခေး.ttf",
       "s": "40 KB",
@@ -4015,7 +3886,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "စကား",
       "u": "/Fonts/Language/Myanmar/Unicode/စကား.ttf",
       "s": "40 KB",
@@ -4024,7 +3894,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "စံပယ်",
       "u": "/Fonts/Language/Myanmar/Unicode/စံပယ်.ttf",
       "s": "41 KB",
@@ -4033,7 +3902,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "စံပယ်ပန်း",
       "u": "/Fonts/Language/Myanmar/Unicode/စံပယ်ပန်း.ttf",
       "s": "161 KB",
@@ -4042,7 +3910,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ဆီဆိုင်",
       "u": "/Fonts/Language/Myanmar/Unicode/ဆီဆိုင်.ttf",
       "s": "1.52 MB",
@@ -4051,7 +3918,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "တန်ခူး",
       "u": "/Fonts/Language/Myanmar/Unicode/တန်ခူး.ttf",
       "s": "45 KB",
@@ -4060,7 +3926,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "တိုင်းရင်းသား",
       "u": "/Fonts/Language/Myanmar/Unicode/တိုင်းရင်းသား.ttf",
       "s": "211 KB",
@@ -4069,7 +3934,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "တောင်ကြီး",
       "u": "/Fonts/Language/Myanmar/Unicode/တောင်ကြီး.ttf",
       "s": "116 KB",
@@ -4078,7 +3942,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "နမ့်ခုံး-Grand",
       "u": "/Fonts/Language/Myanmar/Unicode/နမ့်ခုံး-Grand.ttf",
       "s": "270 KB",
@@ -4087,7 +3950,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "နမ့်ခုံး",
       "u": "/Fonts/Language/Myanmar/Unicode/နမ့်ခုံး.ttf",
       "s": "520 KB",
@@ -4096,7 +3958,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "နယုန်",
       "u": "/Fonts/Language/Myanmar/Unicode/နယုန်.ttf",
       "s": "42 KB",
@@ -4105,7 +3966,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ပင်လုံ",
       "u": "/Fonts/Language/Myanmar/Unicode/ပင်လုံ.ttf",
       "s": "1.66 MB",
@@ -4114,7 +3974,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ပြည်ထောင်စု-2.5.3_Bold",
       "u": "/Fonts/Language/Myanmar/Unicode/ပြည်ထောင်စု-2.5.3_Bold.ttf",
       "s": "228 KB",
@@ -4123,7 +3982,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ပြည်ထောင်စု-2.5.3_Regular",
       "u": "/Fonts/Language/Myanmar/Unicode/ပြည်ထောင်စု-2.5.3_Regular.ttf",
       "s": "185 KB",
@@ -4132,7 +3990,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ပိတောက်-bold",
       "u": "/Fonts/Language/Myanmar/Unicode/ပိတောက်-bold.ttf",
       "s": "432 KB",
@@ -4141,7 +3998,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ပိတောက်-book",
       "u": "/Fonts/Language/Myanmar/Unicode/ပိတောက်-book.ttf",
       "s": "465 KB",
@@ -4150,7 +4006,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ပိတောက်-bookbold",
       "u": "/Fonts/Language/Myanmar/Unicode/ပိတောက်-bookbold.ttf",
       "s": "431 KB",
@@ -4159,7 +4014,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ပိတောက်-သရဲ",
       "u": "/Fonts/Language/Myanmar/Unicode/ပိတောက်-သရဲ.ttf",
       "s": "240 KB",
@@ -4168,7 +4022,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ပိတောက်",
       "u": "/Fonts/Language/Myanmar/Unicode/ပိတောက်.ttf",
       "s": "461 KB",
@@ -4177,7 +4030,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ပိတောက်ကြောင်ချီး",
       "u": "/Fonts/Language/Myanmar/Unicode/ပိတောက်ကြောင်ချီး.ttf",
       "s": "271 KB",
@@ -4186,7 +4038,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ပုဂံ",
       "u": "/Fonts/Language/Myanmar/Unicode/ပုဂံ.ttf",
       "s": "233 KB",
@@ -4195,7 +4046,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ပုန်းညက်",
       "u": "/Fonts/Language/Myanmar/Unicode/ပုန်းညက်.ttf",
       "s": "38 KB",
@@ -4204,7 +4054,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ပုရပိုက်",
       "u": "/Fonts/Language/Myanmar/Unicode/ပုရပိုက်.ttf",
       "s": "162 KB",
@@ -4213,7 +4062,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ပေါက်ကလေး",
       "u": "/Fonts/Language/Myanmar/Unicode/ပေါက်ကလေး.ttf",
       "s": "39 KB",
@@ -4222,7 +4070,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ဖက်စုတ်",
       "u": "/Fonts/Language/Myanmar/Unicode/ဖက်စုတ်.ttf",
       "s": "41 KB",
@@ -4231,7 +4078,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ဖယ်ခုံ",
       "u": "/Fonts/Language/Myanmar/Unicode/ဖယ်ခုံ.ttf",
       "s": "200 KB",
@@ -4240,7 +4086,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "မြန်မာနှင်းဆီ",
       "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာနှင်းဆီ.ttf",
       "s": "361 KB",
@@ -4249,7 +4094,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "မြန်မာ့ပန်း",
       "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာ့ပန်း.ttf",
       "s": "172 KB",
@@ -4258,7 +4102,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "မြန်မာပအိုဝ်း-နှင်းဆီ",
       "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာပအိုဝ်း-နှင်းဆီ.ttf",
       "s": "361 KB",
@@ -4267,7 +4110,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "မြန်မာပအိုဝ်း",
       "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာပအိုဝ်း.ttf",
       "s": "229 KB",
@@ -4276,7 +4118,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "မြန်မာပအိုဝ်းဝမ်း",
       "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာပအိုဝ်းဝမ်း.ttf",
       "s": "334 KB",
@@ -4285,7 +4126,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "မြန်မာယိမ်း_၂",
       "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာယိမ်း_၂.ttf",
       "s": "362 KB",
@@ -4294,7 +4134,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "မြန်မာယိမ်း",
       "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာယိမ်း.ttf",
       "s": "258 KB",
@@ -4303,7 +4142,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "မိုင်မြန်မာ",
       "u": "/Fonts/Language/Myanmar/Unicode/မိုင်မြန်မာ.ttf",
       "s": "96 KB",
@@ -4312,7 +4150,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ယင်းမာ",
       "u": "/Fonts/Language/Myanmar/Unicode/ယင်းမာ.ttf",
       "s": "75 KB",
@@ -4321,7 +4158,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ယွန်းချို",
       "u": "/Fonts/Language/Myanmar/Unicode/ယွန်းချို.ttf",
       "s": "419 KB",
@@ -4330,7 +4166,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ရန်ကုန်",
       "u": "/Fonts/Language/Myanmar/Unicode/ရန်ကုန်.ttf",
       "s": "29 KB",
@@ -4339,7 +4174,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ရိုးရာ_Bold",
       "u": "/Fonts/Language/Myanmar/Unicode/ရိုးရာ_Bold.ttf",
       "s": "1.40 MB",
@@ -4348,7 +4182,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ရိုးရာ_Light",
       "u": "/Fonts/Language/Myanmar/Unicode/ရိုးရာ_Light.ttf",
       "s": "1.58 MB",
@@ -4357,7 +4190,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ရိုးရာ_Regular",
       "u": "/Fonts/Language/Myanmar/Unicode/ရိုးရာ_Regular.ttf",
       "s": "1.44 MB",
@@ -4366,7 +4198,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "လက်ရေး",
       "u": "/Fonts/Language/Myanmar/Unicode/လက်ရေး.ttf",
       "s": "198 KB",
@@ -4375,7 +4206,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ဝင်းအင်းဝ",
       "u": "/Fonts/Language/Myanmar/Unicode/ဝင်းအင်းဝ.ttf",
       "s": "394 KB",
@@ -4384,7 +4214,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "သံလွင်-Bold",
       "u": "/Fonts/Language/Myanmar/Unicode/သံလွင်-Bold.ttf",
       "s": "1.03 MB",
@@ -4393,7 +4222,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "သံလွင်-Regular",
       "u": "/Fonts/Language/Myanmar/Unicode/သံလွင်-Regular.ttf",
       "s": "1.03 MB",
@@ -4402,7 +4230,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "သံလွင်",
       "u": "/Fonts/Language/Myanmar/Unicode/သံလွင်.ttf",
       "s": "1.03 MB",
@@ -4411,7 +4238,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "သာလွန်",
       "u": "/Fonts/Language/Myanmar/Unicode/သာလွန်.ttf",
       "s": "344 KB",
@@ -4420,7 +4246,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "သူရိယ-Volt",
       "u": "/Fonts/Language/Myanmar/Unicode/သူရိယ-Volt.ttf",
       "s": "65 KB",
@@ -4429,7 +4254,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "သူရိယ",
       "u": "/Fonts/Language/Myanmar/Unicode/သူရိယ.ttf",
       "s": "31 KB",
@@ -4438,7 +4262,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ဟိုပုံး_Mod",
       "u": "/Fonts/Language/Myanmar/Unicode/ဟိုပုံး_Mod.ttf",
       "s": "741 KB",
@@ -4447,7 +4270,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ဟိုပုံး_v1",
       "u": "/Fonts/Language/Myanmar/Unicode/ဟိုပုံး_v1.ttf",
       "s": "195 KB",
@@ -4456,7 +4278,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ဟိုပုံး",
       "u": "/Fonts/Language/Myanmar/Unicode/ဟိုပုံး.ttf",
       "s": "592 KB",
@@ -4465,7 +4286,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "အသောက",
       "u": "/Fonts/Language/Myanmar/Unicode/အသောက.ttf",
       "s": "291 KB",
@@ -4474,7 +4294,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "Cooljazz",
       "u": "/Fonts/Language/Myanmar/Unicode/Cooljazz.ttf",
       "s": "2.16 MB",
@@ -4483,7 +4302,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "Kamjing",
       "u": "/Fonts/Language/Myanmar/Unicode/Kamjing.ttf",
       "s": "237 KB",
@@ -4492,7 +4310,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MM_Grand_v1",
       "u": "/Fonts/Language/Myanmar/Unicode/MM_Grand_v1.ttf",
       "s": "234 KB",
@@ -4501,7 +4318,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MM_Sangam",
       "u": "/Fonts/Language/Myanmar/Unicode/MM_Sangam.ttf",
       "s": "195 KB",
@@ -4510,7 +4326,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "mon3",
       "u": "/Fonts/Language/Myanmar/Unicode/mon3.ttf",
       "s": "242 KB",
@@ -4519,7 +4334,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MUA_Office",
       "u": "/Fonts/Language/Myanmar/Unicode/MUA_Office.ttf",
       "s": "236 KB",
@@ -4528,7 +4342,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "Myanmar3MultiOS",
       "u": "/Fonts/Language/Myanmar/Unicode/Myanmar3MultiOS.ttf",
       "s": "119 KB",
@@ -4537,7 +4350,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "Myanmar3PaOh",
       "u": "/Fonts/Language/Myanmar/Unicode/Myanmar3PaOh.ttf",
       "s": "99 KB",
@@ -4546,7 +4358,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarAngoun",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarAngoun.ttf",
       "s": "67 KB",
@@ -4555,7 +4366,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarApril",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarApril.ttf",
       "s": "463 KB",
@@ -4564,7 +4374,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarAyarTyepwriter",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarAyarTyepwriter.ttf",
       "s": "219 KB",
@@ -4573,7 +4382,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarBagan",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarBagan.ttf",
       "s": "201 KB",
@@ -4582,7 +4390,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarBlack",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarBlack.ttf",
       "s": "38 KB",
@@ -4591,7 +4398,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarCensus",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarCensus.ttf",
       "s": "155 KB",
@@ -4600,7 +4406,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarChatu",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarChatu.ttf",
       "s": "92 KB",
@@ -4609,7 +4414,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarCutekitten",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarCutekitten.ttf",
       "s": "237 KB",
@@ -4618,7 +4422,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarDreams",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarDreams.ttf",
       "s": "191 KB",
@@ -4627,7 +4430,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarEthnic",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarEthnic.ttf",
       "s": "181 KB",
@@ -4636,7 +4438,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarFlowerTwo",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarFlowerTwo.ttf",
       "s": "299 KB",
@@ -4645,7 +4446,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarGrand",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarGrand.ttf",
       "s": "207 KB",
@@ -4654,7 +4454,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarHoliday",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarHoliday.ttf",
       "s": "268 KB",
@@ -4663,7 +4462,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarHopong",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarHopong.ttf",
       "s": "174 KB",
@@ -4672,7 +4470,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarJasmine",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarJasmine.ttf",
       "s": "330 KB",
@@ -4681,7 +4478,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarJojar",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarJojar.ttf",
       "s": "139 KB",
@@ -4690,7 +4486,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarJojarPro",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarJojarPro.ttf",
       "s": "200 KB",
@@ -4699,7 +4494,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarKalay",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarKalay.ttf",
       "s": "173 KB",
@@ -4708,7 +4502,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarKhyay",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarKhyay.ttf",
       "s": "40 KB",
@@ -4717,7 +4510,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarKitten",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarKitten.ttf",
       "s": "307 KB",
@@ -4726,7 +4518,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarKitty",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarKitty.ttf",
       "s": "442 KB",
@@ -4735,7 +4526,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarKyaungChee",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarKyaungChee.ttf",
       "s": "265 KB",
@@ -4744,7 +4534,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarLove",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarLove.ttf",
       "s": "231 KB",
@@ -4753,7 +4542,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarMON3Anonta",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarMON3Anonta.ttf",
       "s": "242 KB",
@@ -4762,7 +4550,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarNjaun",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarNjaun.ttf",
       "s": "39 KB",
@@ -4771,7 +4558,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarNotes",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarNotes.ttf",
       "s": "212 KB",
@@ -4780,7 +4566,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarOS",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarOS.ttf",
       "s": "231 KB",
@@ -4789,7 +4574,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarPadaung",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPadaung.ttf",
       "s": "203 KB",
@@ -4798,7 +4582,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarPangram",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPangram.ttf",
       "s": "215 KB",
@@ -4807,7 +4590,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarPaOhPyu",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPaOhPyu.ttf",
       "s": "154 KB",
@@ -4816,7 +4598,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarPauklay",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPauklay.ttf",
       "s": "122 KB",
@@ -4825,7 +4606,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarPixel",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPixel.ttf",
       "s": "38 KB",
@@ -4834,7 +4614,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarPixelSmooth",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPixelSmooth.ttf",
       "s": "39 KB",
@@ -4843,7 +4622,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarPunk",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPunk.ttf",
       "s": "51 KB",
@@ -4852,7 +4630,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarPyay",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPyay.ttf",
       "s": "159 KB",
@@ -4861,7 +4638,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarPyayTwo",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPyayTwo.ttf",
       "s": "187 KB",
@@ -4870,7 +4646,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarPyidaungsu",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPyidaungsu.ttf",
       "s": "178 KB",
@@ -4879,7 +4654,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarPyu",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPyu.ttf",
       "s": "166 KB",
@@ -4888,7 +4662,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarPyuPro",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPyuPro.ttf",
       "s": "168 KB",
@@ -4897,7 +4670,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarRosemary",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarRosemary.ttf",
       "s": "1.48 MB",
@@ -4906,7 +4678,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarSagar",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSagar.ttf",
       "s": "158 KB",
@@ -4915,7 +4686,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarSansPro",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSansPro.ttf",
       "s": "39 KB",
@@ -4924,7 +4694,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarSketch",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSketch.ttf",
       "s": "315 KB",
@@ -4933,7 +4702,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarSquare",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSquare.ttf",
       "s": "149 KB",
@@ -4942,7 +4710,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarSquareLight",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSquareLight.ttf",
       "s": "75 KB",
@@ -4951,7 +4718,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarSweetie",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSweetie.ttf",
       "s": "468 KB",
@@ -4960,7 +4726,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarSweety",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSweety.ttf",
       "s": "224 KB",
@@ -4969,7 +4734,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarTagaung",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarTagaung.ttf",
       "s": "142 KB",
@@ -4978,7 +4742,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarTaunggyi",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarTaunggyi.ttf",
       "s": "201 KB",
@@ -4987,7 +4750,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarTaungthu",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarTaungthu.ttf",
       "s": "256 KB",
@@ -4996,7 +4758,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarText_Bold",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarText_Bold.ttf",
       "s": "243 KB",
@@ -5005,7 +4766,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarText_Regular",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarText_Regular.ttf",
       "s": "243 KB",
@@ -5014,7 +4774,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarText",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarText.ttf",
       "s": "346 KB",
@@ -5023,7 +4782,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarTextMelano",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarTextMelano.ttf",
       "s": "254 KB",
@@ -5032,7 +4790,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarThanLwin",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarThanLwin.ttf",
       "s": "151 KB",
@@ -5041,7 +4798,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarUI",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarUI.ttf",
       "s": "150 KB",
@@ -5050,7 +4806,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarUni-ZG",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarUni-ZG.ttf",
       "s": "156 KB",
@@ -5059,7 +4814,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarWaitzar",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarWaitzar.ttf",
       "s": "180 KB",
@@ -5068,7 +4822,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarWazo",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarWazo.ttf",
       "s": "379 KB",
@@ -5077,7 +4830,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "MyanmarYellowflower",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarYellowflower.ttf",
       "s": "196 KB",
@@ -5086,7 +4838,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "NK_SSmart2",
       "u": "/Fonts/Language/Myanmar/Unicode/NK_SSmart2.ttf",
       "s": "404 KB",
@@ -5095,7 +4846,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "NK_SSmart3",
       "u": "/Fonts/Language/Myanmar/Unicode/NK_SSmart3.ttf",
       "s": "422 KB",
@@ -5104,7 +4854,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "NK_SSmart4",
       "u": "/Fonts/Language/Myanmar/Unicode/NK_SSmart4.ttf",
       "s": "454 KB",
@@ -5113,7 +4862,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "NKGrand",
       "u": "/Fonts/Language/Myanmar/Unicode/NKGrand.ttf",
       "s": "270 KB",
@@ -5122,7 +4870,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "NotoSansMyanmar-Bold",
       "u": "/Fonts/Language/Myanmar/Unicode/NotoSansMyanmar-Bold.ttf",
       "s": "102 KB",
@@ -5131,7 +4878,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "NotoSansMyanmar-Regular",
       "u": "/Fonts/Language/Myanmar/Unicode/NotoSansMyanmar-Regular.ttf",
       "s": "105 KB",
@@ -5140,7 +4886,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "NotoSansMyanmarUI-Bold",
       "u": "/Fonts/Language/Myanmar/Unicode/NotoSansMyanmarUI-Bold.ttf",
       "s": "92 KB",
@@ -5149,7 +4894,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "NotoSansMyanmarUI-Regular",
       "u": "/Fonts/Language/Myanmar/Unicode/NotoSansMyanmarUI-Regular.ttf",
       "s": "91 KB",
@@ -5158,7 +4902,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "PadaukSagar",
       "u": "/Fonts/Language/Myanmar/Unicode/PadaukSagar.ttf",
       "s": "338 KB",
@@ -5167,7 +4910,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "Pangram",
       "u": "/Fonts/Language/Myanmar/Unicode/Pangram.ttf",
       "s": "306 KB",
@@ -5176,7 +4918,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "PangramBig",
       "u": "/Fonts/Language/Myanmar/Unicode/PangramBig.ttf",
       "s": "334 KB",
@@ -5185,7 +4926,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "PaohDragonApp",
       "u": "/Fonts/Language/Myanmar/Unicode/PaohDragonApp.ttf",
       "s": "87 KB",
@@ -5194,7 +4934,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "PaOhMyanmarGrand",
       "u": "/Fonts/Language/Myanmar/Unicode/PaOhMyanmarGrand.ttf",
       "s": "284 KB",
@@ -5203,7 +4942,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "PaOhMyanmarPyum",
       "u": "/Fonts/Language/Myanmar/Unicode/PaOhMyanmarPyum.ttf",
       "s": "218 KB",
@@ -5212,7 +4950,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "PaOhShanWanhai",
       "u": "/Fonts/Language/Myanmar/Unicode/PaOhShanWanhai.ttf",
       "s": "340 KB",
@@ -5221,7 +4958,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "Sabel",
       "u": "/Fonts/Language/Myanmar/Unicode/Sabel.ttf",
       "s": "1.96 MB",
@@ -5230,7 +4966,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "SamsungMyanmar",
       "u": "/Fonts/Language/Myanmar/Unicode/SamsungMyanmar.ttf",
       "s": "152 KB",
@@ -5239,7 +4974,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "ShanUnicode",
       "u": "/Fonts/Language/Myanmar/Unicode/ShanUnicode.ttf",
       "s": "451 KB",
@@ -5248,7 +4982,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "Uni-Yang_v2.5.3",
       "u": "/Fonts/Language/Myanmar/Unicode/Uni-Yang_v2.5.3.ttf",
       "s": "208 KB",
@@ -5257,7 +4990,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "Uni-Yang(wdc)_v2.5.3",
       "u": "/Fonts/Language/Myanmar/Unicode/Uni-Yang(wdc)_v2.5.3.ttf",
       "s": "207 KB",
@@ -5266,7 +4998,6 @@
     },
     {
       "unicode": true,
-      "in": true,
       "n": "UnicodeHeart",
       "u": "/Fonts/Language/Myanmar/Unicode/UnicodeHeart.ttf",
       "s": "262 KB",

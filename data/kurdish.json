@@ -1,10 +1,122 @@
 [
-    {
-      "a": "Enryu",
-      "in": true,
-      "n": "BM_Yeon_Sung",
-      "u": "/Fonts/Language/Korean/BM_Yeon_Sung.ttf",
-      "s": "1.81 MB",
-      "t": "WCcJiHI.png"
-    }
-  ]
+  {
+    "in": true,
+    "n": "SiRWAN_009",
+    "u": "/Fonts/Language/Kurdish/SiRWAN_009.ttf",
+    "s": "45 KB",
+    "t": "wLTF2Cz.png",
+    "a": "Sirwan Yassin"
+  },
+  {
+    "in": true,
+    "n": "Rabar_025",
+    "u": "/Fonts/Language/Kurdish/Rabar_025.ttf",
+    "s": "395 KB",
+    "t": "NxRwTfN.png",
+    "a": "Rabar Erkan"
+  },
+  {
+    "in": true,
+    "n": "Nizar_Flat",
+    "u": "/Fonts/Language/Kurdish/Nizar_Flat.ttf",
+    "s": "60 KB",
+    "t": "jEkS1db.png",
+    "a": "Nizar K. Abdullah"
+  },
+  {
+    "in": true,
+    "n": "Nizar-Peshmerge",
+    "u": "/Fonts/Language/Kurdish/Nizar-Peshmerge.ttf",
+    "s": "78 KB",
+    "t": "EkbUsM3.png",
+    "a": "Nizar K. Abdullah"
+  },
+  {
+    "in": true,
+    "n": "Nizar_Cocon_Kurdish",
+    "u": "/Fonts/Language/Kurdish/Nizar_Cocon_Kurdish.ttf",
+    "s": "86 KB",
+    "t": "TkGpwdN.png",
+    "a": "Nizar K. Abdullah"
+  },
+  {
+    "in": true,
+    "n": "Rabar_043",
+    "u": "/Fonts/Language/Kurdish/Rabar_043.ttf",
+    "s": "298 KB",
+    "t": "FqEks6i.png",
+    "a": "Rabar Erkan"
+  },
+  {
+    "in": true,
+    "n": "UniMahanAziz",
+    "u": "/Fonts/Language/Kurdish/UniMahanAziz.ttf",
+    "s": "172 KB",
+    "t": "mY0EYO8.png",
+    "a": "Salar Shwani"
+  },
+  {
+    "in": true,
+    "n": "SiRWAN_15",
+    "u": "/Fonts/Language/Kurdish/SiRWAN_15.ttf",
+    "s": "52 KB",
+    "t": "yd8OiGP.png",
+    "a": "Sirwan Yassin"
+  },
+  {
+    "in": true,
+    "n": "AdobeArabic",
+    "u": "/Fonts/Language/Kurdish/AdobeArabic.ttf",
+    "s": "587 KB",
+    "t": "DXCkb97.png",
+    "a": "Tiro Typeworks"
+  },
+  {
+    "in": true,
+    "n": "Rudaw",
+    "u": "/Fonts/Language/Kurdish/Rudaw.ttf",
+    "s": "64 KB",
+    "t": "B70V2mh.png",
+    "a": "Nizar K. Abdullah"
+  },
+  {
+    "in": true,
+    "n": "Nizar_BBC_Kurdish",
+    "u": "/Fonts/Language/Kurdish/Nizar_BBC_Kurdish.ttf",
+    "s": "85 KB",
+    "t": "Fk2RjtT.png",
+    "a": "Nizar K. Abdullah"
+  },
+  {
+    "in": true,
+    "n": "SiRWAN_001",
+    "u": "/Fonts/Language/Kurdish/SiRWAN_001.ttf",
+    "s": "49 KB",
+    "t": "vPSjClY.png",
+    "a": "Sirwan Yassin"
+  },
+  {
+    "in": true,
+    "n": "UniMahan_Kawsar",
+    "u": "/Fonts/Language/Kurdish/UniMahan_Kawsar.ttf",
+    "s": "100 KB",
+    "t": "UYuISh2.png",
+    "a": "Soran Rashid"
+  },
+  {
+    "in": true,
+    "n": "SiRWAN_003",
+    "u": "/Fonts/Language/Kurdish/SiRWAN_003.ttf",
+    "s": "50 KB",
+    "t": "4G6HH0k.png",
+    "a": "Sirwan Yassin"
+  },
+  {
+    "in": true,
+    "n": "UniSalar_NewFont2",
+    "u": "/Fonts/Language/Kurdish/UniSalar_NewFont2.ttf",
+    "s": "59 KB",
+    "t": "bSSsbuT.png",
+    "a": "Salar Shwani"
+  }
+]
