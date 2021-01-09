@@ -53,6 +53,10 @@
       "name": "English"
     },
     {
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/KAREN_Leke_script.json",
+      "name": "KAREN (Leke script)"
+    },
+    {
       "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/khmer.json",
       "name": "Khmer"
     },
