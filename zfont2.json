@@ -217,8 +217,14 @@
   ],
   "emoji": [
     {
-      "a": "RickyBush_",
       "in": true,
+      "n": "iOS_14.2",
+      "u": "/Fonts/Emoji/iOS_14.2.ttf",
+      "s": "12.8 MB",
+      "t": "vUvsfIy.png"
+    },
+    {
+      "a": "RickyBush_",
       "n": "iOS14(beta)",
       "u": "/Fonts/Emoji/iOS14(beta).ttf",
       "s": "12.8 MB",
@@ -226,7 +232,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "unofficial_iOS14(13.1)",
       "u": "/Fonts/Emoji/unofficial_iOS14(13.1).ttf",
       "s": "12.7 MB",
@@ -234,7 +239,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "iOS+GMonkey",
       "u": "/Fonts/Emoji/iOS+GMonkey.ttf",
       "s": "12.7 MB",
@@ -242,7 +246,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "iOS+GPoo",
       "u": "/Fonts/Emoji/iOS+GPoo.ttf",
       "s": "12.6 MB",
@@ -250,7 +253,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "iOS+Gturtle",
       "u": "/Fonts/Emoji/iOS+Gturtle.ttf",
       "s": "12.7 MB",
@@ -258,7 +260,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "GMonkey",
       "u": "/Fonts/Emoji/GMonkey.ttf",
       "s": "5.98 MB",
@@ -266,7 +267,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "Google11",
       "u": "/Fonts/Emoji/Google11.ttf",
       "s": "5.70 MB",
@@ -274,7 +274,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "GPoo",
       "u": "/Fonts/Emoji/GPoo.ttf",
       "s": "5.92 MB",
@@ -282,7 +281,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "Gturtle",
       "u": "/Fonts/Emoji/Gturtle.ttf",
       "s": "5.95 MB",
@@ -290,7 +288,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "JoyPixels6.0",
       "u": "/Fonts/Emoji/JoyPixels6.0.ttf",
       "s": "22.1 MB",
@@ -298,7 +295,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "Twemoji",
       "u": "/Fonts/Emoji/Twemoji.ttf",
       "s": "1.63 MB",
@@ -306,7 +302,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "Samsung_2.5",
       "u": "/Fonts/Emoji/Samsung_2.5.ttf",
       "s": "9.48 MB",
@@ -314,7 +309,6 @@
     },
     {
       "a": "RickyBush_",
-      "in": true,
       "n": "EmojiKitchen",
       "u": "/Fonts/Emoji/EmojiKitchen.ttf",
       "s": "6.20 MB",
