@@ -199,11 +199,11 @@
       "cat": "Cool"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Emoji/iOS_v14.ttf",
-      "title": "iOS_v14",
-      "size": "20.5 MB",
-      "thumbnail": "X6LFGqH.png",
-      "preview": "RDL4AQh.jpg",
+      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Emoji/iOS_14.2.ttf",
+      "title": "iOS_14.2",
+      "size": "12.8 MB",
+      "thumbnail": "vUvsfIy.png",
+      "preview": "A46zgAa.jpg",
       "cat": "Emoji"
     },
     {
@@ -222,6 +222,12 @@
       "u": "/Fonts/Emoji/iOS_14.2.ttf",
       "s": "12.8 MB",
       "t": "vUvsfIy.png"
+    },
+    {
+      "n": "iOS_v14",
+      "u": "/Fonts/Emoji/iOS_v14.ttf",
+      "s": "20.5 MB",
+      "t": "X6LFGqH.png"
     },
     {
       "a": "RickyBush_",
