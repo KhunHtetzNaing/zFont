@@ -1,6 +1,326 @@
 [
   {
     "in": true,
+    "n": "Sarchia_Blawkrawa",
+    "u": "/Fonts/Language/Kurdish/Sarchia_Blawkrawa.ttf",
+    "s": "116 KB",
+    "t": "uzCH11l.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "SiRWAN_6",
+    "u": "/Fonts/Language/Kurdish/SiRWAN_6.ttf",
+    "s": "63 KB",
+    "t": "ybCM2gG.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "UniQAIDAR_DIGITAL",
+    "u": "/Fonts/Language/Kurdish/UniQAIDAR_DIGITAL.ttf",
+    "s": "47 KB",
+    "t": "DyBsd6a.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "UniQAIDAR_Hewal011",
+    "u": "/Fonts/Language/Kurdish/UniQAIDAR_Hewal011.ttf",
+    "s": "56 KB",
+    "t": "OL7AGoi.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "Rabar_037",
+    "u": "/Fonts/Language/Kurdish/Rabar_037.ttf",
+    "s": "300 KB",
+    "t": "pu0RbPR.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "UniQAIDAR_YUSUF",
+    "u": "/Fonts/Language/Kurdish/UniQAIDAR_YUSUF.ttf",
+    "s": "65 KB",
+    "t": "Z9iDgdr.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "SiRWAN_C",
+    "u": "/Fonts/Language/Kurdish/SiRWAN_C.ttf",
+    "s": "55 KB",
+    "t": "aUMWvho.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "Ewin",
+    "u": "/Fonts/Language/Kurdish/Ewin.ttf",
+    "s": "53 KB",
+    "t": "jfGkyLc.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "Seguis",
+    "u": "/Fonts/Language/Kurdish/Seguis.ttf",
+    "s": "904 KB",
+    "t": "vrcKwxN.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "XB-Kayhan-Navaar",
+    "u": "/Fonts/Language/Kurdish/XB-Kayhan-Navaar.ttf",
+    "s": "1.99 MB",
+    "t": "W0W5gKY.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "XP-Vosta",
+    "u": "/Fonts/Language/Kurdish/XP-Vosta.ttf",
+    "s": "464 KB",
+    "t": "qqFqJRO.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "UniQAIDAR_PAYAM",
+    "u": "/Fonts/Language/Kurdish/UniQAIDAR_PAYAM.ttf",
+    "s": "37 KB",
+    "t": "NfSjgcA.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "XB-Sols",
+    "u": "/Fonts/Language/Kurdish/XB-Sols.ttf",
+    "s": "1.32 MB",
+    "t": "BJg9Uwe.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "XB-Tabriz",
+    "u": "/Fonts/Language/Kurdish/XB-Tabriz.ttf",
+    "s": "1.04 MB",
+    "t": "tt6kkwC.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "NRT-Bold",
+    "u": "/Fonts/Language/Kurdish/NRT-Bold.ttf",
+    "s": "55 KB",
+    "t": "u88AXxt.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "Sarchia_Yaran",
+    "u": "/Fonts/Language/Kurdish/Sarchia_Yaran.ttf",
+    "s": "97 KB",
+    "t": "I9yEhqR.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "Speda-Bold",
+    "u": "/Fonts/Language/Kurdish/Speda-Bold.ttf",
+    "s": "52 KB",
+    "t": "CIQTWmH.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "Myriad",
+    "u": "/Fonts/Language/Kurdish/Myriad.ttf",
+    "s": "302 KB",
+    "t": "J9EDMN0.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "Sarchia_Zhinga",
+    "u": "/Fonts/Language/Kurdish/Sarchia_Zhinga.ttf",
+    "s": "113 KB",
+    "t": "c11z4L2.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "Sarchia_Rojhalat",
+    "u": "/Fonts/Language/Kurdish/Sarchia_Rojhalat.ttf",
+    "s": "131 KB",
+    "t": "OFvYK1A.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "XM-Yekan",
+    "u": "/Fonts/Language/Kurdish/XM-Yekan.ttf",
+    "s": "436 KB",
+    "t": "cyqiCPR.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "UniQAIDAR_OSMAN",
+    "u": "/Fonts/Language/Kurdish/UniQAIDAR_OSMAN.ttf",
+    "s": "42 KB",
+    "t": "g4pLIyr.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "Sarchia_Dastnus",
+    "u": "/Fonts/Language/Kurdish/Sarchia_Dastnus.ttf",
+    "s": "114 KB",
+    "t": "C1oKxzc.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "XB_Shafigh_Kurd_Bd",
+    "u": "/Fonts/Language/Kurdish/XB_Shafigh_Kurd_Bd.ttf",
+    "s": "1.12 MB",
+    "t": "PcwNJgR.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "UniQAIDAR_Free005",
+    "u": "/Fonts/Language/Kurdish/UniQAIDAR_Free005.ttf",
+    "s": "60 KB",
+    "t": "DrkktyI.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "DroidKufi-Bold",
+    "u": "/Fonts/Language/Kurdish/DroidKufi-Bold.ttf",
+    "s": "79 KB",
+    "t": "A0gQ9Vy.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "Majalla",
+    "u": "/Fonts/Language/Kurdish/Majalla.ttf",
+    "s": "281 KB",
+    "t": "LNQUW9v.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "XB-Kayhan-Sayeh",
+    "u": "/Fonts/Language/Kurdish/XB-Kayhan-Sayeh.ttf",
+    "s": "1.41 MB",
+    "t": "zPobUlj.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "Rabar_003",
+    "u": "/Fonts/Language/Kurdish/Rabar_003.ttf",
+    "s": "326 KB",
+    "t": "xJbCfQd.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "GretaTextArabicBold",
+    "u": "/Fonts/Language/Kurdish/GretaTextArabicBold.ttf",
+    "s": "242 KB",
+    "t": "Y20fR2v.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "IRTerafikI",
+    "u": "/Fonts/Language/Kurdish/IRTerafikI.ttf",
+    "s": "136 KB",
+    "t": "K3QcucR.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "UniQAIDAR_BiLaL005",
+    "u": "/Fonts/Language/Kurdish/UniQAIDAR_BiLaL005.ttf",
+    "s": "45 KB",
+    "t": "2nHsU4r.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "XP-Paatch",
+    "u": "/Fonts/Language/Kurdish/XP-Paatch.ttf",
+    "s": "1.13 MB",
+    "t": "3A0XnM1.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "NizarbeINSport",
+    "u": "/Fonts/Language/Kurdish/NizarbeINSport.ttf",
+    "s": "75 KB",
+    "t": "JmlWeF5.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "Sarchia_Lina",
+    "u": "/Fonts/Language/Kurdish/Sarchia_Lina.ttf",
+    "s": "128 KB",
+    "t": "8OYX1vY.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "Sarchia_Iraq",
+    "u": "/Fonts/Language/Kurdish/Sarchia_Iraq.ttf",
+    "s": "111 KB",
+    "t": "5QzLMVI.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "KosratGraphic-1",
+    "u": "/Fonts/Language/Kurdish/KosratGraphic-1.ttf",
+    "s": "52 KB",
+    "t": "xvkgXuG.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "XB-Roya",
+    "u": "/Fonts/Language/Kurdish/XB-Roya.ttf",
+    "s": "1.10 MB",
+    "t": "i8NwLeS.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "Sarchia_Makka",
+    "u": "/Fonts/Language/Kurdish/Sarchia_Makka.ttf",
+    "s": "104 KB",
+    "t": "P8USxwQ.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
+    "n": "Sarchia_Shano",
+    "u": "/Fonts/Language/Kurdish/Sarchia_Shano.ttf",
+    "s": "172 KB",
+    "t": "9SpVPGf.png",
+    "a": "GoRaN (کوردرۆید)"
+  },
+  {
+    "in": true,
     "n": "SiRWAN_009",
     "u": "/Fonts/Language/Kurdish/SiRWAN_009.ttf",
     "s": "45 KB",
