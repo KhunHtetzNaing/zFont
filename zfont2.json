@@ -9,6 +9,7 @@
   "custom_js": "",
   "show_ad_limit": 10,
   "show_ad_in": 40000,
+  "remove_ads":true,
   "admob": true,
   "img": "https://i.imgur.com/",
   "font": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master",
