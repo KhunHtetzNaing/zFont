@@ -2,14 +2,14 @@
   "banner": "",
   "interstitial": "",
   "rewarded": "",
-  "native":"",
-  "fb_interstitial":"736026427007327_736026850340618",
-  "fb_banner":"736026427007327_736029493673687",
+  "native": "",
+  "fb_interstitial": "736026427007327_736026850340618",
+  "fb_banner": "736026427007327_736029493673687",
   "sponsor": "http://onemboaran.com/afu.php?zoneid=2795394",
   "custom_js": "",
   "show_ad_limit": 10,
   "show_ad_in": 40000,
-  "remove_ads":false,
+  "remove_ads": false,
   "admob": true,
   "img": "https://i.imgur.com/",
   "font": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master",
@@ -181,6 +181,24 @@
     }
   ],
   "featured": [
+    {
+      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Language/Myanmar/Unicode/YG-YoeShin_Unicode.ttf",
+      "title": "YG-YoeShin_Unicode",
+      "size": "243 KB",
+      "thumbnail": "cxnJUMs.png",
+      "web": false,
+      "preview": "f4cFRkX.png",
+      "cat": "Myanmar"
+    },
+    {
+      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Language/Myanmar/Unicode/YG-Mahar_Unicode.ttf",
+      "title": "YG-Mahar_Unicode",
+      "size": "404 KB",
+      "thumbnail": "gSN9I7G.png",
+      "web": false,
+      "preview": "MyClqhZ.png",
+      "cat": "Myanmar"
+    },
     {
       "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Color/Yggdrassil_color.ttf",
       "title": "Yggdrassil_color",
@@ -3907,6 +3925,24 @@
     }
   ],
   "myanmar": [
+    {
+      "a": "YG",
+      "unicode": true,
+      "in": true,
+      "n": "YG-YoeShin_Unicode",
+      "u": "/Fonts/Language/Myanmar/Unicode/YG-YoeShin_Unicode.ttf",
+      "s": "243 KB",
+      "t": "cxnJUMs.png"
+    },
+    {
+      "a": "YG",
+      "unicode": true,
+      "in": true,
+      "n": "YG-Mahar_Unicode",
+      "u": "/Fonts/Language/Myanmar/Unicode/YG-Mahar_Unicode.ttf",
+      "s": "404 KB",
+      "t": "gSN9I7G.png"
+    },
     {
       "unicode": true,
       "in": true,
