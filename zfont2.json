@@ -218,7 +218,7 @@
       "cat": "Cool"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Emoji/iOS_14.2.ttf",
+      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Emoji/iOS14.2.ttf",
       "title": "iOS_14.2",
       "size": "12.8 MB",
       "thumbnail": "vUvsfIy.png",
@@ -237,10 +237,17 @@
   "emoji": [
     {
       "in": true,
-      "n": "iOS_14.2",
-      "u": "/Fonts/Emoji/iOS_14.2.ttf",
-      "s": "12.8 MB",
-      "t": "vUvsfIy.png"
+      "n": "Android_11",
+      "u": "/Fonts/Emoji/Android_11.ttf",
+      "s": "9.91 MB",
+      "t": "KDrGlEy.png"
+    },
+    {
+      "in": true,
+      "n": "iOS14.2",
+      "u": "/Fonts/Emoji/iOS14.2.ttf",
+      "s": "22.0 MB",
+      "t": "Xu0Soz9.png"
     },
     {
       "n": "iOS_v14",
