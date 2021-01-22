@@ -3933,6 +3933,7 @@
   ],
   "myanmar": [
     {
+      "in": true,
       "a": "YG",
       "unicode": true,
       "n": "YG-YoeShin_Unicode",
@@ -3941,6 +3942,7 @@
       "t": "cxnJUMs.png"
     },
     {
+      "in": true,
       "a": "YG",
       "unicode": true,
       "n": "YG-Mahar_Unicode",
