@@ -250,6 +250,14 @@
       "t": "Xu0Soz9.png"
     },
     {
+      "a": "RickyBush_",
+      "in": true,
+      "n": "Samsung_Emoji_2.5",
+      "u": "/Fonts/Emoji/Samsung_Emoji_2.5.ttf",
+      "s": "16.0 MB",
+      "t": "VfMoboT.png"
+    },
+    {
       "n": "iOS_v14",
       "u": "/Fonts/Emoji/iOS_v14.ttf",
       "s": "20.5 MB",
@@ -331,13 +339,6 @@
       "u": "/Fonts/Emoji/Twemoji.ttf",
       "s": "1.63 MB",
       "t": "0m4H38E.png"
-    },
-    {
-      "a": "RickyBush_",
-      "n": "Samsung_2.5",
-      "u": "/Fonts/Emoji/Samsung_2.5.ttf",
-      "s": "9.48 MB",
-      "t": "9fVwuBz.png"
     },
     {
       "a": "RickyBush_",
