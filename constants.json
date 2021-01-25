@@ -168,7 +168,7 @@
   ],
   "featured": [
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Color/Yggdrassil_color.ttf",
+      "url": "Yggdrassil_color.ttf",
       "title": "Yggdrassil_color",
       "size": "967 KB",
       "thumbnail": "ekIbG0q.png",
@@ -177,7 +177,7 @@
       "cat": "Color"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Cool/MasterPan.ttf",
+      "url": "MasterPan.ttf",
       "title": "MasterPan",
       "size": "162 KB",
       "thumbnail": "ekIbG0q.png",
@@ -186,19 +186,19 @@
       "cat": "Cool"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Emoji/iOS_v14.ttf",
+      "url": "iOS_v14.ttf",
       "title": "iOS_v14",
       "size": "20.5 MB",
       "thumbnail": "ekIbG0q.png",
-      "preview": "RDL4AQh.jpg",
+      "preview": "ekIbG0q.png",
       "cat": "Emoji"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Language/English/SanFransisco.ttf",
+      "url": "SanFransisco.ttf",
       "title": "SanFransisco",
       "size": "181 KB",
       "thumbnail": "ekIbG0q.png",
-      "preview": "hwPQMCl.jpg",
+      "preview": "ekIbG0q.png",
       "cat": "Myanmar"
     }
   ],
