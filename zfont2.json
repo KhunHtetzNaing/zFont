@@ -15,6 +15,7 @@
   "font": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master",
   "ss_font": "https://github.com/KhunHtetzNaing/SS_zFont/raw/master/apk/",
   "ss_img": "https://github.com/KhunHtetzNaing/SS_zFont/raw/master/img/",
+  "mono":false,
   "oppo_fonts": [
     {
       "name": "X-Gclint Hello",
