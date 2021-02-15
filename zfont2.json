@@ -1,8 +1,8 @@
 {
-  "banner": "ca-app-pub-8938536730349592/7359817364",
-  "interstitial": "ca-app-pub-8938536730349592/4486242013",
-  "rewarded": "ca-app-pub-8938536730349592/9902220223",
-  "native":"ca-app-pub-8938536730349592/1985530743",
+  "banner": "",
+  "interstitial": "",
+  "rewarded": "",
+  "native":"",
   "fb_interstitial": "736026427007327_736026850340618",
   "fb_banner": "736026427007327_736029493673687",
   "sponsor": "http://onemboaran.com/afu.php?zoneid=2795394",
@@ -182,24 +182,6 @@
     }
   ],
   "featured": [
-    {
-      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Language/Myanmar/Unicode/YG-YoeShin_Unicode.ttf",
-      "title": "YG-YoeShin_Unicode",
-      "size": "243 KB",
-      "thumbnail": "cxnJUMs.png",
-      "web": false,
-      "preview": "f4cFRkX.png",
-      "cat": "Myanmar"
-    },
-    {
-      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Language/Myanmar/Unicode/YG-Mahar_Unicode.ttf",
-      "title": "YG-Mahar_Unicode",
-      "size": "404 KB",
-      "thumbnail": "gSN9I7G.png",
-      "web": false,
-      "preview": "MyClqhZ.png",
-      "cat": "Myanmar"
-    },
     {
       "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Color/Yggdrassil_color.ttf",
       "title": "Yggdrassil_color",
