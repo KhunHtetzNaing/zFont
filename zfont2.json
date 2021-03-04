@@ -1,10 +1,10 @@
 {
-  "banner": "",
-  "interstitial": "",
-  "rewarded": "",
-  "native":"",
-  "app_open":"",
-  "rewarded_interstitial":"",
+  "banner": "ca-app-pub-8938536730349592/7359817364",
+  "interstitial": "ca-app-pub-8938536730349592/4486242013",
+  "rewarded": "ca-app-pub-8938536730349592/9902220223",
+  "native":"ca-app-pub-8938536730349592/1985530743",
+  "app_open":"ca-app-pub-8938536730349592/7080578748",
+  "rewarded_interstitial":"ca-app-pub-8938536730349592/1281457153",
   "fb_interstitial": "736026427007327_736026850340618",
   "fb_banner": "736026427007327_736029493673687",
   "sponsor": "http://onemboaran.com/afu.php?zoneid=2795394",
@@ -1383,6 +1383,20 @@
     }
   ],
   "stylish": [
+    {
+      "in": true,
+      "n": "OpenDyslexic-Bold",
+      "u": "/Fonts/Stylish/OpenDyslexic-Bold.ttf",
+      "s": "161 KB",
+      "t": "ll411VJ.png"
+    },
+    {
+      "in": true,
+      "n": "OpenDyslexic-Regular",
+      "u": "/Fonts/Stylish/OpenDyslexic-Regular.ttf",
+      "s": "223 KB",
+      "t": "DqLhy61.png"
+    },
     {
       "n": "Mytype",
       "s": "40 KB",
