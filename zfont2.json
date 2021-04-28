@@ -185,11 +185,12 @@
   ],
   "featured": [
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Emoji/iOS_14.5_BETA.ttf",
-      "title": "iOS_14.5_BETA",
-      "size": "25.7 MB",
-      "thumbnail": "dPJ0cYi.png",
-      "preview": "UJ2WYpJ.jpg",
+      "a": "RickyBush_",
+      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Emoji/iOS_14.5.ttf",
+      "title": "iOS_14.5",
+      "size": "25.2 MB",
+      "thumbnail": "cFmy5Qp.png",
+      "preview": "8H1rqGh.jpg",
       "cat": "Emoji"
     },
     {
@@ -219,14 +220,6 @@
       "cat": "Cool"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Emoji/iOS14.2.ttf",
-      "title": "iOS_14.2",
-      "size": "12.8 MB",
-      "thumbnail": "vUvsfIy.png",
-      "preview": "A46zgAa.jpg",
-      "cat": "Emoji"
-    },
-    {
       "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Language/English/SanFransisco.ttf",
       "title": "SanFransisco",
       "size": "181 KB",
@@ -237,12 +230,13 @@
   ],
   "emoji": [
     {
+      "a": "RickyBush_",
       "in": true,
-      "n": "iOS_14.5_BETA",
-      "u": "/Fonts/Emoji/iOS_14.5_BETA.ttf",
-      "s": "25.7 MB",
-      "t": "dPJ0cYi.png"
-  },
+      "n": "iOS_14.5",
+      "u": "/Fonts/Emoji/iOS_14.5.ttf",
+      "s": "25.2 MB",
+      "t": "cFmy5Qp.png"
+    },
     {
       "n": "Android_12_UNRELEASED",
       "u": "/Fonts/Emoji/Android_12_UNRELEASED.ttf",
