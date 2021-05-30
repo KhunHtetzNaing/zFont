@@ -186,7 +186,7 @@
   "featured": [
     {
       "a": "RickyBush_",
-      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Emoji/iOS_14.5.ttf",
+      "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Emoji/iOS_14.5_FIXED.ttf",
       "title": "iOS_14.5",
       "size": "25.2 MB",
       "thumbnail": "cFmy5Qp.png",
@@ -233,7 +233,7 @@
       "a": "RickyBush_",
       "in": true,
       "n": "iOS_14.6",
-      "u": "/Fonts/Emoji/iOS14.6.ttf",
+      "u": "/Fonts/Emoji/iOS14.6_FIXED.ttf",
       "s": "26.5 MB",
       "t": "cFmy5Qp.png"
     },
@@ -241,7 +241,7 @@
       "a": "RickyBush_",
       "in": true,
       "n": "iOS_14.5",
-      "u": "/Fonts/Emoji/iOS_14.5.ttf",
+      "u": "/Fonts/Emoji/iOS_14.5_FIXED.ttf",
       "s": "25.2 MB",
       "t": "cFmy5Qp.png"
     },
