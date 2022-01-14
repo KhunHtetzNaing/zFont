@@ -562,166 +562,737 @@
   ],
   "color": [
     {
-      "s": "125 KB",
-      "t": "Stylish/7C8j9gM.png",
-      "u": "/Fonts/Language/English/ShadowsIntoLight.ttf",
-      "n": "ShadowsIntoLight"
+      "n": "All_I_Ask",
+      "u": "/Fonts/Color/All_I_Ask.ttf",
+      "s": "281 KB",
+      "t": "6kJNtqz.png",
+      "a": "Mg Mg"
     },
     {
-      "s": "179 KB",
-      "t": "Stylish/wN4QGS8.png",
-      "u": "/Fonts/Language/English/SonySketchEF.ttf",
-      "n": "SonySketchEF"
+      "n": "Among_Flowers_Smile",
+      "u": "/Fonts/Color/Among_Flowers_Smile.ttf",
+      "s": "271 KB",
+      "t": "pHqNy3c.png",
+      "a": "Mg Mg"
     },
     {
-      "s": "1.25 MB",
-      "t": "Stylish/OJwobPM.png",
-      "u": "/Fonts/Language/English/Rosemary.ttf",
-      "n": "Rosemary"
+      "n": "Beloved_Bunny",
+      "u": "/Fonts/Color/Beloved_Bunny.ttf",
+      "s": "321 KB",
+      "t": "QP5VbuY.png",
+      "a": "Mg Mg"
     },
     {
-      "s": "127 KB",
-      "t": "Stylish/88V1jcF.png",
-      "u": "/Fonts/Language/English/SimpleKindOfGirl.ttf",
-      "n": "SimpleKindOfGirl"
+      "n": "Colorful_Fruits",
+      "u": "/Fonts/Color/Colorful_Fruits.ttf",
+      "s": "349 KB",
+      "t": "k7rGm2s.png",
+      "a": "Mg Mg"
     },
     {
-      "s": "145 KB",
-      "t": "Stylish/if6kGdS.png",
-      "u": "/Fonts/Language/English/StRyde.ttf",
-      "n": "StRyde"
+      "n": "DearYou",
+      "u": "/Fonts/Color/DearYou.ttf",
+      "s": "225 KB",
+      "t": "CnC52Wm.png",
+      "a": "Mg Mg"
     },
     {
-      "s": "1.02 MB",
-      "t": "Stylish/oEwasjw.png",
-      "u": "/Fonts/Language/English/Tweed.ttf",
-      "n": "Tweed"
+      "n": "Fighting",
+      "u": "/Fonts/Color/Fighting.ttf",
+      "s": "321 KB",
+      "t": "CTEtUPE.png",
+      "a": "Mg Mg"
     },
     {
-      "s": "38 KB",
-      "t": "Stylish/HQbjQwW.png",
-      "u": "/Fonts/Language/English/Tork.ttf",
-      "n": "Tork"
+      "n": "ForeverHello",
+      "u": "/Fonts/Color/ForeverHello.ttf",
+      "s": "3.31 MB",
+      "t": "lgsaSXy.png",
+      "a": "Mg Mg"
     },
     {
-      "s": "128 KB",
-      "t": "Stylish/G8DYvHq.png",
-      "u": "/Fonts/Language/English/TheUrbanWay.ttf",
-      "n": "TheUrbanWay"
+      "n": "Frozen_heart",
+      "u": "/Fonts/Color/Frozen_heart.ttf",
+      "s": "373 KB",
+      "t": "9wELFAP.png",
+      "a": "Mg Mg"
     },
     {
-      "s": "194 KB",
-      "t": "Stylish/U2RaD0i.png",
-      "u": "/Fonts/Language/English/SweetyCherry.ttf",
-      "n": "SweetyCherry"
+      "n": "Fruit_Jelly",
+      "u": "/Fonts/Color/Fruit_Jelly.ttf",
+      "s": "401 KB",
+      "t": "psj2b0a.png",
+      "a": "Mg Mg"
     },
     {
+      "n": "GetLucky",
+      "u": "/Fonts/Color/GetLucky.ttf",
+      "s": "2.91 MB",
+      "t": "Xf4N24K.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "GirlHello",
+      "u": "/Fonts/Color/GirlHello.ttf",
+      "s": "284 KB",
+      "t": "nGkFuyi.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "HappySummer",
+      "u": "/Fonts/Color/HappySummer.ttf",
+      "s": "3.52 MB",
+      "t": "Lub6xGk.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "Heart_to_heart",
+      "u": "/Fonts/Color/Heart_to_heart.ttf",
+      "s": "341 KB",
+      "t": "DB58fHN.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "Heartbeat_interval",
+      "u": "/Fonts/Color/Heartbeat_interval.ttf",
+      "s": "228 KB",
+      "t": "skyHmWG.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "HeartByHeart",
+      "u": "/Fonts/Color/HeartByHeart.ttf",
+      "s": "416 KB",
+      "t": "t0iL7hb.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "Hibernal_Snow",
+      "u": "/Fonts/Color/Hibernal_Snow.ttf",
+      "s": "95 KB",
+      "t": "mVSBWmH.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "Hug_you_deeply",
+      "u": "/Fonts/Color/Hug_you_deeply.ttf",
+      "s": "290 KB",
+      "t": "IVMdowv.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "INeverLeft",
+      "u": "/Fonts/Color/INeverLeft.ttf",
+      "s": "333 KB",
+      "t": "8tuRnIQ.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "LastKiss",
+      "u": "/Fonts/Color/LastKiss.ttf",
+      "s": "360 KB",
+      "t": "yywHgPF.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "Lemon_Juice",
+      "u": "/Fonts/Color/Lemon_Juice.ttf",
+      "s": "290 KB",
+      "t": "lIi9Z3M.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "LoveActually",
+      "u": "/Fonts/Color/LoveActually.ttf",
+      "s": "398 KB",
+      "t": "YzOeZM6.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "LoveInTheTime",
+      "u": "/Fonts/Color/LoveInTheTime.ttf",
+      "s": "375 KB",
+      "t": "lNsAPST.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "LoveSongForYou",
+      "u": "/Fonts/Color/LoveSongForYou.ttf",
+      "s": "363 KB",
+      "t": "LD68FUd.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "MeetLove",
+      "u": "/Fonts/Color/MeetLove.ttf",
+      "s": "232 KB",
+      "t": "Clqa70u.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "Memories_With_You",
+      "u": "/Fonts/Color/Memories_With_You.ttf",
+      "s": "581 KB",
+      "t": "XfswuPO.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "MyDarling",
+      "u": "/Fonts/Color/MyDarling.ttf",
+      "s": "89 KB",
+      "t": "LmE8MRE.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "MyFirstLove",
+      "u": "/Fonts/Color/MyFirstLove.ttf",
+      "s": "323 KB",
+      "t": "vTByMXq.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "MyGarden",
+      "u": "/Fonts/Color/MyGarden.ttf",
+      "s": "335 KB",
+      "t": "8mHj2Hv.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "NorthenLights",
+      "u": "/Fonts/Color/NorthenLights.ttf",
+      "s": "469 KB",
+      "t": "SyuXHLI.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "OneDream",
+      "u": "/Fonts/Color/OneDream.ttf",
+      "s": "266 KB",
+      "t": "z9G1BNh.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "PurplePotatoCake",
+      "u": "/Fonts/Color/PurplePotatoCake.ttf",
+      "s": "270 KB",
+      "t": "mTSFNrU.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "RainbowRain",
+      "u": "/Fonts/Color/RainbowRain.ttf",
+      "s": "334 KB",
+      "t": "djeEUyX.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "SayHello",
+      "u": "/Fonts/Color/SayHello.ttf",
+      "s": "257 KB",
+      "t": "hCNIQC4.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "Shiny_Star",
+      "u": "/Fonts/Color/Shiny_Star.ttf",
+      "s": "323 KB",
+      "t": "guDV35l.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "SparklingWater",
+      "u": "/Fonts/Color/SparklingWater.ttf",
+      "s": "218 KB",
+      "t": "jiC6bwP.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "StarLights",
+      "u": "/Fonts/Color/StarLights.ttf",
+      "s": "382 KB",
+      "t": "y9rNwqn.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "Sweet-Dreams",
+      "u": "/Fonts/Color/Sweet-Dreams.ttf",
+      "s": "2.61 MB",
+      "t": "DHh4h2N.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "TasteOfTears",
+      "u": "/Fonts/Color/TasteOfTears.ttf",
+      "s": "287 KB",
+      "t": "p2RQKxy.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "The_Galaxy",
+      "u": "/Fonts/Color/The_Galaxy.ttf",
+      "s": "92 KB",
+      "t": "DSpvhCW.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "TheBlueWhale",
+      "u": "/Fonts/Color/TheBlueWhale.ttf",
+      "s": "191 KB",
+      "t": "4UEMA9K.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "TikTok",
+      "u": "/Fonts/Color/TikTok.ttf",
+      "s": "326 KB",
+      "t": "kdEieH3.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "Tsundere",
+      "u": "/Fonts/Color/Tsundere.ttf",
+      "s": "275 KB",
+      "t": "1EdG1Sd.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "Twinkle_Twinkle",
+      "u": "/Fonts/Color/Twinkle_Twinkle.ttf",
+      "s": "407 KB",
+      "t": "zRcU1SK.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "ViVid_colors",
+      "u": "/Fonts/Color/ViVid_colors.ttf",
+      "s": "267 KB",
+      "t": "BChSVxF.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "X-Faster",
+      "u": "/Fonts/Color/X-Faster.ttf",
+      "s": "490 KB",
+      "t": "8xyhO3P.png",
+      "a": "Mg Mg"
+    },
+    {
+      "n": "Good_Luck_Hello",
+      "u": "/Fonts/Color/Good_Luck_Hello.ttf",
+      "s": "291 KB",
+      "t": "ZLFjq2F.png",
+      "a": "Mg Mg"
+    },
+    {
+      "a": "purbasha Jio",
+      "n": "youth_colours",
+      "u": "/Fonts/Color/youth_colours.ttf",
+      "s": "679 KB",
+      "t": "ugE5Uuj.png"
+    },
+    {
+      "a": "purbasha Jio",
+      "n": "color_party",
+      "u": "/Fonts/Color/color_party.ttf",
+      "s": "344 KB",
+      "t": "AXClOsg.png"
+    },
+    {
+      "a": "purbasha Jio",
+      "n": "X-lovely_girl",
+      "u": "/Fonts/Color/X-lovely_girl.ttf",
+      "s": "417 KB",
+      "t": "Xkl3p1u.png"
+    },
+    {
+      "n": "Color_Font_6",
+      "u": "/Fonts/Color/Color_Font_6.ttf",
+      "s": "14.0 MB",
+      "t": "w7oh2wW.png"
+    },
+    {
+      "n": "Color_Font_10",
+      "u": "/Fonts/Color/Color_Font_10.ttf",
+      "s": "16.5 MB",
+      "t": "s53MNyz.png"
+    },
+    {
+      "n": "Color_Font_15",
+      "u": "/Fonts/Color/Color_Font_15.ttf",
+      "s": "8.69 MB",
+      "t": "4YNqHQX.png"
+    },
+    {
+      "n": "Color_Font_2",
+      "u": "/Fonts/Color/Color_Font_2.ttf",
+      "s": "13.4 MB",
+      "t": "pgQZcQb.png"
+    },
+    {
+      "n": "Color_Font_7",
+      "u": "/Fonts/Color/Color_Font_7.ttf",
+      "s": "5.92 MB",
+      "t": "WbdGq8x.png"
+    },
+    {
+      "n": "Color_Font_14",
+      "u": "/Fonts/Color/Color_Font_14.ttf",
+      "s": "7.73 MB",
+      "t": "vWFDM96.png"
+    },
+    {
+      "n": "Color_Font_3",
+      "u": "/Fonts/Color/Color_Font_3.ttf",
+      "s": "11.9 MB",
+      "t": "ksKzjvp.png"
+    },
+    {
+      "n": "Color_Font_9",
+      "u": "/Fonts/Color/Color_Font_9.ttf",
+      "s": "8.34 MB",
+      "t": "bzaSWMT.png"
+    },
+    {
+      "n": "Color_Font_11",
+      "u": "/Fonts/Color/Color_Font_11.ttf",
+      "s": "16.2 MB",
+      "t": "lY9RIxz.png"
+    },
+    {
+      "n": "Color_Font_1",
+      "u": "/Fonts/Color/Color_Font_1.ttf",
+      "s": "15.8 MB",
+      "t": "UoqROFB.png"
+    },
+    {
+      "n": "Color_Font_5",
+      "u": "/Fonts/Color/Color_Font_5.ttf",
+      "s": "8.96 MB",
+      "t": "RgWFVeq.png"
+    },
+    {
+      "n": "Color_Font_8",
+      "u": "/Fonts/Color/Color_Font_8.ttf",
+      "s": "14.1 MB",
+      "t": "ppp2Pmr.png"
+    },
+    {
+      "n": "Color_Font_13",
+      "u": "/Fonts/Color/Color_Font_13.ttf",
+      "s": "10.6 MB",
+      "t": "nSzeGew.png"
+    },
+    {
+      "n": "Color_Font_4",
+      "u": "/Fonts/Color/Color_Font_4.ttf",
+      "s": "9.33 MB",
+      "t": "99nsFcd.png"
+    },
+    {
+      "n": "Color_Font_12",
+      "u": "/Fonts/Color/Color_Font_12.ttf",
+      "s": "8.03 MB",
+      "t": "XF3Fkby.png"
+    },
+    {
+      "n": "ColorFul",
+      "u": "/Fonts/Color/ColorFul.ttf",
       "s": "113 KB",
-      "t": "Stylish/MK7gNcE.png",
-      "u": "/Fonts/Language/English/Taurus.ttf",
-      "n": "Taurus"
+      "t": "g5R2b9d.png"
     },
     {
-      "s": "114 KB",
-      "t": "Stylish/OvmpoXW.png",
-      "u": "/Fonts/Language/English/Sweetness.ttf",
-      "n": "Sweetness"
+      "n": "Qlassik",
+      "u": "/Fonts/Color/Qlassik.ttf",
+      "s": "430 KB",
+      "t": "9GFoRrw.png"
     },
     {
-      "s": "109 KB",
-      "t": "Stylish/LDkXl26.png",
-      "u": "/Fonts/Language/English/SetFireToTheRain.ttf",
-      "n": "SetFireToTheRain"
+      "n": "TrueColors",
+      "u": "/Fonts/Color/TrueColors.ttf",
+      "s": "35 KB",
+      "t": "ExJXXmC.png"
     },
     {
-      "s": "118 KB",
-      "t": "Stylish/M8laQV1.png",
-      "u": "/Fonts/Language/English/PuppyBellies.ttf",
-      "n": "PuppyBellies"
+      "n": "Yggdrassil_color",
+      "t": "zYune0b.png",
+      "s": "967 KB",
+      "u": "/Fonts/Color/Yggdrassil_color.ttf"
     },
     {
-      "s": "143 KB",
-      "t": "Stylish/rDrG2FC.png",
-      "u": "/Fonts/Language/English/Shojumaru.ttf",
-      "n": "Shojumaru"
+      "n": "Volcano_color",
+      "t": "OVO8jHG.png",
+      "s": "1.92 MB",
+      "u": "/Fonts/Color/Volcano_color.ttf"
     },
     {
-      "s": "158 KB",
-      "t": "Stylish/ffimx8A.png",
-      "u": "/Fonts/Language/English/Raindrops.ttf",
-      "n": "Raindrops"
+      "n": "Water_Melon_color",
+      "t": "SAyvCpe.png",
+      "s": "519 KB",
+      "u": "/Fonts/Color/Water_Melon_color.ttf"
     },
     {
-      "s": "137 KB",
-      "t": "Stylish/u4liwOz.png",
-      "u": "/Fonts/Language/English/StarryNight.ttf",
-      "n": "StarryNight"
+      "n": "Twilight",
+      "t": "SwEc9Fg.png",
+      "s": "349 KB",
+      "u": "/Fonts/Color/Twilight.ttf"
     },
     {
-      "s": "177 KB",
-      "t": "Stylish/wEX3UAC.png",
-      "u": "/Fonts/Language/English/Saysettha.ttf",
-      "n": "Saysettha"
+      "n": "Twinkle_color",
+      "t": "v2K28Kw.png",
+      "s": "626 KB",
+      "u": "/Fonts/Color/Twinkle_color.ttf"
     },
     {
-      "s": "132 KB",
-      "t": "Stylish/6wFMl8u.png",
-      "u": "/Fonts/Language/English/Storopia.ttf",
-      "n": "Storopia"
+      "n": "Unica",
+      "t": "oiQRU7w.png",
+      "s": "117 KB",
+      "u": "/Fonts/Color/Unica.ttf"
     },
     {
-      "s": "26 KB",
-      "t": "Stylish/PE3PT2j.png",
-      "u": "/Fonts/Language/English/Rixlovefool.ttf",
-      "n": "Rixlovefool"
+      "n": "VICTORIA_color",
+      "t": "C1IPOwK.png",
+      "s": "350 KB",
+      "u": "/Fonts/Color/VICTORIA_color.ttf"
     },
     {
-      "s": "139 KB",
-      "t": "Stylish/2ePMVjf.png",
-      "u": "/Fonts/Language/English/SmellTheRoses.ttf",
-      "n": "SmellTheRoses"
+      "n": "Sprival_Sans",
+      "t": "Wqu7Mcn.png",
+      "s": "62 KB",
+      "u": "/Fonts/Color/Sprival_Sans.ttf"
     },
     {
-      "s": "134 KB",
-      "t": "Stylish/lDlv8ia.png",
-      "u": "/Fonts/Language/English/RibbonOfhope.ttf",
-      "n": "RibbonOfhope"
+      "n": "Turkey_color",
+      "t": "KACR08m.png",
+      "s": "1.07 MB",
+      "u": "/Fonts/Color/Turkey_color.ttf"
     },
     {
-      "s": "206 KB",
-      "t": "Stylish/kDeTKJQ.png",
-      "u": "/Fonts/Language/English/Neucha.ttf",
-      "n": "Neucha"
+      "n": "Snake_color",
+      "t": "7Rqvrkv.png",
+      "s": "318 KB",
+      "u": "/Fonts/Color/Snake_color.ttf"
     },
     {
-      "s": "176 KB",
-      "t": "Stylish/neRL66L.png",
-      "u": "/Fonts/Language/English/Neon80s.ttf",
-      "n": "Neon80s"
+      "n": "Sonic_color",
+      "t": "GnFKvlw.png",
+      "s": "485 KB",
+      "u": "/Fonts/Color/Sonic_color.ttf"
     },
     {
+      "n": "Seijaku_colored",
+      "t": "VbvJLa6.png",
+      "s": "463 KB",
+      "u": "/Fonts/Color/Seijaku_colored.ttf"
+    },
+    {
+      "n": "Singing_color",
+      "t": "8qAzQUF.png",
+      "s": "308 KB",
+      "u": "/Fonts/Color/Singing_color.ttf"
+    },
+    {
+      "n": "SmokeOff",
+      "t": "RfGKP6w.png",
+      "s": "233 KB",
+      "u": "/Fonts/Color/SmokeOff.ttf"
+    },
+    {
+      "n": "Roger_color",
+      "t": "MxAPpYh.png",
+      "s": "113 KB",
+      "u": "/Fonts/Color/Roger_color.ttf"
+    },
+    {
+      "n": "Roseonly_Color",
+      "t": "1ek8fDd.png",
+      "s": "558 KB",
+      "u": "/Fonts/Color/Roseonly_Color.ttf"
+    },
+    {
+      "n": "NUTS",
+      "t": "Df3cCOe.png",
+      "s": "67 KB",
+      "u": "/Fonts/Color/NUTS.ttf"
+    },
+    {
+      "n": "PinkyQueen_Color",
+      "t": "Ux7r0Q9.png",
+      "s": "224 KB",
+      "u": "/Fonts/Color/PinkyQueen_Color.ttf"
+    },
+    {
+      "n": "Pluto",
+      "t": "Ao2MOeM.png",
+      "s": "2.06 MB",
+      "u": "/Fonts/Color/Pluto.ttf"
+    },
+    {
+      "n": "Rainbow-color",
+      "t": "A7fqpM1.png",
+      "s": "540 KB",
+      "u": "/Fonts/Color/Rainbow-color.ttf"
+    },
+    {
+      "n": "MoonCake-Color",
+      "t": "xIpBTwL.png",
+      "s": "582 KB",
+      "u": "/Fonts/Color/MoonCake-Color.ttf"
+    },
+    {
+      "n": "Ms_Luce",
+      "t": "x9b2AgA.png",
+      "s": "48 KB",
+      "u": "/Fonts/Color/Ms_Luce.ttf"
+    },
+    {
+      "n": "Newborn_color",
+      "t": "du8RKt5.png",
+      "s": "477 KB",
+      "u": "/Fonts/Color/Newborn_color.ttf"
+    },
+    {
+      "n": "Mommy",
+      "t": "UMQDOLf.png",
+      "s": "155 KB",
+      "u": "/Fonts/Color/Mommy.ttf"
+    },
+    {
+      "n": "Monster_color",
+      "t": "jbgpPnm.png",
+      "s": "890 KB",
+      "u": "/Fonts/Color/Monster_color.ttf"
+    },
+    {
+      "n": "LetsDoIt",
+      "t": "iccTtKx.png",
+      "s": "151 KB",
+      "u": "/Fonts/Color/LetsDoIt.ttf"
+    },
+    {
+      "n": "LOVEN",
+      "t": "f4Nq10q.png",
+      "s": "63 KB",
+      "u": "/Fonts/Color/LOVEN.ttf"
+    },
+    {
+      "n": "Marshmallow_color",
+      "t": "G232nOU.png",
+      "s": "445 KB",
+      "u": "/Fonts/Color/Marshmallow_color.ttf"
+    },
+    {
+      "n": "Halloween_color",
+      "t": "70OlOTE.png",
+      "s": "395 KB",
+      "u": "/Fonts/Color/Halloween_color.ttf"
+    },
+    {
+      "n": "Holiday_Color",
+      "t": "6mfWl3c.png",
+      "s": "500 KB",
+      "u": "/Fonts/Color/Holiday_Color.ttf"
+    },
+    {
+      "n": "Jetter",
+      "t": "ns1oyh8.png",
+      "s": "74 KB",
+      "u": "/Fonts/Color/Jetter.ttf"
+    },
+    {
+      "n": "Growing_Color",
+      "t": "pBXR1W0.png",
+      "s": "430 KB",
+      "u": "/Fonts/Color/Growing_Color.ttf"
+    },
+    {
+      "n": "H20_color",
+      "t": "0aapnbp.png",
+      "s": "292 KB",
+      "u": "/Fonts/Color/H20_color.ttf"
+    },
+    {
+      "n": "GiraffaFrank_Colored",
+      "t": "X3ON254.png",
       "s": "128 KB",
-      "t": "Stylish/rQw1c5d.png",
-      "u": "/Fonts/Language/English/Life'sABeach.ttf",
-      "n": "Life'sABeach"
+      "u": "/Fonts/Color/GiraffaFrank_Colored.ttf"
     },
     {
-      "s": "136 KB",
-      "t": "Stylish/CPqnEjK.png",
-      "u": "/Fonts/Language/English/Melonio.ttf",
-      "n": "Melonio"
+      "n": "Fire_Color",
+      "t": "lBLwP5i.png",
+      "s": "1.31 MB",
+      "u": "/Fonts/Color/Fire_Color.ttf"
     },
     {
-      "s": "178 KB",
-      "t": "Stylish/z8tpfTB.png",
-      "u": "/Fonts/Language/English/ParryHotter.ttf",
-      "n": "ParryHotter"
+      "n": "Flora_color",
+      "t": "ZEhy5fF.png",
+      "s": "239 KB",
+      "u": "/Fonts/Color/Flora_color.ttf"
     },
     {
-      "s": "118 KB",
-      "t": "Stylish/HQ6ODER.png",
-      "u": "/Fonts/Language/English/PeaTwistMePretty.ttf",
-      "n": "PeaTwistMePretty"
+      "n": "Foldream_Color",
+      "t": "1h3TzIf.png",
+      "s": "547 KB",
+      "u": "/Fonts/Color/Foldream_Color.ttf"
+    },
+    {
+      "n": "Comic Book_color",
+      "t": "dK6Z37S.png",
+      "s": "355 KB",
+      "u": "/Fonts/Color/Comic.Book_color.ttf"
+    },
+    {
+      "n": "Confusion",
+      "t": "LhVq8GD.png",
+      "s": "28 KB",
+      "u": "/Fonts/Color/Confusion.ttf"
+    },
+    {
+      "n": "Christmas_color",
+      "t": "4lY0A05.png",
+      "s": "272 KB",
+      "u": "/Fonts/Color/Christmas_color.ttf"
+    },
+    {
+      "n": "Cartoon",
+      "t": "37oMtbd.png",
+      "s": "882 KB",
+      "u": "/Fonts/Color/Cartoon.ttf"
+    },
+    {
+      "n": "Celebration",
+      "t": "yPxXef7.png",
+      "s": "180 KB",
+      "u": "/Fonts/Color/Celebration.ttf"
+    },
+    {
+      "n": "BurningRope_Colored",
+      "t": "5WJxNam.png",
+      "s": "1.42 MB",
+      "u": "/Fonts/Color/BurningRope_Colored.ttf"
+    },
+    {
+      "n": "Candy",
+      "t": "RJYt4TI.png",
+      "s": "1.81 MB",
+      "u": "/Fonts/Color/Candy.ttf"
+    },
+    {
+      "n": "Best_Wishes_color",
+      "t": "0lkd7VV.png",
+      "s": "536 KB",
+      "u": "/Fonts/Color/Best_Wishes_color.ttf"
+    },
+    {
+      "n": "Animals_color",
+      "t": "IH75uzR.png",
+      "s": "476 KB",
+      "u": "/Fonts/Color/Animals_color.ttf"
+    },
+    {
+      "n": "Alex",
+      "t": "wXpev8G.png",
+      "s": "130 KB",
+      "u": "/Fonts/Color/Alex.ttf"
     }
   ],
   "stylish": [
