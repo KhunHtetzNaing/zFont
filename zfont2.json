@@ -10,9 +10,9 @@
   "remove_ads": true,
   "admob": true,
   "img": "https://i.imgur.com/",
-  "font": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master",
-  "ss_font": "https://github.com/KhunHtetzNaing/SS_zFont/raw/master/apk/",
-  "ss_img": "https://github.com/KhunHtetzNaing/SS_zFont/raw/master/img/",
+  "font": "https://github.com/KhunHtetzNaing/",
+  "ss_font": "https://github.com/KhunHtetzNaing/",
+  "ss_img": "https://github.com/KhunHtetzNaing/",
   "mono": false,
   "oppo_fonts": [
     {
@@ -38,92 +38,76 @@
   ],
   "lang": [
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/arabic.json",
-      "name": "Arabic"
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/fuck.json",
+      "name": "Please update"
     },
     {
-      "url": "",
-      "name": "Color"
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/fuck.json",
+      "name": "Please update"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/chakma.json",
-      "name": "Chakma"
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/fuck.json",
+      "name": "Please update"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/chinese.json",
-      "name": "Chinese"
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/fuck.json",
+      "name": "Please update"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/english.json",
-      "name": "English"
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/fuck.json",
+      "name": "Please update"
     },
     {
-      "url": "",
-      "name": "Emoji"
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/fuck.json",
+      "name": "Please update"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/KAREN_Leke_script.json",
-      "name": "KAREN (Leke script) 🔥"
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/fuck.json",
+      "name": "Please update"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/khmer.json",
-      "name": "Khmer"
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/fuck.json",
+      "name": "Please update"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/kurdish.json",
-      "name": "Kurdish 🔥"
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/fuck.json",
+      "name": "Please update"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/lao.json",
-      "name": "Lao"
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/fuck.json",
+      "name": "Please update"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/myanmar.json",
-      "name": "Myanmar"
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/fuck.json",
+      "name": "Please update"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/paoh.json",
-      "name": "PaOh"
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/fuck.json",
+      "name": "Please update"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/russian.json",
-      "name": "Russian"
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/fuck.json",
+      "name": "Please update"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/rohingya.json",
-      "name": "Rohingya"
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/fuck.json",
+      "name": "Please update"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/shan.json",
-      "name": "Shan"
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/fuck.json",
+      "name": "Please update"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/tai_tham.json",
-      "name": "Tai Tham"
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/fuck.json",
+      "name": "Please update"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/thai.json",
-      "name": "Thai"
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/fuck.json",
+      "name": "Please update"
     },
     {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/vietnamese.json",
-      "name": "Vietnamese"
-    },
-    {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/urdu.json",
-      "name": "Urdu"
-    },
-    {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/bengali.json",
-      "name": "Bengali"
-    },
-    {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/ukrainian.json",
-      "name": "Ukrainian"
-    },
-    {
-      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/data/korean.json",
-      "name": "Korean"
+      "url": "https://github.com/KhunHtetzNaing/zFont/raw/master/fuck.json",
+      "name": "Please update"
     }
   ],
   "rooted": [
@@ -189,7 +173,7 @@
       "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Emoji/iOS_14.5_FIXED.ttf",
       "title": "iOS_14.5",
       "size": "25.2 MB",
-      "thumbnail": "cFmy5Qp.png",
+      "thumbnail": "6TGANss.png",
       "preview": "8H1rqGh.jpg",
       "cat": "Emoji"
     },
@@ -197,7 +181,7 @@
       "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Emoji/Android_12_UNRELEASED.ttf",
       "title": "Android_12_UNRELEASED",
       "size": "9.61 MB",
-      "thumbnail": "Uwt53QS.png",
+      "thumbnail": "6TGANss.png",
       "preview": "4P6Ht9u.png",
       "cat": "Emoji"
     },
@@ -205,7 +189,7 @@
       "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Color/Yggdrassil_color.ttf",
       "title": "Yggdrassil_color",
       "size": "967 KB",
-      "thumbnail": "zYune0b.png",
+      "thumbnail": "6TGANss.png",
       "web": false,
       "preview": "PjemQwR.png",
       "cat": "Color"
@@ -214,7 +198,7 @@
       "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Cool/MasterPan.ttf",
       "title": "MasterPan",
       "size": "162 KB",
-      "thumbnail": "Dpmxveu.png",
+      "thumbnail": "6TGANss.png",
       "web": false,
       "preview": "m1jTU7j.png",
       "cat": "Cool"
@@ -223,7 +207,7 @@
       "url": "https://github.com/KhunHtetzNaing/zFont_Fonts/raw/master/Fonts/Language/English/SanFransisco.ttf",
       "title": "SanFransisco",
       "size": "181 KB",
-      "thumbnail": "cHVHV9Y.png",
+      "thumbnail": "6TGANss.png",
       "preview": "hwPQMCl.jpg",
       "cat": "Myanmar"
     }
@@ -235,7 +219,7 @@
       "n": "iOS_14.6",
       "u": "/Fonts/Emoji/iOS14.6_FIXED.ttf",
       "s": "26.5 MB",
-      "t": "cFmy5Qp.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
@@ -243,183 +227,183 @@
       "n": "iOS_14.5",
       "u": "/Fonts/Emoji/iOS.14.5_FIXED.ttf",
       "s": "25.2 MB",
-      "t": "cFmy5Qp.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Android_12_UNRELEASED",
       "u": "/Fonts/Emoji/Android_12_UNRELEASED.ttf",
       "s": "9.61 MB",
-      "t": "Uwt53QS.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Android_11",
       "u": "/Fonts/Emoji/Android_11.ttf",
       "s": "9.91 MB",
-      "t": "KDrGlEy.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "iOS14.2",
       "u": "/Fonts/Emoji/iOS14.2.ttf",
       "s": "22.0 MB",
-      "t": "Xu0Soz9.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Samsung_Android11",
       "u": "/Fonts/Emoji/Samsung_Android11.ttf",
       "s": "16.0 MB",
-      "t": "MSYlx30.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "Samsung_Emoji_2.5",
       "u": "/Fonts/Emoji/Samsung_Emoji_2.5.ttf",
       "s": "16.0 MB",
-      "t": "VfMoboT.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "iOS_v14",
       "u": "/Fonts/Emoji/iOS_v14.ttf",
       "s": "20.5 MB",
-      "t": "X6LFGqH.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "iOS14(beta)",
       "u": "/Fonts/Emoji/iOS14(beta).ttf",
       "s": "12.8 MB",
-      "t": "7lguUaz.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "unofficial_iOS14(13.1)",
       "u": "/Fonts/Emoji/unofficial_iOS14(13.1).ttf",
       "s": "12.7 MB",
-      "t": "g3hfmka.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "iOS+GMonkey",
       "u": "/Fonts/Emoji/iOS+GMonkey.ttf",
       "s": "12.7 MB",
-      "t": "F5M1Lwp.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "iOS+GPoo",
       "u": "/Fonts/Emoji/iOS+GPoo.ttf",
       "s": "12.6 MB",
-      "t": "jDw8Zqa.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "iOS+Gturtle",
       "u": "/Fonts/Emoji/iOS+Gturtle.ttf",
       "s": "12.7 MB",
-      "t": "yS867pf.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "GMonkey",
       "u": "/Fonts/Emoji/GMonkey.ttf",
       "s": "5.98 MB",
-      "t": "zxyEb5D.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "Google11",
       "u": "/Fonts/Emoji/Google11.ttf",
       "s": "5.70 MB",
-      "t": "d6MOlvA.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "GPoo",
       "u": "/Fonts/Emoji/GPoo.ttf",
       "s": "5.92 MB",
-      "t": "tkDq4iN.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "Gturtle",
       "u": "/Fonts/Emoji/Gturtle.ttf",
       "s": "5.95 MB",
-      "t": "GrKaBwc.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "JoyPixels6.0",
       "u": "/Fonts/Emoji/JoyPixels6.0.ttf",
       "s": "22.1 MB",
-      "t": "N4ZAyCG.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "Twemoji",
       "u": "/Fonts/Emoji/Twemoji.ttf",
       "s": "1.63 MB",
-      "t": "0m4H38E.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "EmojiKitchen",
       "u": "/Fonts/Emoji/EmojiKitchen.ttf",
       "s": "6.20 MB",
-      "t": "dCXW6Gp.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "iOS_v14",
       "u": "/Fonts/Emoji/iOS_v14.ttf",
       "s": "20.5 MB",
-      "t": "X6LFGqH.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "Kitchen+Google11Beta",
       "u": "/Fonts/Emoji/Kitchen+Google11Beta.ttf",
       "s": "9.79 MB",
-      "t": "TnHJSiK.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "FaceBook5.0",
       "u": "/Fonts/Emoji/FaceBook5.0.ttf",
       "s": "12.3 MB",
-      "t": "bL97H4Z.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "JoyPixel",
       "u": "/Fonts/Emoji/JoyPixel.ttf",
       "s": "22.1 MB",
-      "t": "IDqpw3X.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "Android_11_Beta",
       "u": "/Fonts/Emoji/Android_11_Beta.ttf",
       "s": "9.26 MB",
-      "t": "hf5DFuA.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "EmojiDex",
       "u": "/Fonts/Emoji/EmojiDex.ttf",
       "s": "33.2 MB",
-      "t": "COqhcBX.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "RickyBush_",
       "n": "JoyPixel_NoNum",
       "u": "/Fonts/Emoji/JoyPixel_NoNum.ttf",
       "s": "22.1 MB",
-      "t": "nUOPPy0.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "iOS_v13.3",
       "u": "/Fonts/Emoji/iOS_v13.3.ttf",
       "s": "42.1 MB",
-      "t": "PZbgVf3.png",
+      "t": "6TGANss.png",
       "a": "Newgon@XDA"
     },
     {
@@ -427,27 +411,27 @@
       "n": "Facebook_v4.0",
       "u": "/Fonts/Emoji/Facebook_v4.0.ttf",
       "s": "36.7 MB",
-      "t": "I5gkNR4.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "WhatsApp_v1.1",
       "u": "/Fonts/Emoji/WhatsApp_v1.1.ttf",
       "s": "33.9 MB",
-      "t": "njCX5wn.png",
+      "t": "6TGANss.png",
       "a": "Newgon@XDA"
     },
     {
       "n": "Windows10+iOSFlag",
       "u": "/Fonts/Emoji/Windows10+iOSFlag.ttf",
       "s": "10.4 MB",
-      "t": "nx0ygOj.png",
+      "t": "6TGANss.png",
       "a": "Newgon@XDA"
     },
     {
       "n": "OpenMoji_v12.1",
       "u": "/Fonts/Emoji/OpenMoji_v12.1.ttf",
       "s": "3.38 MB",
-      "t": "bwfYlXS.png",
+      "t": "6TGANss.png",
       "a": "Newgon@XDA"
     },
     {
@@ -455,109 +439,109 @@
       "n": "iOS13.2",
       "u": "/Fonts/Emoji/iOS13.2.ttf",
       "s": "42.1 MB",
-      "t": "jlfUZxQ.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "iOS10.2",
       "u": "/Fonts/Emoji/iOS10.2.ttf",
       "s": "41.2 MB",
-      "t": "hyLk7LD.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "IOS12.1",
       "u": "/Fonts/Emoji/iOS12.1.ttf",
       "s": "24.8 MB",
-      "t": "4jssrGb.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "iOS12",
       "u": "/Fonts/Emoji/iOS12.ttf",
       "s": "17.1 MB",
-      "t": "0n0KZgn.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "iOS 11",
       "s": "22.08 MB",
       "u": "/Fonts/Emoji/iOS11Emoji.ttf",
-      "t": "04inix4.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Windows 10",
       "u": "/Fonts/Emoji/Windows10Emoji.ttf",
       "s": "17.11 MB",
-      "t": "RQGkAoF.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Android P",
       "u": "/Fonts/Emoji/AndroidPEmoji.ttf",
       "s": "14.00 MB",
-      "t": "DB6FF66.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Facebook",
       "u": "/Fonts/Emoji/FacebookEmoji.ttf",
       "s": "12.06 MB",
-      "t": "K01I4S2.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Android L",
       "u": "/Fonts/Emoji/Android.L.ttf",
       "s": "4.88 MB",
-      "t": "qDJaeYq.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "HTC Sense",
       "u": "/Fonts/Emoji/HTC.Sense.ttf",
       "s": "5.09 MB",
-      "t": "MIAULCs.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "iOS",
       "u": "/Fonts/Emoji/iOS.ttf",
       "s": "6.44 MB",
-      "t": "Ue3eQf4.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "LG",
       "u": "/Fonts/Emoji/LG.ttf",
       "s": "6.15 MB",
-      "t": "UchUgiv.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Phantom",
       "u": "/Fonts/Emoji/Phantom.ttf",
       "s": "702 KB",
-      "t": "dfZ1Mbu.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Pixels",
       "u": "/Fonts/Emoji/Pixels.ttf",
       "s": "1.90 MB",
-      "t": "X1VdjH6.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Samsung",
       "u": "/Fonts/Emoji/Samsung.ttf",
       "s": "6.48 MB",
-      "t": "YzK9XOs.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Twitter",
       "u": "/Fonts/Emoji/Twitter.ttf",
       "s": "2.53 MB",
-      "t": "8VgEvLV.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Unknown",
       "u": "/Fonts/Emoji/Unknown.ttf",
       "s": "2.93 MB",
-      "t": "MBEIAuV.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "SamsungPie",
       "u": "/Fonts/Emoji/SamsungPie.ttf",
       "s": "10.6 MB",
-      "t": "lf4NH4A.png"
+      "t": "6TGANss.png"
     }
   ],
   "color": [
@@ -565,322 +549,322 @@
       "n": "All_I_Ask",
       "u": "/Fonts/Color/All_I_Ask.ttf",
       "s": "281 KB",
-      "t": "6kJNtqz.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "Among_Flowers_Smile",
       "u": "/Fonts/Color/Among_Flowers_Smile.ttf",
       "s": "271 KB",
-      "t": "pHqNy3c.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "Beloved_Bunny",
       "u": "/Fonts/Color/Beloved_Bunny.ttf",
       "s": "321 KB",
-      "t": "QP5VbuY.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "Colorful_Fruits",
       "u": "/Fonts/Color/Colorful_Fruits.ttf",
       "s": "349 KB",
-      "t": "k7rGm2s.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "DearYou",
       "u": "/Fonts/Color/DearYou.ttf",
       "s": "225 KB",
-      "t": "CnC52Wm.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "Fighting",
       "u": "/Fonts/Color/Fighting.ttf",
       "s": "321 KB",
-      "t": "CTEtUPE.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "ForeverHello",
       "u": "/Fonts/Color/ForeverHello.ttf",
       "s": "3.31 MB",
-      "t": "lgsaSXy.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "Frozen_heart",
       "u": "/Fonts/Color/Frozen_heart.ttf",
       "s": "373 KB",
-      "t": "9wELFAP.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "Fruit_Jelly",
       "u": "/Fonts/Color/Fruit_Jelly.ttf",
       "s": "401 KB",
-      "t": "psj2b0a.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "GetLucky",
       "u": "/Fonts/Color/GetLucky.ttf",
       "s": "2.91 MB",
-      "t": "Xf4N24K.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "GirlHello",
       "u": "/Fonts/Color/GirlHello.ttf",
       "s": "284 KB",
-      "t": "nGkFuyi.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "HappySummer",
       "u": "/Fonts/Color/HappySummer.ttf",
       "s": "3.52 MB",
-      "t": "Lub6xGk.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "Heart_to_heart",
       "u": "/Fonts/Color/Heart_to_heart.ttf",
       "s": "341 KB",
-      "t": "DB58fHN.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "Heartbeat_interval",
       "u": "/Fonts/Color/Heartbeat_interval.ttf",
       "s": "228 KB",
-      "t": "skyHmWG.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "HeartByHeart",
       "u": "/Fonts/Color/HeartByHeart.ttf",
       "s": "416 KB",
-      "t": "t0iL7hb.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "Hibernal_Snow",
       "u": "/Fonts/Color/Hibernal_Snow.ttf",
       "s": "95 KB",
-      "t": "mVSBWmH.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "Hug_you_deeply",
       "u": "/Fonts/Color/Hug_you_deeply.ttf",
       "s": "290 KB",
-      "t": "IVMdowv.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "INeverLeft",
       "u": "/Fonts/Color/INeverLeft.ttf",
       "s": "333 KB",
-      "t": "8tuRnIQ.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "LastKiss",
       "u": "/Fonts/Color/LastKiss.ttf",
       "s": "360 KB",
-      "t": "yywHgPF.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "Lemon_Juice",
       "u": "/Fonts/Color/Lemon_Juice.ttf",
       "s": "290 KB",
-      "t": "lIi9Z3M.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "LoveActually",
       "u": "/Fonts/Color/LoveActually.ttf",
       "s": "398 KB",
-      "t": "YzOeZM6.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "LoveInTheTime",
       "u": "/Fonts/Color/LoveInTheTime.ttf",
       "s": "375 KB",
-      "t": "lNsAPST.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "LoveSongForYou",
       "u": "/Fonts/Color/LoveSongForYou.ttf",
       "s": "363 KB",
-      "t": "LD68FUd.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "MeetLove",
       "u": "/Fonts/Color/MeetLove.ttf",
       "s": "232 KB",
-      "t": "Clqa70u.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "Memories_With_You",
       "u": "/Fonts/Color/Memories_With_You.ttf",
       "s": "581 KB",
-      "t": "XfswuPO.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "MyDarling",
       "u": "/Fonts/Color/MyDarling.ttf",
       "s": "89 KB",
-      "t": "LmE8MRE.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "MyFirstLove",
       "u": "/Fonts/Color/MyFirstLove.ttf",
       "s": "323 KB",
-      "t": "vTByMXq.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "MyGarden",
       "u": "/Fonts/Color/MyGarden.ttf",
       "s": "335 KB",
-      "t": "8mHj2Hv.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "NorthenLights",
       "u": "/Fonts/Color/NorthenLights.ttf",
       "s": "469 KB",
-      "t": "SyuXHLI.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "OneDream",
       "u": "/Fonts/Color/OneDream.ttf",
       "s": "266 KB",
-      "t": "z9G1BNh.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "PurplePotatoCake",
       "u": "/Fonts/Color/PurplePotatoCake.ttf",
       "s": "270 KB",
-      "t": "mTSFNrU.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "RainbowRain",
       "u": "/Fonts/Color/RainbowRain.ttf",
       "s": "334 KB",
-      "t": "djeEUyX.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "SayHello",
       "u": "/Fonts/Color/SayHello.ttf",
       "s": "257 KB",
-      "t": "hCNIQC4.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "Shiny_Star",
       "u": "/Fonts/Color/Shiny_Star.ttf",
       "s": "323 KB",
-      "t": "guDV35l.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "SparklingWater",
       "u": "/Fonts/Color/SparklingWater.ttf",
       "s": "218 KB",
-      "t": "jiC6bwP.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "StarLights",
       "u": "/Fonts/Color/StarLights.ttf",
       "s": "382 KB",
-      "t": "y9rNwqn.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "Sweet-Dreams",
       "u": "/Fonts/Color/Sweet-Dreams.ttf",
       "s": "2.61 MB",
-      "t": "DHh4h2N.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "TasteOfTears",
       "u": "/Fonts/Color/TasteOfTears.ttf",
       "s": "287 KB",
-      "t": "p2RQKxy.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "The_Galaxy",
       "u": "/Fonts/Color/The_Galaxy.ttf",
       "s": "92 KB",
-      "t": "DSpvhCW.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "TheBlueWhale",
       "u": "/Fonts/Color/TheBlueWhale.ttf",
       "s": "191 KB",
-      "t": "4UEMA9K.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "TikTok",
       "u": "/Fonts/Color/TikTok.ttf",
       "s": "326 KB",
-      "t": "kdEieH3.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "Tsundere",
       "u": "/Fonts/Color/Tsundere.ttf",
       "s": "275 KB",
-      "t": "1EdG1Sd.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "Twinkle_Twinkle",
       "u": "/Fonts/Color/Twinkle_Twinkle.ttf",
       "s": "407 KB",
-      "t": "zRcU1SK.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "ViVid_colors",
       "u": "/Fonts/Color/ViVid_colors.ttf",
       "s": "267 KB",
-      "t": "BChSVxF.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "X-Faster",
       "u": "/Fonts/Color/X-Faster.ttf",
       "s": "490 KB",
-      "t": "8xyhO3P.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
       "n": "Good_Luck_Hello",
       "u": "/Fonts/Color/Good_Luck_Hello.ttf",
       "s": "291 KB",
-      "t": "ZLFjq2F.png",
+      "t": "6TGANss.png",
       "a": "Mg Mg"
     },
     {
@@ -888,409 +872,409 @@
       "n": "youth_colours",
       "u": "/Fonts/Color/youth_colours.ttf",
       "s": "679 KB",
-      "t": "ugE5Uuj.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "purbasha Jio",
       "n": "color_party",
       "u": "/Fonts/Color/color_party.ttf",
       "s": "344 KB",
-      "t": "AXClOsg.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "purbasha Jio",
       "n": "X-lovely_girl",
       "u": "/Fonts/Color/X-lovely_girl.ttf",
       "s": "417 KB",
-      "t": "Xkl3p1u.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Color_Font_6",
       "u": "/Fonts/Color/Color_Font_6.ttf",
       "s": "14.0 MB",
-      "t": "w7oh2wW.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Color_Font_10",
       "u": "/Fonts/Color/Color_Font_10.ttf",
       "s": "16.5 MB",
-      "t": "s53MNyz.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Color_Font_15",
       "u": "/Fonts/Color/Color_Font_15.ttf",
       "s": "8.69 MB",
-      "t": "4YNqHQX.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Color_Font_2",
       "u": "/Fonts/Color/Color_Font_2.ttf",
       "s": "13.4 MB",
-      "t": "pgQZcQb.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Color_Font_7",
       "u": "/Fonts/Color/Color_Font_7.ttf",
       "s": "5.92 MB",
-      "t": "WbdGq8x.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Color_Font_14",
       "u": "/Fonts/Color/Color_Font_14.ttf",
       "s": "7.73 MB",
-      "t": "vWFDM96.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Color_Font_3",
       "u": "/Fonts/Color/Color_Font_3.ttf",
       "s": "11.9 MB",
-      "t": "ksKzjvp.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Color_Font_9",
       "u": "/Fonts/Color/Color_Font_9.ttf",
       "s": "8.34 MB",
-      "t": "bzaSWMT.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Color_Font_11",
       "u": "/Fonts/Color/Color_Font_11.ttf",
       "s": "16.2 MB",
-      "t": "lY9RIxz.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Color_Font_1",
       "u": "/Fonts/Color/Color_Font_1.ttf",
       "s": "15.8 MB",
-      "t": "UoqROFB.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Color_Font_5",
       "u": "/Fonts/Color/Color_Font_5.ttf",
       "s": "8.96 MB",
-      "t": "RgWFVeq.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Color_Font_8",
       "u": "/Fonts/Color/Color_Font_8.ttf",
       "s": "14.1 MB",
-      "t": "ppp2Pmr.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Color_Font_13",
       "u": "/Fonts/Color/Color_Font_13.ttf",
       "s": "10.6 MB",
-      "t": "nSzeGew.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Color_Font_4",
       "u": "/Fonts/Color/Color_Font_4.ttf",
       "s": "9.33 MB",
-      "t": "99nsFcd.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Color_Font_12",
       "u": "/Fonts/Color/Color_Font_12.ttf",
       "s": "8.03 MB",
-      "t": "XF3Fkby.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "ColorFul",
       "u": "/Fonts/Color/ColorFul.ttf",
       "s": "113 KB",
-      "t": "g5R2b9d.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Qlassik",
       "u": "/Fonts/Color/Qlassik.ttf",
       "s": "430 KB",
-      "t": "9GFoRrw.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "TrueColors",
       "u": "/Fonts/Color/TrueColors.ttf",
       "s": "35 KB",
-      "t": "ExJXXmC.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Yggdrassil_color",
-      "t": "zYune0b.png",
+      "t": "6TGANss.png",
       "s": "967 KB",
       "u": "/Fonts/Color/Yggdrassil_color.ttf"
     },
     {
       "n": "Volcano_color",
-      "t": "OVO8jHG.png",
+      "t": "6TGANss.png",
       "s": "1.92 MB",
       "u": "/Fonts/Color/Volcano_color.ttf"
     },
     {
       "n": "Water_Melon_color",
-      "t": "SAyvCpe.png",
+      "t": "6TGANss.png",
       "s": "519 KB",
       "u": "/Fonts/Color/Water_Melon_color.ttf"
     },
     {
       "n": "Twilight",
-      "t": "SwEc9Fg.png",
+      "t": "6TGANss.png",
       "s": "349 KB",
       "u": "/Fonts/Color/Twilight.ttf"
     },
     {
       "n": "Twinkle_color",
-      "t": "v2K28Kw.png",
+      "t": "6TGANss.png",
       "s": "626 KB",
       "u": "/Fonts/Color/Twinkle_color.ttf"
     },
     {
       "n": "Unica",
-      "t": "oiQRU7w.png",
+      "t": "6TGANss.png",
       "s": "117 KB",
       "u": "/Fonts/Color/Unica.ttf"
     },
     {
       "n": "VICTORIA_color",
-      "t": "C1IPOwK.png",
+      "t": "6TGANss.png",
       "s": "350 KB",
       "u": "/Fonts/Color/VICTORIA_color.ttf"
     },
     {
       "n": "Sprival_Sans",
-      "t": "Wqu7Mcn.png",
+      "t": "6TGANss.png",
       "s": "62 KB",
       "u": "/Fonts/Color/Sprival_Sans.ttf"
     },
     {
       "n": "Turkey_color",
-      "t": "KACR08m.png",
+      "t": "6TGANss.png",
       "s": "1.07 MB",
       "u": "/Fonts/Color/Turkey_color.ttf"
     },
     {
       "n": "Snake_color",
-      "t": "7Rqvrkv.png",
+      "t": "6TGANss.png",
       "s": "318 KB",
       "u": "/Fonts/Color/Snake_color.ttf"
     },
     {
       "n": "Sonic_color",
-      "t": "GnFKvlw.png",
+      "t": "6TGANss.png",
       "s": "485 KB",
       "u": "/Fonts/Color/Sonic_color.ttf"
     },
     {
       "n": "Seijaku_colored",
-      "t": "VbvJLa6.png",
+      "t": "6TGANss.png",
       "s": "463 KB",
       "u": "/Fonts/Color/Seijaku_colored.ttf"
     },
     {
       "n": "Singing_color",
-      "t": "8qAzQUF.png",
+      "t": "6TGANss.png",
       "s": "308 KB",
       "u": "/Fonts/Color/Singing_color.ttf"
     },
     {
       "n": "SmokeOff",
-      "t": "RfGKP6w.png",
+      "t": "6TGANss.png",
       "s": "233 KB",
       "u": "/Fonts/Color/SmokeOff.ttf"
     },
     {
       "n": "Roger_color",
-      "t": "MxAPpYh.png",
+      "t": "6TGANss.png",
       "s": "113 KB",
       "u": "/Fonts/Color/Roger_color.ttf"
     },
     {
       "n": "Roseonly_Color",
-      "t": "1ek8fDd.png",
+      "t": "6TGANss.png",
       "s": "558 KB",
       "u": "/Fonts/Color/Roseonly_Color.ttf"
     },
     {
       "n": "NUTS",
-      "t": "Df3cCOe.png",
+      "t": "6TGANss.png",
       "s": "67 KB",
       "u": "/Fonts/Color/NUTS.ttf"
     },
     {
       "n": "PinkyQueen_Color",
-      "t": "Ux7r0Q9.png",
+      "t": "6TGANss.png",
       "s": "224 KB",
       "u": "/Fonts/Color/PinkyQueen_Color.ttf"
     },
     {
       "n": "Pluto",
-      "t": "Ao2MOeM.png",
+      "t": "6TGANss.png",
       "s": "2.06 MB",
       "u": "/Fonts/Color/Pluto.ttf"
     },
     {
       "n": "Rainbow-color",
-      "t": "A7fqpM1.png",
+      "t": "6TGANss.png",
       "s": "540 KB",
       "u": "/Fonts/Color/Rainbow-color.ttf"
     },
     {
       "n": "MoonCake-Color",
-      "t": "xIpBTwL.png",
+      "t": "6TGANss.png",
       "s": "582 KB",
       "u": "/Fonts/Color/MoonCake-Color.ttf"
     },
     {
       "n": "Ms_Luce",
-      "t": "x9b2AgA.png",
+      "t": "6TGANss.png",
       "s": "48 KB",
       "u": "/Fonts/Color/Ms_Luce.ttf"
     },
     {
       "n": "Newborn_color",
-      "t": "du8RKt5.png",
+      "t": "6TGANss.png",
       "s": "477 KB",
       "u": "/Fonts/Color/Newborn_color.ttf"
     },
     {
       "n": "Mommy",
-      "t": "UMQDOLf.png",
+      "t": "6TGANss.png",
       "s": "155 KB",
       "u": "/Fonts/Color/Mommy.ttf"
     },
     {
       "n": "Monster_color",
-      "t": "jbgpPnm.png",
+      "t": "6TGANss.png",
       "s": "890 KB",
       "u": "/Fonts/Color/Monster_color.ttf"
     },
     {
       "n": "LetsDoIt",
-      "t": "iccTtKx.png",
+      "t": "6TGANss.png",
       "s": "151 KB",
       "u": "/Fonts/Color/LetsDoIt.ttf"
     },
     {
       "n": "LOVEN",
-      "t": "f4Nq10q.png",
+      "t": "6TGANss.png",
       "s": "63 KB",
       "u": "/Fonts/Color/LOVEN.ttf"
     },
     {
       "n": "Marshmallow_color",
-      "t": "G232nOU.png",
+      "t": "6TGANss.png",
       "s": "445 KB",
       "u": "/Fonts/Color/Marshmallow_color.ttf"
     },
     {
       "n": "Halloween_color",
-      "t": "70OlOTE.png",
+      "t": "6TGANss.png",
       "s": "395 KB",
       "u": "/Fonts/Color/Halloween_color.ttf"
     },
     {
       "n": "Holiday_Color",
-      "t": "6mfWl3c.png",
+      "t": "6TGANss.png",
       "s": "500 KB",
       "u": "/Fonts/Color/Holiday_Color.ttf"
     },
     {
       "n": "Jetter",
-      "t": "ns1oyh8.png",
+      "t": "6TGANss.png",
       "s": "74 KB",
       "u": "/Fonts/Color/Jetter.ttf"
     },
     {
       "n": "Growing_Color",
-      "t": "pBXR1W0.png",
+      "t": "6TGANss.png",
       "s": "430 KB",
       "u": "/Fonts/Color/Growing_Color.ttf"
     },
     {
       "n": "H20_color",
-      "t": "0aapnbp.png",
+      "t": "6TGANss.png",
       "s": "292 KB",
       "u": "/Fonts/Color/H20_color.ttf"
     },
     {
       "n": "GiraffaFrank_Colored",
-      "t": "X3ON254.png",
+      "t": "6TGANss.png",
       "s": "128 KB",
       "u": "/Fonts/Color/GiraffaFrank_Colored.ttf"
     },
     {
       "n": "Fire_Color",
-      "t": "lBLwP5i.png",
+      "t": "6TGANss.png",
       "s": "1.31 MB",
       "u": "/Fonts/Color/Fire_Color.ttf"
     },
     {
       "n": "Flora_color",
-      "t": "ZEhy5fF.png",
+      "t": "6TGANss.png",
       "s": "239 KB",
       "u": "/Fonts/Color/Flora_color.ttf"
     },
     {
       "n": "Foldream_Color",
-      "t": "1h3TzIf.png",
+      "t": "6TGANss.png",
       "s": "547 KB",
       "u": "/Fonts/Color/Foldream_Color.ttf"
     },
     {
       "n": "Comic Book_color",
-      "t": "dK6Z37S.png",
+      "t": "6TGANss.png",
       "s": "355 KB",
       "u": "/Fonts/Color/Comic.Book_color.ttf"
     },
     {
       "n": "Confusion",
-      "t": "LhVq8GD.png",
+      "t": "6TGANss.png",
       "s": "28 KB",
       "u": "/Fonts/Color/Confusion.ttf"
     },
     {
       "n": "Christmas_color",
-      "t": "4lY0A05.png",
+      "t": "6TGANss.png",
       "s": "272 KB",
       "u": "/Fonts/Color/Christmas_color.ttf"
     },
     {
       "n": "Cartoon",
-      "t": "37oMtbd.png",
+      "t": "6TGANss.png",
       "s": "882 KB",
       "u": "/Fonts/Color/Cartoon.ttf"
     },
     {
       "n": "Celebration",
-      "t": "yPxXef7.png",
+      "t": "6TGANss.png",
       "s": "180 KB",
       "u": "/Fonts/Color/Celebration.ttf"
     },
     {
       "n": "BurningRope_Colored",
-      "t": "5WJxNam.png",
+      "t": "6TGANss.png",
       "s": "1.42 MB",
       "u": "/Fonts/Color/BurningRope_Colored.ttf"
     },
     {
       "n": "Candy",
-      "t": "RJYt4TI.png",
+      "t": "6TGANss.png",
       "s": "1.81 MB",
       "u": "/Fonts/Color/Candy.ttf"
     },
     {
       "n": "Best_Wishes_color",
-      "t": "0lkd7VV.png",
+      "t": "6TGANss.png",
       "s": "536 KB",
       "u": "/Fonts/Color/Best_Wishes_color.ttf"
     },
     {
       "n": "Animals_color",
-      "t": "IH75uzR.png",
+      "t": "6TGANss.png",
       "s": "476 KB",
       "u": "/Fonts/Color/Animals_color.ttf"
     },
     {
       "n": "Alex",
-      "t": "wXpev8G.png",
+      "t": "6TGANss.png",
       "s": "130 KB",
       "u": "/Fonts/Color/Alex.ttf"
     }
@@ -1301,21 +1285,21 @@
       "n": "OpenDyslexic-Bold",
       "u": "/Fonts/Stylish/OpenDyslexic-Bold.ttf",
       "s": "161 KB",
-      "t": "ll411VJ.png"
+      "t": "6TGANss.png"
     },
     {
       "in": true,
       "n": "OpenDyslexic-Regular",
       "u": "/Fonts/Stylish/OpenDyslexic-Regular.ttf",
       "s": "223 KB",
-      "t": "DqLhy61.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Mytype",
       "s": "40 KB",
       "in": true,
       "u": "/Fonts/Stylish/Mytype.ttf",
-      "t": "zX4RCDN.png",
+      "t": "6TGANss.png",
       "a": "Ricky Diviva"
     },
     {
@@ -1324,7 +1308,7 @@
       "n": "aisoo",
       "u": "/Fonts/Stylish/aisoo.ttf",
       "s": "108 KB",
-      "t": "YREejTB.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "mira Jio",
@@ -1332,7 +1316,7 @@
       "n": "Appal",
       "u": "/Fonts/Stylish/Appal.ttf",
       "s": "99 KB",
-      "t": "H9nu1dk.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "mira Jio",
@@ -1340,7 +1324,7 @@
       "n": "begonia",
       "u": "/Fonts/Stylish/begonia.ttf",
       "s": "78 KB",
-      "t": "vIPgSdt.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "mira Jio",
@@ -1348,7 +1332,7 @@
       "n": "Decorate",
       "u": "/Fonts/Stylish/Decorate.ttf",
       "s": "175 KB",
-      "t": "0XQ5RAS.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "mira Jio",
@@ -1356,7 +1340,7 @@
       "n": "Flow",
       "u": "/Fonts/Stylish/Flow.ttf",
       "s": "144 KB",
-      "t": "f2wSKII.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "mira Jio",
@@ -1364,7 +1348,7 @@
       "n": "Hibiscus",
       "u": "/Fonts/Stylish/Hibiscus.ttf",
       "s": "369 KB",
-      "t": "wCAgflO.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "mira Jio",
@@ -1372,28 +1356,28 @@
       "n": "HOLD",
       "u": "/Fonts/Stylish/HOLD.ttf",
       "s": "115 KB",
-      "t": "RjdGj5M.png"
+      "t": "6TGANss.png"
     },
     {
       "in": true,
       "n": "Imprima_Love",
       "u": "/Fonts/Language/English/TEST/Imprima_Love.ttf",
       "s": "26 KB",
-      "t": "DVHnGRT.png"
+      "t": "6TGANss.png"
     },
     {
       "in": true,
       "n": "Marmelad_Ribbon",
       "u": "/Fonts/Language/English/TEST/Marmelad_Ribbon.ttf",
       "s": "96 KB",
-      "t": "Wdk37Qd.png"
+      "t": "6TGANss.png"
     },
     {
       "in": true,
       "n": "Fiesole_Italic",
       "u": "/Fonts/Language/English/TEST/Fiesole_Italic.ttf",
       "s": "108 KB",
-      "t": "rryxXaj.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Paras Gawali",
@@ -1401,7 +1385,7 @@
       "n": "Comic_Book",
       "u": "/Fonts/Cool/Comic_Book.ttf",
       "s": "39 KB",
-      "t": "ZQS705P.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Dinette Dismon",
@@ -1409,7 +1393,7 @@
       "n": "Century_Schoolbook_Bold_Condensed_BT",
       "u": "/Fonts/Language/English/Century_Schoolbook_Bold_Condensed_BT.ttf",
       "s": "48 KB",
-      "t": "MHcBjYE.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Hunter Kole",
@@ -1417,7 +1401,7 @@
       "n": "Comic_Sans_MS",
       "u": "/Fonts/Language/English/Comic_Sans_MS.ttf",
       "s": "62 KB",
-      "t": "k2fIfWj.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "georgikidyov",
@@ -1425,7 +1409,7 @@
       "n": "DEC_Terminal_Modern",
       "u": "/Fonts/Language/English/DEC_Terminal_Modern.ttf",
       "s": "211 KB",
-      "t": "FiuuiQt.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Harold Apoc",
@@ -1433,7 +1417,7 @@
       "n": "Espar_Arial_Classic",
       "u": "/Fonts/Language/English/Espar_Arial_Classic.ttf",
       "s": "36 KB",
-      "t": "RVpEJzK.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Ronny220",
@@ -1441,7 +1425,7 @@
       "n": "GoogleSans-Regular",
       "u": "/Fonts/Language/English/GoogleSans-Regular.ttf",
       "s": "117 KB",
-      "t": "EKx49D8.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Brad",
@@ -1449,7 +1433,7 @@
       "n": "JOJO",
       "u": "/Fonts/Language/English/JOJO.ttf",
       "s": "27 KB",
-      "t": "Djn0xoV.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Degree34",
@@ -1457,7 +1441,7 @@
       "n": "LilitaOne-Regular",
       "u": "/Fonts/Language/English/LilitaOne-Regular.ttf",
       "s": "27 KB",
-      "t": "BDAtVMc.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Bloop",
@@ -1465,7 +1449,7 @@
       "n": "Minecraftia-Regular",
       "u": "/Fonts/Language/English/Minecraftia-Regular.ttf",
       "s": "68 KB",
-      "t": "watjAD8.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Dieter Steffmann",
@@ -1473,7 +1457,7 @@
       "n": "Nougat-ExtraBlack",
       "u": "/Fonts/Language/English/Nougat-ExtraBlack.ttf",
       "s": "27 KB",
-      "t": "MRNmpth.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Denis Odintsov",
@@ -1481,14 +1465,14 @@
       "n": "Sumy-Regular",
       "u": "/Fonts/Language/English/Sumy-Regular.ttf",
       "s": "42 KB",
-      "t": "1IpiHMk.png"
+      "t": "6TGANss.png"
     },
     {
       "in": true,
       "n": "Acquest_Script",
       "u": "/Fonts/Language/English/Acquest_Script.ttf",
       "s": "164 KB",
-      "t": "https://i.imgur.com/QqpOYvq.png",
+      "t": "6TGANss.png",
       "a": "Papaa Di Patlo"
     },
     {
@@ -1496,230 +1480,230 @@
       "n": "New_Walt_Disney",
       "u": "/Fonts/Language/English/New_Walt_Disney.ttf",
       "s": "32 KB",
-      "t": "https://i.imgur.com/LPZtUBs.png",
+      "t": "6TGANss.png",
       "a": "Marjorie  Malinao Raquiza"
     },
     {
       "n": "Naughty",
       "u": "/Fonts/Cool/Naughty.ttf",
       "s": "111 KB",
-      "t": "IVOw5d8.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Migraffiti",
       "u": "/Fonts/Cool/Migraffiti.ttf",
       "s": "67 KB",
-      "t": "TQRB4hc.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Moon_cake",
       "u": "/Fonts/Cool/Moon_cake.ttf",
       "s": "104 KB",
-      "t": "Lum3MVw.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "WRECK_PIXEL",
       "u": "/Fonts/Cool/WRECK_PIXEL.ttf",
       "s": "608 KB",
-      "t": "sw4jF8G.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Spot",
       "u": "/Fonts/Cool/Spot.ttf",
       "s": "136 KB",
-      "t": "IfOX93U.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Snake",
       "u": "/Fonts/Cool/Snake.ttf",
       "s": "89 KB",
-      "t": "3dcsKKl.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Bronte",
       "u": "/Fonts/Cool/Bronte.ttf",
       "s": "53 KB",
-      "t": "TTA5q7j.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Roseonly",
       "u": "/Fonts/Cool/Roseonly.ttf",
       "s": "61 KB",
-      "t": "yvXT6bq.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Volcano",
       "u": "/Fonts/Cool/Volcano.ttf",
       "s": "27 KB",
-      "t": "IimY0ds.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Holiday",
       "u": "/Fonts/Cool/Holiday.ttf",
       "s": "134 KB",
-      "t": "vCwV1CH.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Animals",
       "u": "/Fonts/Cool/Animals.ttf",
       "s": "253 KB",
-      "t": "8jC0Kb7.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Carol",
       "u": "/Fonts/Cool/Carol.ttf",
       "s": "41 KB",
-      "t": "7rT0RdX.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Halloween",
       "u": "/Fonts/Cool/Halloween.ttf",
       "s": "43 KB",
-      "t": "lYnvBRU.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Lacrimosa",
       "u": "/Fonts/Cool/Lacrimosa.ttf",
       "s": "21 KB",
-      "t": "ezIVMyE.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Marshmallow",
       "u": "/Fonts/Cool/Marshmallow.ttf",
       "s": "63 KB",
-      "t": "YbphoG9.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Musical",
       "u": "/Fonts/Cool/Musical.ttf",
       "s": "54 KB",
-      "t": "F8lnsZJ.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Peace",
       "u": "/Fonts/Cool/Peace.ttf",
       "s": "48 KB",
-      "t": "X0EntJ2.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Singing",
       "u": "/Fonts/Cool/Singing.ttf",
       "s": "59 KB",
-      "t": "rZq6zJE.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Speed",
       "u": "/Fonts/Cool/Speed.ttf",
       "s": "26 KB",
-      "t": "cxsONza.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Turkey",
       "u": "/Fonts/Cool/Turkey.ttf",
       "s": "243 KB",
-      "t": "IzD9E9m.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "MasterPan",
       "u": "/Fonts/Cool/MasterPan.ttf",
       "s": "162 KB",
-      "t": "Dpmxveu.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Best_Wishes",
       "u": "/Fonts/Cool/Best_Wishes.ttf",
       "s": "65 KB",
-      "t": "8u2bd5v.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Growing",
       "u": "/Fonts/Cool/Growing.ttf",
       "s": "25 KB",
-      "t": "ypmos9i.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Santa",
       "u": "/Fonts/Cool/Santa.ttf",
       "s": "331 KB",
-      "t": "LhVLBwu.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Skywalker",
       "u": "/Fonts/Cool/Skywalker.ttf",
       "s": "33 KB",
-      "t": "f2tGH5P.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "VICTORIA",
       "u": "/Fonts/Cool/VICTORIA.ttf",
       "s": "35 KB",
-      "t": "PW1vUBb.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Devroye Unicode",
       "s": "242 KB",
       "u": "/Fonts/Cool/Devroye.Unicode.ttf",
-      "t": "3qd8lPt.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Comic Relief",
       "u": "/Fonts/Cool/Comic.Relief.ttf",
       "s": "61 KB",
-      "t": "heNNjws.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Amerika",
       "u": "/Fonts/Cool/Amerika.ttf",
       "s": "98 KB",
-      "t": "GBOBGgA.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "GrandHotel-Regular",
       "u": "/Fonts/Cool/GrandHotel-Regular.ttf",
       "s": "66 KB",
-      "t": "0AgpfV6.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Jetter",
       "u": "/Fonts/Cool/Jetter.ttf",
       "s": "74 KB",
-      "t": "wmAgyoa.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Rosewood",
       "u": "/Fonts/Cool/Rosewood.ttf",
       "s": "43 KB",
-      "t": "http://i.imgur.com/Ib3370Q.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Sail",
       "u": "/Fonts/Cool/Sail.ttf",
       "s": "28 KB",
-      "t": "8FelbOY.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "ShortStack",
       "u": "/Fonts/Cool/ShortStack.ttf",
       "s": "46 KB",
-      "t": "NIUDgAm.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Skate Sonic",
       "u": "/Fonts/Cool/Skate.Sonic.ttf",
       "s": "65 KB",
-      "t": "9jWJunG.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Sweetie",
       "u": "/Fonts/Cool/Sweetie.ttf",
       "s": "274 KB",
-      "t": "PbGxH2x.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Trade Winds",
       "u": "/Fonts/Cool/Trade.Winds.ttf",
       "s": "82 KB",
-      "t": "N02JTXn.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Firman Akbar",
@@ -1727,7 +1711,7 @@
       "n": "BurbankBigCondensed",
       "u": "/Fonts/Language/English/BurbankBigCondensed.ttf",
       "s": "109 KB",
-      "t": "C5uQ3Zo.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Cekodok Pisang",
@@ -1735,7 +1719,7 @@
       "n": "Yellowtail",
       "u": "/Fonts/Language/English/Yellowtail.ttf",
       "s": "65 KB",
-      "t": "GcJTUvI.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Aa'esha Umm Luqman",
@@ -1743,7 +1727,7 @@
       "n": "CaviarDreamBold",
       "u": "/Fonts/Language/English/CaviarDreamBold.ttf",
       "s": "54 KB",
-      "t": "xa99m8t.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Lorenze Mae Concepcion",
@@ -1751,7 +1735,7 @@
       "n": "BauhausITC",
       "u": "/Fonts/Language/English/BauhausITC.ttf",
       "s": "150 KB",
-      "t": "mUo5oSh.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Malaya Tojin",
@@ -1759,7 +1743,7 @@
       "n": "Oswald",
       "u": "/Fonts/Language/English/Oswald.ttf",
       "s": "72 KB",
-      "t": "tKOiljV.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Sabbir Hossain",
@@ -1767,7 +1751,7 @@
       "n": "Bangla",
       "u": "/Fonts/Language/English/Bangla.ttf",
       "s": "183 KB",
-      "t": "N7ODHGZ.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Abdullah Al Mahmud",
@@ -1775,7 +1759,7 @@
       "n": "BalooDa",
       "u": "/Fonts/Language/English/BalooDa.ttf",
       "s": "427 KB",
-      "t": "hbL9m1n.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Kevin Donato",
@@ -1783,7 +1767,7 @@
       "n": "SFCartoonistHand",
       "u": "/Fonts/Language/English/SFCartoonistHand.ttf",
       "s": "55 KB",
-      "t": "WLZNRTk.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Kevin Donato",
@@ -1791,7 +1775,7 @@
       "n": "SFCartoonistHandSC",
       "u": "/Fonts/Language/English/SFCartoonistHandSC.ttf",
       "s": "58 KB",
-      "t": "RE7EemH.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Malaya Tojin",
@@ -1799,7 +1783,7 @@
       "n": "PriceDown",
       "u": "/Fonts/Language/English/PriceDown.ttf",
       "s": "182 KB",
-      "t": "ODYofN6.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Bravo M Justin",
@@ -1807,7 +1791,7 @@
       "n": "DeiYLatin",
       "u": "/Fonts/Language/English/DeiYLatin.ttf",
       "s": "29 KB",
-      "t": "1CGzwrD.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Asep Firmansyah",
@@ -1815,7 +1799,7 @@
       "n": "TimesNewRoman",
       "u": "/Fonts/Language/English/TimesNewRoman.ttf",
       "s": "75 KB",
-      "t": "obb0OgG.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Logan Sotgiu",
@@ -1823,7 +1807,7 @@
       "n": "Atma",
       "u": "/Fonts/Language/English/Atma.ttf",
       "s": "215 KB",
-      "t": "Peru8VB.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Natli Ruby",
@@ -1831,7 +1815,7 @@
       "n": "DJB_Drives_Me_Dotty",
       "u": "/Fonts/Language/English/DJB_Drives_Me_Dotty.ttf",
       "s": "62 KB",
-      "t": "OfMoVJB.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Marielle Laurent",
@@ -1839,7 +1823,7 @@
       "n": "Asinastra",
       "u": "/Fonts/Language/English/Asinastra.ttf",
       "s": "32 KB",
-      "t": "EXd529k.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Jonayed Ahmmed Ratul",
@@ -1847,7 +1831,7 @@
       "n": "Galada",
       "u": "/Fonts/Language/English/Galada.ttf",
       "s": "183 KB",
-      "t": "N81btCl.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Divafi",
@@ -1855,7 +1839,7 @@
       "n": "Danila",
       "u": "/Fonts/Language/English/Danila.ttf",
       "s": "22 KB",
-      "t": "cNrQi1Q.png"
+      "t": "6TGANss.png"
     },
     {
       "a": "Marcel Tapies Rubio",
@@ -1863,1725 +1847,1725 @@
       "n": "OldLondon",
       "u": "/Fonts/Language/English/OldLondon.ttf",
       "s": "49 KB",
-      "t": "yV9Qb1v.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Muli-ExtraLight",
       "u": "/Fonts/Language/English/Muli/Muli-ExtraLight.ttf",
       "in": true,
       "s": "85 KB",
-      "t": "6wx1Qre.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Muli-ExtraLightItalic",
       "u": "/Fonts/Language/English/Muli/Muli-ExtraLightItalic.ttf",
       "in": true,
       "s": "87 KB",
-      "t": "c9oeWvn.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Muli-Light",
       "u": "/Fonts/Language/English/Muli/Muli-Light.ttf",
       "in": true,
       "s": "87 KB",
-      "t": "GWnZkjd.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Muli-LightItalic",
       "u": "/Fonts/Language/English/Muli/Muli-LightItalic.ttf",
       "in": true,
       "s": "88 KB",
-      "t": "Szt5DJk.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Muli-Regular",
       "u": "/Fonts/Language/English/Muli/Muli-Regular.ttf",
       "in": true,
       "s": "88 KB",
-      "t": "OZWzGw5.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Muli-Italic",
       "u": "/Fonts/Language/English/Muli/Muli-Italic.ttf",
       "in": true,
       "s": "90 KB",
-      "t": "Dco4W8f.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Muli-SemiBold",
       "u": "/Fonts/Language/English/Muli/Muli-SemiBold.ttf",
       "in": true,
       "s": "87 KB",
-      "t": "nLOZMjQ.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Muli-SemiBoldItalic",
       "u": "/Fonts/Language/English/Muli/Muli-SemiBoldItalic.ttf",
       "in": true,
       "s": "89 KB",
-      "t": "QH0lkHD.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Muli-Bold",
       "u": "/Fonts/Language/English/Muli/Muli-Bold.ttf",
       "in": true,
       "s": "88 KB",
-      "t": "kWbCAge.png"
+      "t": "6TGANss.png"
     },
     {
       "in": true,
       "n": "Muli-BoldItalic",
       "u": "/Fonts/Language/English/Muli/Muli-BoldItalic.ttf",
       "s": "90 KB",
-      "t": "hHjfb5Q.png"
+      "t": "6TGANss.png"
     },
     {
       "in": true,
       "n": "Muli-ExtraBold",
       "u": "/Fonts/Language/English/Muli/Muli-ExtraBold.ttf",
       "s": "89 KB",
-      "t": "uvQ0kkx.png"
+      "t": "6TGANss.png"
     },
     {
       "in": true,
       "n": "Muli-ExtraBoldItalic",
       "u": "/Fonts/Language/English/Muli/Muli-ExtraBoldItalic.ttf",
       "s": "90 KB",
-      "t": "QBR3siq.png"
+      "t": "6TGANss.png"
     },
     {
       "in": true,
       "n": "Muli-Black",
       "u": "/Fonts/Language/English/Muli/Muli-Black.ttf",
       "s": "89 KB",
-      "t": "Xj0URY4.png"
+      "t": "6TGANss.png"
     },
     {
       "in": true,
       "n": "Muli-BlackItalic",
       "u": "/Fonts/Language/English/Muli/Muli-BlackItalic.ttf",
       "s": "91 KB",
-      "t": "pjEMNIl.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "VanessaLovesYou",
       "u": "/Fonts/Language/English/VanessaLovesYou.ttf",
       "s": "117 KB",
-      "t": "0HecrEv.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Wednesday",
       "u": "/Fonts/Language/English/Wednesday.ttf",
       "s": "142 KB",
-      "t": "gDC6yTH.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "VeggieBurger",
       "u": "/Fonts/Language/English/VeggieBurger.ttf",
       "s": "35 KB",
-      "t": "sPguf4v.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "VanessaMarie",
       "u": "/Fonts/Language/English/VanessaMarie.ttf",
       "s": "117 KB",
-      "t": "jTUUzec.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "YummyCupcakes",
       "u": "/Fonts/Language/English/YummyCupcakes.ttf",
       "s": "130 KB",
-      "t": "Luveb7y.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Vollkorn",
       "u": "/Fonts/Language/English/Vollkorn.ttf",
       "s": "120 KB",
-      "t": "1F9Qeo5.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "ZXXSans",
       "u": "/Fonts/Language/English/ZXXSans.ttf",
       "s": "100 KB",
-      "t": "rcOLRYr.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Xiomara",
       "u": "/Fonts/Language/English/Xiomara.ttf",
       "s": "108 KB",
-      "t": "HseNEqE.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "VanessasValentine",
       "u": "/Fonts/Language/English/VanessasValentine.ttf",
       "s": "200 KB",
-      "t": "ylS9Ox2.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "WhisperADream",
       "u": "/Fonts/Language/English/WhisperADream.ttf",
       "s": "116 KB",
-      "t": "ORPvx8C.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "YouMakeMeSmile",
       "u": "/Fonts/Language/English/YouMakeMeSmile.ttf",
       "s": "133 KB",
-      "t": "yFyyXJ0.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "VT323",
       "u": "/Fonts/Language/English/VT323.ttf",
       "s": "180 KB",
-      "t": "gfZIo0L.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "ValerieHand",
       "u": "/Fonts/Language/English/ValerieHand.ttf",
       "s": "125 KB",
-      "t": "1C3t5V2.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "WaltDisney",
       "u": "/Fonts/Language/English/WaltDisney.ttf",
       "s": "143 KB",
-      "t": "pKwJbso.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Vector110",
       "u": "/Fonts/Language/English/Vector110.ttf",
       "s": "737 KB",
-      "t": "fWCk1iq.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Walkway",
       "u": "/Fonts/Language/English/Walkway.ttf",
       "s": "108 KB",
-      "t": "XdVdMjS.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Zeyada",
       "u": "/Fonts/Language/English/Zeyada.ttf",
       "s": "134 KB",
-      "t": "5Q16izu.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "RomanceFatalSerif",
       "u": "/Fonts/Language/English/RomanceFatalSerif.ttf",
       "s": "28 KB",
-      "t": "VlWbXWG.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "ScrapoHolic",
       "u": "/Fonts/Language/English/ScrapoHolic.ttf",
       "s": "207 KB",
-      "t": "UGI69wa.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Slopness",
       "u": "/Fonts/Language/English/Slopness.ttf",
       "s": "161 KB",
-      "t": "SdQqQVy.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Quicksand",
       "u": "/Fonts/Language/English/Quicksand.ttf",
       "s": "121 KB",
-      "t": "3cHrTC2.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Rodeo",
       "u": "/Fonts/Language/English/Rodeo.ttf",
       "s": "121 KB",
-      "t": "ILVS9ua.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Stanberry",
       "u": "/Fonts/Language/English/Stanberry.ttf",
       "s": "127 KB",
-      "t": "XIxY8QT.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "TVFriends",
       "u": "/Fonts/Language/English/TVFriends.ttf",
       "s": "132 KB",
-      "t": "OJVzb5T.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Tabitha",
       "u": "/Fonts/Language/English/Tabitha.ttf",
       "s": "129 KB",
-      "t": "1F1mhVP.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "SunshinePoppy",
       "u": "/Fonts/Language/English/SunshinePoppy.ttf",
       "s": "129 KB",
-      "t": "1GbiXJL.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "SnappyService",
       "u": "/Fonts/Language/English/SnappyService.ttf",
       "s": "42 KB",
-      "t": "ep9f6qf.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "ShortStack",
       "u": "/Fonts/Language/English/ShortStack.ttf",
       "s": "154 KB",
-      "t": "s4NYn8N.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "SpicyRice",
       "u": "/Fonts/Language/English/SpicyRice.ttf",
       "s": "138 KB",
-      "t": "AdHX1g9.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "ScrapItUp",
       "u": "/Fonts/Language/English/ScrapItUp.ttf",
       "s": "139 KB",
-      "t": "9w6FILu.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Seriously",
       "u": "/Fonts/Language/English/Seriously.ttf",
       "s": "118 KB",
-      "t": "vnGzEKm.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "SophmoreYear",
       "u": "/Fonts/Language/English/SophmoreYear.ttf",
       "s": "123 KB",
-      "t": "FGgKXcF.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Ubuntu",
       "u": "/Fonts/Language/English/Ubuntu.ttf",
       "s": "183 KB",
-      "t": "OeFoEkn.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "SourceSansPro",
       "u": "/Fonts/Language/English/SourceSansPro.ttf",
       "s": "154 KB",
-      "t": "PuXBG0O.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "SentyBrush",
       "u": "/Fonts/Language/English/SentyBrush.ttf",
       "s": "146 KB",
-      "t": "QP3X8kV.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Technical",
       "u": "/Fonts/Language/English/Technical.ttf",
       "s": "44 KB",
-      "t": "jVtwTO0.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "TradeWinds",
       "u": "/Fonts/Language/English/TradeWinds.ttf",
       "s": "171 KB",
-      "t": "ZVvvhVj.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Tungsten",
       "u": "/Fonts/Language/English/Tungsten.ttf",
       "s": "106 KB",
-      "t": "JtrE7Yj.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "PurplePurse",
       "u": "/Fonts/Language/English/PurplePurse.ttf",
       "s": "135 KB",
-      "t": "zSQNWPz.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Simplicity",
       "u": "/Fonts/Language/English/Simplicity.ttf",
       "s": "123 KB",
-      "t": "twO7bjs.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "UrbanClass",
       "u": "/Fonts/Language/English/UrbanClass.ttf",
       "s": "637 KB",
-      "t": "YQercIy.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "TenMillionFireflies",
       "u": "/Fonts/Language/English/TenMillionFireflies.ttf",
       "s": "125 KB",
-      "t": "8kuB0Mc.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Sail",
       "u": "/Fonts/Language/English/Sail.ttf",
       "s": "118 KB",
-      "t": "Mp5Tow4.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "ThrowMyHandsUpintheAir",
       "u": "/Fonts/Language/English/ThrowMyHandsUpintheAir.ttf",
       "s": "116 KB",
-      "t": "TbTRCEC.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "TooTight",
       "u": "/Fonts/Language/English/TooTight.ttf",
       "s": "115 KB",
-      "t": "GIyRyuE.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Sixteen",
       "u": "/Fonts/Language/English/Sixteen.ttf",
       "s": "117 KB",
-      "t": "TFO5Fwx.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "ShadowsIntoLight",
       "u": "/Fonts/Language/English/ShadowsIntoLight.ttf",
       "s": "125 KB",
-      "t": "7C8j9gM.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "SonySketchEF",
       "u": "/Fonts/Language/English/SonySketchEF.ttf",
       "s": "179 KB",
-      "t": "wN4QGS8.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Rosemary",
       "u": "/Fonts/Language/English/Rosemary.ttf",
       "s": "1.25 MB",
-      "t": "OJwobPM.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "SimpleKindOfGirl",
       "u": "/Fonts/Language/English/SimpleKindOfGirl.ttf",
       "s": "127 KB",
-      "t": "88V1jcF.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "StRyde",
       "u": "/Fonts/Language/English/StRyde.ttf",
       "s": "145 KB",
-      "t": "if6kGdS.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Tweed",
       "u": "/Fonts/Language/English/Tweed.ttf",
       "s": "1.02 MB",
-      "t": "oEwasjw.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Tork",
       "u": "/Fonts/Language/English/Tork.ttf",
       "s": "38 KB",
-      "t": "HQbjQwW.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "TheUrbanWay",
       "u": "/Fonts/Language/English/TheUrbanWay.ttf",
       "s": "128 KB",
-      "t": "G8DYvHq.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "SweetyCherry",
       "u": "/Fonts/Language/English/SweetyCherry.ttf",
       "s": "194 KB",
-      "t": "U2RaD0i.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Taurus",
       "u": "/Fonts/Language/English/Taurus.ttf",
       "s": "113 KB",
-      "t": "MK7gNcE.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Sweetness",
       "u": "/Fonts/Language/English/Sweetness.ttf",
       "s": "114 KB",
-      "t": "OvmpoXW.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "SetFireToTheRain",
       "u": "/Fonts/Language/English/SetFireToTheRain.ttf",
       "s": "109 KB",
-      "t": "LDkXl26.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "PuppyBellies",
       "u": "/Fonts/Language/English/PuppyBellies.ttf",
       "s": "118 KB",
-      "t": "M8laQV1.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Shojumaru",
       "u": "/Fonts/Language/English/Shojumaru.ttf",
       "s": "143 KB",
-      "t": "rDrG2FC.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Raindrops",
       "u": "/Fonts/Language/English/Raindrops.ttf",
       "s": "158 KB",
-      "t": "ffimx8A.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "StarryNight",
       "u": "/Fonts/Language/English/StarryNight.ttf",
       "s": "137 KB",
-      "t": "u4liwOz.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Saysettha",
       "u": "/Fonts/Language/English/Saysettha.ttf",
       "s": "177 KB",
-      "t": "wEX3UAC.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Storopia",
       "u": "/Fonts/Language/English/Storopia.ttf",
       "s": "132 KB",
-      "t": "6wFMl8u.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Rixlovefool",
       "u": "/Fonts/Language/English/Rixlovefool.ttf",
       "s": "26 KB",
-      "t": "PE3PT2j.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "SmellTheRoses",
       "u": "/Fonts/Language/English/SmellTheRoses.ttf",
       "s": "139 KB",
-      "t": "2ePMVjf.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "RibbonOfhope",
       "u": "/Fonts/Language/English/RibbonOfhope.ttf",
       "s": "134 KB",
-      "t": "lDlv8ia.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Neucha",
       "u": "/Fonts/Language/English/Neucha.ttf",
       "s": "206 KB",
-      "t": "kDeTKJQ.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Neon80s",
       "u": "/Fonts/Language/English/Neon80s.ttf",
       "s": "176 KB",
-      "t": "neRL66L.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Life'sABeach",
       "u": "/Fonts/Language/English/Life'sABeach.ttf",
       "s": "128 KB",
-      "t": "rQw1c5d.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Melonio",
       "u": "/Fonts/Language/English/Melonio.ttf",
       "s": "136 KB",
-      "t": "CPqnEjK.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "ParryHotter",
       "u": "/Fonts/Language/English/ParryHotter.ttf",
       "s": "178 KB",
-      "t": "z8tpfTB.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "PeaTwistMePretty",
       "u": "/Fonts/Language/English/PeaTwistMePretty.ttf",
       "s": "118 KB",
-      "t": "HQ6ODER.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "PanicStricken",
       "u": "/Fonts/Language/English/PanicStricken.ttf",
       "s": "311 KB",
-      "t": "zmvDSOY.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "PeaBigAlFont",
       "u": "/Fonts/Language/English/PeaBigAlFont.ttf",
       "s": "118 KB",
-      "t": "xhqFb1w.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "MissSmartyPants",
       "u": "/Fonts/Language/English/MissSmartyPants.ttf",
       "s": "138 KB",
-      "t": "GxgoX6J.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Museo300",
       "u": "/Fonts/Language/English/Museo300.ttf",
       "s": "176 KB",
-      "t": "j9JGmFS.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "LifeSavers",
       "u": "/Fonts/Language/English/LifeSavers.ttf",
       "s": "237 KB",
-      "t": "eVapEq4.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "MyFirstCrush",
       "u": "/Fonts/Language/English/MyFirstCrush.ttf",
       "s": "132 KB",
-      "t": "nldaoMt.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "PeaMarley",
       "u": "/Fonts/Language/English/PeaMarley.ttf",
       "s": "118 KB",
-      "t": "nwkDybf.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Monoton",
       "u": "/Fonts/Language/English/Monoton.ttf",
       "s": "126 KB",
-      "t": "IM1Fgrt.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "MaritimeTropicalNeue",
       "u": "/Fonts/Language/English/MaritimeTropicalNeue.ttf",
       "s": "128 KB",
-      "t": "0A9ECN7.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "NeverSayNever",
       "u": "/Fonts/Language/English/NeverSayNever.ttf",
       "s": "28 KB",
-      "t": "6rvXm5L.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "NemoyMedium",
       "u": "/Fonts/Language/English/NemoyMedium.ttf",
       "s": "109 KB",
-      "t": "vPMVdMX.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "PassingNotes",
       "u": "/Fonts/Language/English/PassingNotes.ttf",
       "s": "132 KB",
-      "t": "seSerOo.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "MySkinnyJeans",
       "u": "/Fonts/Language/English/MySkinnyJeans.ttf",
       "s": "117 KB",
-      "t": "c3X26Y4.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Polobrush",
       "u": "/Fonts/Language/English/Polobrush.ttf",
       "s": "45 KB",
-      "t": "gD851kQ.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Lato",
       "u": "/Fonts/Language/English/Lato.ttf",
       "s": "118 KB",
-      "t": "pYeBYD1.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "MountainsofChristmas",
       "u": "/Fonts/Language/English/MountainsofChristmas.ttf",
       "s": "242 KB",
-      "t": "KTciB8D.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Noteworthy",
       "u": "/Fonts/Language/English/Noteworthy.ttf",
       "s": "82 KB",
-      "t": "TiEQZg8.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "PeaElle",
       "u": "/Fonts/Language/English/PeaElle.ttf",
       "s": "118 KB",
-      "t": "ck9bgf9.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Love",
       "u": "/Fonts/Language/English/Love.ttf",
       "s": "876 KB",
-      "t": "t0LML6W.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "NickelodeonNF",
       "u": "/Fonts/Language/English/NickelodeonNF.ttf",
       "s": "98 KB",
-      "t": "lQ94y84.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Nosifer",
       "u": "/Fonts/Language/English/Nosifer.ttf",
       "s": "120 KB",
-      "t": "Claf3fP.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "LittleMissPriss",
       "u": "/Fonts/Language/English/LittleMissPriss.ttf",
       "s": "117 KB",
-      "t": "IKGq2KO.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "LoveMeForever",
       "u": "/Fonts/Language/English/LoveMeForever.ttf",
       "s": "117 KB",
-      "t": "Zecg8NE.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "LazyDay",
       "u": "/Fonts/Language/English/LazyDay.ttf",
       "s": "115 KB",
-      "t": "vp6uY8o.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Pacifico",
       "u": "/Fonts/Language/English/Pacifico.ttf",
       "s": "165 KB",
-      "t": "v5FA6M1.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Lollipop",
       "u": "/Fonts/Language/English/Lollipop.ttf",
       "s": "119 KB",
-      "t": "GnxcYbC.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "OpenSans",
       "u": "/Fonts/Language/English/OpenSans.ttf",
       "s": "208 KB",
-      "t": "K3PKdo0.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Paprika",
       "u": "/Fonts/Language/English/Paprika.ttf",
       "s": "124 KB",
-      "t": "u3FNCDj.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "PhetsarathOT",
       "u": "/Fonts/Language/English/PhetsarathOT.ttf",
       "s": "181 KB",
-      "t": "TWcILAZ.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "PenelopeAnne",
       "u": "/Fonts/Language/English/PenelopeAnne.ttf",
       "s": "121 KB",
-      "t": "LdmEKDi.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "PeaKatrina",
       "u": "/Fonts/Language/English/PeaKatrina.ttf",
       "s": "118 KB",
-      "t": "BDla0kz.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "LeoThinBold",
       "u": "/Fonts/Language/English/LeoThinBold.ttf",
       "s": "142 KB",
-      "t": "ml0N6aJ.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "NymphsHandwriting",
       "u": "/Fonts/Language/English/NymphsHandwriting.ttf",
       "s": "129 KB",
-      "t": "yAT2X3J.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "LTOksana",
       "u": "/Fonts/Language/English/LTOksana.ttf",
       "s": "58 KB",
-      "t": "Di5JcZ0.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Lemon",
       "u": "/Fonts/Language/English/Lemon.ttf",
       "s": "118 KB",
-      "t": "IIiFk4u.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "PeaSandraDee",
       "u": "/Fonts/Language/English/PeaSandraDee.ttf",
       "s": "123 KB",
-      "t": "jLyVibu.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "NeutraDemiSC",
       "u": "/Fonts/Language/English/NeutraDemiSC.ttf",
       "s": "171 KB",
-      "t": "1l9WU6P.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "MeganHand",
       "u": "/Fonts/Language/English/MeganHand.ttf",
       "s": "121 KB",
-      "t": "dL6ohGP.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Museo500",
       "u": "/Fonts/Language/English/Museo500.ttf",
       "s": "175 KB",
-      "t": "gXi21xU.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "LondrinaSolid",
       "u": "/Fonts/Language/English/LondrinaSolid.ttf",
       "s": "135 KB",
-      "t": "Xbht5Ov.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Museo700",
       "u": "/Fonts/Language/English/Museo700.ttf",
       "s": "174 KB",
-      "t": "NibiTa3.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "LobsterTwo",
       "u": "/Fonts/Language/English/LobsterTwo.ttf",
       "s": "243 KB",
-      "t": "iEvFq1s.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "PeaColton",
       "u": "/Fonts/Language/English/PeaColton.ttf",
       "s": "118 KB",
-      "t": "TyqhBVP.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Milonga",
       "u": "/Fonts/Language/English/Milonga.ttf",
       "s": "271 KB",
-      "t": "pMF7EHB.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "JosefinSans",
       "u": "/Fonts/Language/English/JosefinSans.ttf",
       "s": "36 KB",
-      "t": "PhkWvTA.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KittySweety",
       "u": "/Fonts/Language/English/KittySweety.ttf",
       "s": "43 KB",
-      "t": "rVvY74c.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "JandaSillyMonkey",
       "u": "/Fonts/Language/English/JandaSillyMonkey.ttf",
       "s": "135 KB",
-      "t": "Jqh1EDZ.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGWaystoSayGoodbye",
       "u": "/Fonts/Language/English/KGWaystoSayGoodbye.ttf",
       "s": "129 KB",
-      "t": "PN4HJ2H.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGLoveSomebody",
       "u": "/Fonts/Language/English/KGLoveSomebody.ttf",
       "s": "112 KB",
-      "t": "ofIfrx6.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "IsabelleLayne",
       "u": "/Fonts/Language/English/IsabelleLayne.ttf",
       "s": "123 KB",
-      "t": "JdMgDI4.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGOnlyHope",
       "u": "/Fonts/Language/English/KGOnlyHope.ttf",
       "s": "165 KB",
-      "t": "jixtPIq.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGHowManyTimes",
       "u": "/Fonts/Language/English/KGHowManyTimes.ttf",
       "s": "119 KB",
-      "t": "1wZ2k9y.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGBeStillAndKnow",
       "u": "/Fonts/Language/English/KGBeStillAndKnow.ttf",
       "s": "145 KB",
-      "t": "m4PFWI2.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGSevenSixteen",
       "u": "/Fonts/Language/English/KGSevenSixteen.ttf",
       "s": "120 KB",
-      "t": "G8r9S0G.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "JustForGiggles",
       "u": "/Fonts/Language/English/JustForGiggles.ttf",
       "s": "143 KB",
-      "t": "EGBt0Ca.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "JosefinSlab",
       "u": "/Fonts/Language/English/JosefinSlab.ttf",
       "s": "192 KB",
-      "t": "mPN0Syl.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "HappyMonkey",
       "u": "/Fonts/Language/English/HappyMonkey.ttf",
       "s": "154 KB",
-      "t": "bOG5Klc.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Journal",
       "u": "/Fonts/Language/English/Journal.ttf",
       "s": "212 KB",
-      "t": "YgRJwJz.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KaushanScript",
       "u": "/Fonts/Language/English/KaushanScript.ttf",
       "s": "168 KB",
-      "t": "lRMHSqa.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KingCoolKC",
       "u": "/Fonts/Language/English/KingCoolKC.ttf",
       "s": "119 KB",
-      "t": "nCdDAHH.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGNexttoMe",
       "u": "/Fonts/Language/English/KGNexttoMe.ttf",
       "s": "177 KB",
-      "t": "1uE8K2o.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "HandelGothic",
       "u": "/Fonts/Language/English/HandelGothic.ttf",
       "s": "138 KB",
-      "t": "C0mlxVh.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "JandaCloserToFree",
       "u": "/Fonts/Language/English/JandaCloserToFree.ttf",
       "s": "135 KB",
-      "t": "xTEccNu.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "JandaManatee",
       "u": "/Fonts/Language/English/JandaManatee.ttf",
       "s": "108 KB",
-      "t": "nKbt0aK.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGPartofMe",
       "u": "/Fonts/Language/English/KGPartofMe.ttf",
       "s": "127 KB",
-      "t": "Q7WOJn3.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Harrington",
       "u": "/Fonts/Language/English/Harrington.ttf",
       "s": "22 KB",
-      "t": "MPvv6j0.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Kenzie",
       "u": "/Fonts/Language/English/Kenzie.ttf",
       "s": "121 KB",
-      "t": "bfurceu.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "GloriaHallelujah",
       "u": "/Fonts/Language/English/GloriaHallelujah.ttf",
       "s": "128 KB",
-      "t": "7URPKJl.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGRayofSunshine",
       "u": "/Fonts/Language/English/KGRayofSunshine.ttf",
       "s": "125 KB",
-      "t": "mpy6YFg.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGBeginAgain",
       "u": "/Fonts/Language/English/KGBeginAgain.ttf",
       "s": "124 KB",
-      "t": "vUumyQS.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGGirlOnFire",
       "u": "/Fonts/Language/English/KGGirlOnFire.ttf",
       "s": "115 KB",
-      "t": "jPyCkO5.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "JustTheWayYouAre",
       "u": "/Fonts/Language/English/JustTheWayYouAre.ttf",
       "s": "106 KB",
-      "t": "d1516bV.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "GoodDog",
       "u": "/Fonts/Language/English/GoodDog.ttf",
       "s": "111 KB",
-      "t": "ZSS2SAs.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Kellilynn",
       "u": "/Fonts/Language/English/Kellilynn.ttf",
       "s": "116 KB",
-      "t": "lOabA9A.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGIWantCrazy",
       "u": "/Fonts/Language/English/KGIWantCrazy.ttf",
       "s": "128 KB",
-      "t": "LdIBoxn.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "JandaEverydayCasual",
       "u": "/Fonts/Language/English/JandaEverydayCasual.ttf",
       "s": "109 KB",
-      "t": "qdjWVwg.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "JandaSiestaSunset",
       "u": "/Fonts/Language/English/JandaSiestaSunset.ttf",
       "s": "127 KB",
-      "t": "E2FLRj4.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Kremlin",
       "u": "/Fonts/Language/English/Kremlin.ttf",
       "s": "118 KB",
-      "t": "QJ2D6jg.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGStrawberryLimeade",
       "u": "/Fonts/Language/English/KGStrawberryLimeade.ttf",
       "s": "132 KB",
-      "t": "IQfM5EU.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "JessicaElaine",
       "u": "/Fonts/Language/English/JessicaElaine.ttf",
       "s": "126 KB",
-      "t": "VxQ1oAx.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGFaithHopeAndLove",
       "u": "/Fonts/Language/English/KGFaithHopeAndLove.ttf",
       "s": "110 KB",
-      "t": "vMfposG.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "GeorgiaBelle",
       "u": "/Fonts/Language/English/GeorgiaBelle.ttf",
       "s": "125 KB",
-      "t": "mCo6tm5.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGLoveYouThroughIt2",
       "u": "/Fonts/Language/English/KGLoveYouThroughIt2.ttf",
       "s": "107 KB",
-      "t": "2rczPlY.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGTrueColors",
       "u": "/Fonts/Language/English/KGTrueColors.ttf",
       "s": "143 KB",
-      "t": "gVJNNgk.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGSkinnyLatte",
       "u": "/Fonts/Language/English/KGSkinnyLatte.ttf",
       "s": "101 KB",
-      "t": "2bfO5WH.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGTenThousandReasons",
       "u": "/Fonts/Language/English/KGTenThousandReasons.ttf",
       "s": "267 KB",
-      "t": "wl69SyF.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGFeeling22",
       "u": "/Fonts/Language/English/KGFeeling22.ttf",
       "s": "115 KB",
-      "t": "utboSYv.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "JustOldFashion",
       "u": "/Fonts/Language/English/JustOldFashion.ttf",
       "s": "154 KB",
-      "t": "aiLyCwr.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGLikeASkyscraper",
       "u": "/Fonts/Language/English/KGLikeASkyscraper.ttf",
       "s": "33 KB",
-      "t": "be2kOxR.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Kantarawaddy",
       "u": "/Fonts/Language/English/Kantarawaddy.ttf",
       "s": "138 KB",
-      "t": "H5P4G8T.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGLoveYouThroughIt",
       "u": "/Fonts/Language/English/KGLoveYouThroughIt.ttf",
       "s": "105 KB",
-      "t": "4n3uhPL.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGShadowoftheDay",
       "u": "/Fonts/Language/English/KGShadowoftheDay.ttf",
       "s": "101 KB",
-      "t": "nfo5Wpi.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "KGLegoHouse",
       "u": "/Fonts/Language/English/KGLegoHouse.ttf",
       "s": "135 KB",
-      "t": "hVKIrg0.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "GermaniaOne",
       "u": "/Fonts/Language/English/GermaniaOne.ttf",
       "s": "113 KB",
-      "t": "pXr6ZpS.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Celtic",
       "u": "/Fonts/Language/English/Celtic.ttf",
       "s": "123 KB",
-      "t": "rjYX5sX.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "DiamondGirl",
       "u": "/Fonts/Language/English/DiamondGirl.ttf",
       "s": "129 KB",
-      "t": "MDWtixb.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "FromWhereYouAre",
       "u": "/Fonts/Language/English/FromWhereYouAre.ttf",
       "s": "220 KB",
-      "t": "Nu5yseD.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "DazzlingDivas",
       "u": "/Fonts/Language/English/DazzlingDivas.ttf",
       "s": "143 KB",
-      "t": "T1QFDYA.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "CeesHand",
       "u": "/Fonts/Language/English/CeesHand.ttf",
       "s": "153 KB",
-      "t": "5HnQdhK.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "ComingSoon",
       "u": "/Fonts/Language/English/ComingSoon.ttf",
       "s": "144 KB",
-      "t": "E8z3Taz.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "CraftyGirls",
       "u": "/Fonts/Language/English/CraftyGirls.ttf",
       "s": "162 KB",
-      "t": "wpQJKYW.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "ChristmasSnow",
       "u": "/Fonts/Language/English/ChristmasSnow.ttf",
       "s": "104 KB",
-      "t": "f4gLga2.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "CoveredByYourGrace",
       "u": "/Fonts/Language/English/CoveredByYourGrace.ttf",
       "s": "132 KB",
-      "t": "YWRUVnO.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "FollowYouIntotheWorld",
       "u": "/Fonts/Language/English/FollowYouIntotheWorld.ttf",
       "s": "111 KB",
-      "t": "tuaWCqA.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Decker",
       "u": "/Fonts/Language/English/Decker.ttf",
       "s": "115 KB",
-      "t": "i6KTGDG.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "CompleteinHim",
       "u": "/Fonts/Language/English/CompleteinHim.ttf",
       "s": "115 KB",
-      "t": "RAG5F5f.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "CroissantOne",
       "u": "/Fonts/Language/English/CroissantOne.ttf",
       "s": "120 KB",
-      "t": "P7s88GK.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Caviardreams",
       "u": "/Fonts/Language/English/Caviardreams.ttf",
       "s": "47 KB",
-      "t": "mP13acG.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "DekarRegular",
       "u": "/Fonts/Language/English/DekarRegular.ttf",
       "s": "20 KB",
-      "t": "DheO4qh.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "ComicBookCommando",
       "u": "/Fonts/Language/English/ComicBookCommando.ttf",
       "s": "151 KB",
-      "t": "m2eLTGW.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "ContraryMary",
       "u": "/Fonts/Language/English/ContraryMary.ttf",
       "s": "127 KB",
-      "t": "5h1M4hn.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "EyeRhyme",
       "u": "/Fonts/Language/English/EyeRhyme.ttf",
       "s": "117 KB",
-      "t": "dIirYem.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Fruktur",
       "u": "/Fonts/Language/English/Fruktur.ttf",
       "s": "159 KB",
-      "t": "ULhrjxU.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Coprgtb",
       "u": "/Fonts/Language/English/Coprgtb.ttf",
       "s": "59 KB",
-      "t": "phdZvFL.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "FlowerPower",
       "u": "/Fonts/Language/English/FlowerPower.ttf",
       "s": "172 KB",
-      "t": "2GDqNb2.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "ChocolateCoveredRaindrops",
       "u": "/Fonts/Language/English/ChocolateCoveredRaindrops.ttf",
       "s": "129 KB",
-      "t": "8GRGAt1.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "CherryCreamSoda",
       "u": "/Fonts/Language/English/CherryCreamSoda.ttf",
       "s": "135 KB",
-      "t": "sbP0UMZ.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Dadhand",
       "u": "/Fonts/Language/English/Dadhand.ttf",
       "s": "140 KB",
-      "t": "CQ55fvc.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Chococooky",
       "u": "/Fonts/Language/English/Chococooky.ttf",
       "s": "1.16 MB",
-      "t": "rlKagRa.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Christmaseve",
       "u": "/Fonts/Language/English/Christmaseve.ttf",
       "s": "37 KB",
-      "t": "Shy4I7M.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "CopperPennyDTP",
       "u": "/Fonts/Language/English/CopperPennyDTP.ttf",
       "s": "184 KB",
-      "t": "qtrzRSG.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Fishfingers",
       "u": "/Fonts/Language/English/Fishfingers.ttf",
       "s": "177 KB",
-      "t": "EDA6Kti.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Frosty",
       "u": "/Fonts/Language/English/Frosty.ttf",
       "s": "74 KB",
-      "t": "Qi2zJ3b.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Comfortaa",
       "u": "/Fonts/Language/English/Comfortaa.ttf",
       "s": "148 KB",
-      "t": "9OYpJzT.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "FiolexGirls",
       "u": "/Fonts/Language/English/FiolexGirls.ttf",
       "s": "135 KB",
-      "t": "1docNRF.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Floydian",
       "u": "/Fonts/Language/English/Floydian.ttf",
       "s": "142 KB",
-      "t": "QAfuPnt.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Cooljazz",
       "u": "/Fonts/Language/English/Cooljazz.ttf",
       "s": "1.38 MB",
-      "t": "y5Uveyb.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Civitype",
       "u": "/Fonts/Language/English/Civitype.ttf",
       "s": "156 KB",
-      "t": "HoMu3i9.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "FourthGrader",
       "u": "/Fonts/Language/English/FourthGrader.ttf",
       "s": "122 KB",
-      "t": "G3TFEEI.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Exo",
       "u": "/Fonts/Language/English/Exo.ttf",
       "s": "82 KB",
-      "t": "W7o28AE.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Deja",
       "u": "/Fonts/Language/English/Deja.ttf",
       "s": "397 KB",
-      "t": "cMOSw4H.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "CutiePop",
       "u": "/Fonts/Language/English/CutiePop.ttf",
       "s": "127 KB",
-      "t": "ERlSM3j.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Caviar",
       "u": "/Fonts/Language/English/Caviar.ttf",
       "s": "123 KB",
-      "t": "uBlREx8.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "CelesteHand",
       "u": "/Fonts/Language/English/CelesteHand.ttf",
       "s": "126 KB",
-      "t": "R8pEhZf.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Cath",
       "u": "/Fonts/Language/English/Cath.ttf",
       "s": "126 KB",
-      "t": "0AJxpKq.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "ForgetMeNot",
       "u": "/Fonts/Language/English/ForgetMeNot.ttf",
       "s": "118 KB",
-      "t": "gB8oAAn.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "ChristmasLigtness",
       "u": "/Fonts/Language/English/ChristmasLigtness.ttf",
       "s": "50 KB",
-      "t": "0I6bCiP.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "CheekyRabbit",
       "u": "/Fonts/Language/English/CheekyRabbit.ttf",
       "s": "119 KB",
-      "t": "itAiD7Z.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "CutiePatootie",
       "u": "/Fonts/Language/English/CutiePatootie.ttf",
       "s": "130 KB",
-      "t": "TGl28LD.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "ClaireHand",
       "u": "/Fonts/Language/English/ClaireHand.ttf",
       "s": "174 KB",
-      "t": "DywczB5.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "DandelionintheSpring",
       "u": "/Fonts/Language/English/DandelionintheSpring.ttf",
       "s": "141 KB",
-      "t": "6uwVET3.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Cheekaw",
       "u": "/Fonts/Language/English/Cheekaw.ttf",
       "s": "143 KB",
-      "t": "k9rD59b.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "FingerPaint",
       "u": "/Fonts/Language/English/FingerPaint.ttf",
       "s": "207 KB",
-      "t": "vA3sCWy.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Carme",
       "u": "/Fonts/Language/English/Carme.ttf",
       "s": "140 KB",
-      "t": "2cmuwOM.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Brubeck",
       "u": "/Fonts/Language/English/Brubeck.ttf",
       "s": "181 KB",
-      "t": "gVdLWdz.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "AllThingsPink",
       "u": "/Fonts/Language/English/AllThingsPink.ttf",
       "s": "128 KB",
-      "t": "zYcOw7f.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "AYearWithoutRain",
       "u": "/Fonts/Language/English/AYearWithoutRain.ttf",
       "s": "125 KB",
-      "t": "9cWhzkc.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Alexander",
       "u": "/Fonts/Language/English/Alexander.ttf",
       "s": "150 KB",
-      "t": "grOHs2i.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "AnkeSans",
       "u": "/Fonts/Language/English/AnkeSans.ttf",
       "s": "199 KB",
-      "t": "5GZ8rXF.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Adobe",
       "u": "/Fonts/Language/English/Adobe.ttf",
       "s": "121 KB",
-      "t": "ZV0Zs46.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "AirmoleStripe",
       "u": "/Fonts/Language/English/AirmoleStripe.ttf",
       "s": "172 KB",
-      "t": "iJn1Loo.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "AreYouFreakinSerious",
       "u": "/Fonts/Language/English/AreYouFreakinSerious.ttf",
       "s": "200 KB",
-      "t": "aIZXA8j.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Antipasto",
       "u": "/Fonts/Language/English/Antipasto.ttf",
       "s": "45 KB",
-      "t": "auo95bn.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "BrookeS8",
       "u": "/Fonts/Language/English/BrookeS8.ttf",
       "s": "114 KB",
-      "t": "a06ld3x.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "AlwaysInMyHeart",
       "u": "/Fonts/Language/English/AlwaysInMyHeart.ttf",
       "s": "142 KB",
-      "t": "XJZmaEq.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "April",
       "u": "/Fonts/Language/English/April.ttf",
       "s": "117 KB",
-      "t": "beqTtkH.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Annabelle",
       "u": "/Fonts/Language/English/Annabelle.ttf",
       "s": "165 KB",
-      "t": "5BVmVWz.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Burbank",
       "u": "/Fonts/Language/English/Burbank.ttf",
       "s": "129 KB",
-      "t": "XWDwqAR.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "AveriaLibre",
       "u": "/Fonts/Language/English/AveriaLibre.ttf",
       "s": "132 KB",
-      "t": "0tVFN0W.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Briemscript",
       "u": "/Fonts/Language/English/Briemscript.ttf",
       "s": "130 KB",
-      "t": "bXWpaDn.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "AllSmiles",
       "u": "/Fonts/Language/English/AllSmiles.ttf",
       "s": "135 KB",
-      "t": "5aDQlmo.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Candycane",
       "u": "/Fonts/Language/English/Candycane.ttf",
       "s": "44 KB",
-      "t": "o0sM2qM.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "CACChampagne",
       "u": "/Fonts/Language/English/CACChampagne.ttf",
       "s": "137 KB",
-      "t": "7Rp0PAu.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "AlmendraDisplay",
       "u": "/Fonts/Language/English/AlmendraDisplay.ttf",
       "s": "123 KB",
-      "t": "rRCKWXD.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Caprica",
       "u": "/Fonts/Language/English/Caprica.ttf",
       "s": "127 KB",
-      "t": "2TlyFmQ.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Armani",
       "u": "/Fonts/Language/English/Armani.ttf",
       "s": "260 KB",
-      "t": "ptLiA2d.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "AbrilFatface",
       "u": "/Fonts/Language/English/AbrilFatface.ttf",
       "s": "131 KB",
-      "t": "LTZCV3m.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Aerolite",
       "u": "/Fonts/Language/English/Aerolite.ttf",
       "s": "271 KB",
-      "t": "8LIuNZN.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Bobel",
       "u": "/Fonts/Language/English/Bobel.ttf",
       "s": "124 KB",
-      "t": "PxIXa0l.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "BeautifulEveryTime",
       "u": "/Fonts/Language/English/BeautifulEveryTime.ttf",
       "s": "41 KB",
-      "t": "OFC2Q0k.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Balkeno",
       "u": "/Fonts/Language/English/Balkeno.ttf",
       "s": "124 KB",
-      "t": "ft0ehEm.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "AddisAbaba",
       "u": "/Fonts/Language/English/AddisAbaba.ttf",
       "s": "145 KB",
-      "t": "SofnJd3.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "AGentleTouch",
       "u": "/Fonts/Language/English/AGentleTouch.ttf",
       "s": "142 KB",
-      "t": "rh5YNEp.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Ampersand",
       "u": "/Fonts/Language/English/Ampersand.ttf",
       "s": "126 KB",
-      "t": "SH3srXr.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Blockhead",
       "u": "/Fonts/Language/English/Blockhead.ttf",
       "s": "127 KB",
-      "t": "bE4LrXV.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "AndreaPrintUpright",
       "u": "/Fonts/Language/English/AndreaPrintUpright.ttf",
       "s": "143 KB",
-      "t": "Rwn8ugQ.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Algerian",
       "u": "/Fonts/Language/English/Algerian.ttf",
       "s": "137 KB",
-      "t": "9gJcHBd.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Brush",
       "u": "/Fonts/Language/English/Brush.ttf",
       "s": "150 KB",
-      "t": "rYmDd2A.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "AHundredMiles",
       "u": "/Fonts/Language/English/AHundredMiles.ttf",
       "s": "129 KB",
-      "t": "hwUSiWF.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Amatic",
       "u": "/Fonts/Language/English/Amatic.ttf",
       "s": "116 KB",
-      "t": "DpNYztQ.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "BurstMyBubble",
       "u": "/Fonts/Language/English/BurstMyBubble.ttf",
       "s": "125 KB",
-      "t": "Z3z1Lwe.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Ajax",
       "u": "/Fonts/Language/English/Ajax.ttf",
       "s": "143 KB",
-      "t": "BK7Y9mU.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "AmienneReg",
       "u": "/Fonts/Language/English/AmienneReg.ttf",
       "s": "141 KB",
-      "t": "C6PMo4P.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Angelina",
       "u": "/Fonts/Language/English/Angelina.ttf",
       "s": "162 KB",
-      "t": "QFSl0EF.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Audiowide",
       "u": "/Fonts/Language/English/Audiowide.ttf",
       "s": "142 KB",
-      "t": "myPhr7Q.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Burton'sNightmare",
       "u": "/Fonts/Language/English/Burton'sNightmare.ttf",
       "s": "121 KB",
-      "t": "sZiLP9M.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "BubbleLetters",
       "u": "/Fonts/Language/English/BubbleLetters.ttf",
       "s": "386 KB",
-      "t": "SFk2erF.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "CalamityJaneNF",
       "u": "/Fonts/Language/English/CalamityJaneNF.ttf",
       "s": "70 KB",
-      "t": "zvRJgFO.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "AnjelikaRose",
       "u": "/Fonts/Language/English/AnjelikaRose.ttf",
       "s": "129 KB",
-      "t": "lVgji2q.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Bolonewt",
       "u": "/Fonts/Language/English/Bolonewt.ttf",
       "s": "134 KB",
-      "t": "sMhan4S.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "BMArmy",
       "u": "/Fonts/Language/English/BMArmy.ttf",
       "s": "116 KB",
-      "t": "0RWQw6Y.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Arvo",
       "u": "/Fonts/Language/English/Arvo.ttf",
       "s": "42 KB",
-      "t": "Js9s1Lb.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "AlwaysForever",
       "u": "/Fonts/Language/English/AlwaysForever.ttf",
       "s": "118 KB",
-      "t": "qRAUdIj.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "Aller",
       "u": "/Fonts/Language/English/Aller.ttf",
       "s": "202 KB",
-      "t": "CPC6IiI.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "SanFranciscoBold",
       "u": "/Fonts/Language/English/SanFranciscoBold.ttf",
       "s": "444 KB",
-      "t": "CcmWwxJ.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "SanFransisco",
       "u": "/Fonts/Language/English/SanFransisco.ttf",
       "s": "181 KB",
-      "t": "cHVHV9Y.png"
+      "t": "6TGANss.png"
     },
     {
       "n": "SanFranciscoRegularItalic",
       "u": "/Fonts/Language/English/SanFranciscoRegularItalic.ttf",
       "s": "458 KB",
-      "t": "bbXHXJU.png"
+      "t": "6TGANss.png"
     }
   ],
   "myanmar": [
@@ -3592,7 +3576,7 @@
       "n": "ဦးမိုးလက်ရေး",
       "u": "/Fonts/Language/Myanmar/Unicode/ဦးမိုးလက်ရေး.ttf",
       "s": "43 KB",
-      "t": "j9dLGb2.png"
+      "t": "6TGANss.png"
     },
     {
       "in": true,
@@ -3601,7 +3585,7 @@
       "n": "YG-YoeShin_Unicode",
       "u": "/Fonts/Language/Myanmar/Unicode/YG-YoeShin_Unicode.ttf",
       "s": "243 KB",
-      "t": "cxnJUMs.png"
+      "t": "6TGANss.png"
     },
     {
       "in": true,
@@ -3610,28 +3594,28 @@
       "n": "YG-Mahar_Unicode",
       "u": "/Fonts/Language/Myanmar/Unicode/YG-Mahar_Unicode.ttf",
       "s": "404 KB",
-      "t": "gSN9I7G.png"
+      "t": "6TGANss.png"
     },
     {
       "unicode": true,
       "n": "ပြည်ထောင်စု_Bold",
       "u": "/Fonts/Language/Myanmar/Unicode/color/ပြည်ထောင်စု_Bold.ttf",
       "s": "234 KB",
-      "t": "2mos3y7.png"
+      "t": "6TGANss.png"
     },
     {
       "unicode": true,
       "n": "ပြည်ထောင်စု_Regular",
       "u": "/Fonts/Language/Myanmar/Unicode/color/ပြည်ထောင်စု_Regular.ttf",
       "s": "190 KB",
-      "t": "Z1xQZCY.png"
+      "t": "6TGANss.png"
     },
     {
       "unicode": true,
       "n": "Myanmar_Old_Oppo",
       "u": "/Fonts/Language/Myanmar/Unicode/Myanmar_Old_Oppo.ttf",
       "s": "161 KB",
-      "t": "8b3kRB3.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3639,7 +3623,7 @@
       "n": "ကံ့ကော်",
       "u": "/Fonts/Language/Myanmar/Unicode/ကံ့ကော်.ttf",
       "s": "79 KB",
-      "t": "7nXvusm.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3647,7 +3631,7 @@
       "n": "ကက္ကူ",
       "u": "/Fonts/Language/Myanmar/Unicode/ကက္ကူ.ttf",
       "s": "178 KB",
-      "t": "ljtglA1.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3655,7 +3639,7 @@
       "n": "ကျိုင်းတုံ",
       "u": "/Fonts/Language/Myanmar/Unicode/ကျိုင်းတုံ.ttf",
       "s": "156 KB",
-      "t": "YMit7E6.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3663,7 +3647,7 @@
       "n": "ကြိုးကြာ_Pro",
       "u": "/Fonts/Language/Myanmar/Unicode/ကြိုးကြာ_Pro.ttf",
       "s": "200 KB",
-      "t": "iIq88SW.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3671,7 +3655,7 @@
       "n": "ခတ္တာ",
       "u": "/Fonts/Language/Myanmar/Unicode/ခတ္တာ.ttf",
       "s": "76 KB",
-      "t": "IZEgrcs.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3679,7 +3663,7 @@
       "n": "ခမ်းကောင်",
       "u": "/Fonts/Language/Myanmar/Unicode/ခမ်းကောင်.ttf",
       "s": "255 KB",
-      "t": "TbKDkS1.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3687,7 +3671,7 @@
       "n": "ချယ်ရီ",
       "u": "/Fonts/Language/Myanmar/Unicode/ချယ်ရီ.ttf",
       "s": "149 KB",
-      "t": "7jFiSqM.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3695,7 +3679,7 @@
       "n": "ခွန်ပအိုဝ်ႏ-Bold",
       "u": "/Fonts/Language/Myanmar/Unicode/ခွန်ပအိုဝ်ႏ-Bold.ttf",
       "s": "206 KB",
-      "t": "KV0zy13.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3703,7 +3687,7 @@
       "n": "ခွန်ပအိုဝ်ႏ-Regular",
       "u": "/Fonts/Language/Myanmar/Unicode/ခွန်ပအိုဝ်ႏ-Regular.ttf",
       "s": "207 KB",
-      "t": "WAoPzsp.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3711,7 +3695,7 @@
       "n": "ခွေး",
       "u": "/Fonts/Language/Myanmar/Unicode/ခွေး.ttf",
       "s": "40 KB",
-      "t": "yHo10ZK.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3719,7 +3703,7 @@
       "n": "ခေး",
       "u": "/Fonts/Language/Myanmar/Unicode/ခေး.ttf",
       "s": "40 KB",
-      "t": "2XKrV3I.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3727,7 +3711,7 @@
       "n": "စကား",
       "u": "/Fonts/Language/Myanmar/Unicode/စကား.ttf",
       "s": "40 KB",
-      "t": "iAdWi2k.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3735,7 +3719,7 @@
       "n": "စံပယ်",
       "u": "/Fonts/Language/Myanmar/Unicode/စံပယ်.ttf",
       "s": "41 KB",
-      "t": "ZKIC4NO.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3743,7 +3727,7 @@
       "n": "စံပယ်ပန်း",
       "u": "/Fonts/Language/Myanmar/Unicode/စံပယ်ပန်း.ttf",
       "s": "161 KB",
-      "t": "lXG9Dw3.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3751,7 +3735,7 @@
       "n": "ဆီဆိုင်",
       "u": "/Fonts/Language/Myanmar/Unicode/ဆီဆိုင်.ttf",
       "s": "1.52 MB",
-      "t": "1THfDrc.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3759,7 +3743,7 @@
       "n": "တန်ခူး",
       "u": "/Fonts/Language/Myanmar/Unicode/တန်ခူး.ttf",
       "s": "45 KB",
-      "t": "PyiLRrs.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3767,7 +3751,7 @@
       "n": "တိုင်းရင်းသား",
       "u": "/Fonts/Language/Myanmar/Unicode/တိုင်းရင်းသား.ttf",
       "s": "211 KB",
-      "t": "B3b7TXW.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3775,7 +3759,7 @@
       "n": "တောင်ကြီး",
       "u": "/Fonts/Language/Myanmar/Unicode/တောင်ကြီး.ttf",
       "s": "116 KB",
-      "t": "Bxe8HaX.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3783,7 +3767,7 @@
       "n": "နမ့်ခုံး-Grand",
       "u": "/Fonts/Language/Myanmar/Unicode/နမ့်ခုံး-Grand.ttf",
       "s": "270 KB",
-      "t": "4d32c5i.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3791,7 +3775,7 @@
       "n": "နမ့်ခုံး",
       "u": "/Fonts/Language/Myanmar/Unicode/နမ့်ခုံး.ttf",
       "s": "520 KB",
-      "t": "f6aRvMj.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3799,7 +3783,7 @@
       "n": "နယုန်",
       "u": "/Fonts/Language/Myanmar/Unicode/နယုန်.ttf",
       "s": "42 KB",
-      "t": "clCYAAN.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3807,7 +3791,7 @@
       "n": "ပင်လုံ",
       "u": "/Fonts/Language/Myanmar/Unicode/ပင်လုံ.ttf",
       "s": "1.66 MB",
-      "t": "bJp9j1c.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3815,7 +3799,7 @@
       "n": "ပြည်ထောင်စု-2.5.3_Bold",
       "u": "/Fonts/Language/Myanmar/Unicode/ပြည်ထောင်စု-2.5.3_Bold.ttf",
       "s": "228 KB",
-      "t": "CUXAvNP.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3823,7 +3807,7 @@
       "n": "ပြည်ထောင်စု-2.5.3_Regular",
       "u": "/Fonts/Language/Myanmar/Unicode/ပြည်ထောင်စု-2.5.3_Regular.ttf",
       "s": "185 KB",
-      "t": "Zv2guN1.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3831,7 +3815,7 @@
       "n": "ပိတောက်-bold",
       "u": "/Fonts/Language/Myanmar/Unicode/ပိတောက်-bold.ttf",
       "s": "432 KB",
-      "t": "A5QepPF.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3839,7 +3823,7 @@
       "n": "ပိတောက်-book",
       "u": "/Fonts/Language/Myanmar/Unicode/ပိတောက်-book.ttf",
       "s": "465 KB",
-      "t": "kYRuORn.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3847,7 +3831,7 @@
       "n": "ပိတောက်-bookbold",
       "u": "/Fonts/Language/Myanmar/Unicode/ပိတောက်-bookbold.ttf",
       "s": "431 KB",
-      "t": "fBjTYl0.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3855,7 +3839,7 @@
       "n": "ပိတောက်-သရဲ",
       "u": "/Fonts/Language/Myanmar/Unicode/ပိတောက်-သရဲ.ttf",
       "s": "240 KB",
-      "t": "zvcDExZ.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3863,7 +3847,7 @@
       "n": "ပိတောက်",
       "u": "/Fonts/Language/Myanmar/Unicode/ပိတောက်.ttf",
       "s": "461 KB",
-      "t": "3QPzRgY.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3871,7 +3855,7 @@
       "n": "ပိတောက်ကြောင်ချီး",
       "u": "/Fonts/Language/Myanmar/Unicode/ပိတောက်ကြောင်ချီး.ttf",
       "s": "271 KB",
-      "t": "ZBJRrH0.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3879,7 +3863,7 @@
       "n": "ပုဂံ",
       "u": "/Fonts/Language/Myanmar/Unicode/ပုဂံ.ttf",
       "s": "233 KB",
-      "t": "mCoRj7h.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3887,7 +3871,7 @@
       "n": "ပုန်းညက်",
       "u": "/Fonts/Language/Myanmar/Unicode/ပုန်းညက်.ttf",
       "s": "38 KB",
-      "t": "VtHXKhJ.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3895,7 +3879,7 @@
       "n": "ပုရပိုက်",
       "u": "/Fonts/Language/Myanmar/Unicode/ပုရပိုက်.ttf",
       "s": "162 KB",
-      "t": "M6vM89Z.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3903,7 +3887,7 @@
       "n": "ပေါက်ကလေး",
       "u": "/Fonts/Language/Myanmar/Unicode/ပေါက်ကလေး.ttf",
       "s": "39 KB",
-      "t": "McAhfKo.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3911,7 +3895,7 @@
       "n": "ဖက်စုတ်",
       "u": "/Fonts/Language/Myanmar/Unicode/ဖက်စုတ်.ttf",
       "s": "41 KB",
-      "t": "C9dfM8T.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3919,7 +3903,7 @@
       "n": "ဖယ်ခုံ",
       "u": "/Fonts/Language/Myanmar/Unicode/ဖယ်ခုံ.ttf",
       "s": "200 KB",
-      "t": "CemDQCi.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3927,7 +3911,7 @@
       "n": "မြန်မာနှင်းဆီ",
       "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာနှင်းဆီ.ttf",
       "s": "361 KB",
-      "t": "eAlPBaM.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3935,7 +3919,7 @@
       "n": "မြန်မာ့ပန်း",
       "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာ့ပန်း.ttf",
       "s": "172 KB",
-      "t": "v90dKwD.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3943,7 +3927,7 @@
       "n": "မြန်မာပအိုဝ်း-နှင်းဆီ",
       "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာပအိုဝ်း-နှင်းဆီ.ttf",
       "s": "361 KB",
-      "t": "00dwb2y.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3951,7 +3935,7 @@
       "n": "မြန်မာပအိုဝ်း",
       "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာပအိုဝ်း.ttf",
       "s": "229 KB",
-      "t": "wJe2Dp0.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3959,7 +3943,7 @@
       "n": "မြန်မာပအိုဝ်းဝမ်း",
       "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာပအိုဝ်းဝမ်း.ttf",
       "s": "334 KB",
-      "t": "M9xauCa.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3967,7 +3951,7 @@
       "n": "မြန်မာယိမ်း_၂",
       "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာယိမ်း_၂.ttf",
       "s": "362 KB",
-      "t": "thdmPr2.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3975,7 +3959,7 @@
       "n": "မြန်မာယိမ်း",
       "u": "/Fonts/Language/Myanmar/Unicode/မြန်မာယိမ်း.ttf",
       "s": "258 KB",
-      "t": "3GQiqPF.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3983,7 +3967,7 @@
       "n": "မိုင်မြန်မာ",
       "u": "/Fonts/Language/Myanmar/Unicode/မိုင်မြန်မာ.ttf",
       "s": "96 KB",
-      "t": "ekzvZik.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3991,7 +3975,7 @@
       "n": "ယင်းမာ",
       "u": "/Fonts/Language/Myanmar/Unicode/ယင်းမာ.ttf",
       "s": "75 KB",
-      "t": "XCpr2WZ.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -3999,7 +3983,7 @@
       "n": "ယွန်းချို",
       "u": "/Fonts/Language/Myanmar/Unicode/ယွန်းချို.ttf",
       "s": "419 KB",
-      "t": "xD8pEzL.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4007,7 +3991,7 @@
       "n": "ရန်ကုန်",
       "u": "/Fonts/Language/Myanmar/Unicode/ရန်ကုန်.ttf",
       "s": "29 KB",
-      "t": "aJ9s1n3.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4015,7 +3999,7 @@
       "n": "ရိုးရာ_Bold",
       "u": "/Fonts/Language/Myanmar/Unicode/ရိုးရာ_Bold.ttf",
       "s": "1.40 MB",
-      "t": "I5QhIwq.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4023,7 +4007,7 @@
       "n": "ရိုးရာ_Light",
       "u": "/Fonts/Language/Myanmar/Unicode/ရိုးရာ_Light.ttf",
       "s": "1.58 MB",
-      "t": "Fu1FYEo.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4031,7 +4015,7 @@
       "n": "ရိုးရာ_Regular",
       "u": "/Fonts/Language/Myanmar/Unicode/ရိုးရာ_Regular.ttf",
       "s": "1.44 MB",
-      "t": "8o7nzEE.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4039,7 +4023,7 @@
       "n": "လက်ရေး",
       "u": "/Fonts/Language/Myanmar/Unicode/လက်ရေး.ttf",
       "s": "198 KB",
-      "t": "31sc8rh.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4047,7 +4031,7 @@
       "n": "ဝင်းအင်းဝ",
       "u": "/Fonts/Language/Myanmar/Unicode/ဝင်းအင်းဝ.ttf",
       "s": "394 KB",
-      "t": "VfAYkXn.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4055,7 +4039,7 @@
       "n": "သံလွင်-Bold",
       "u": "/Fonts/Language/Myanmar/Unicode/သံလွင်-Bold.ttf",
       "s": "1.03 MB",
-      "t": "6yM6PY2.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4063,7 +4047,7 @@
       "n": "သံလွင်-Regular",
       "u": "/Fonts/Language/Myanmar/Unicode/သံလွင်-Regular.ttf",
       "s": "1.03 MB",
-      "t": "iyKZr87.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4071,7 +4055,7 @@
       "n": "သံလွင်",
       "u": "/Fonts/Language/Myanmar/Unicode/သံလွင်.ttf",
       "s": "1.03 MB",
-      "t": "4meR2LR.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4079,7 +4063,7 @@
       "n": "သာလွန်",
       "u": "/Fonts/Language/Myanmar/Unicode/သာလွန်.ttf",
       "s": "344 KB",
-      "t": "AbVm3yu.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4087,7 +4071,7 @@
       "n": "သူရိယ-Volt",
       "u": "/Fonts/Language/Myanmar/Unicode/သူရိယ-Volt.ttf",
       "s": "65 KB",
-      "t": "ml98Xcs.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4095,7 +4079,7 @@
       "n": "သူရိယ",
       "u": "/Fonts/Language/Myanmar/Unicode/သူရိယ.ttf",
       "s": "31 KB",
-      "t": "UIlvVUp.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4103,7 +4087,7 @@
       "n": "ဟိုပုံး_Mod",
       "u": "/Fonts/Language/Myanmar/Unicode/ဟိုပုံး_Mod.ttf",
       "s": "741 KB",
-      "t": "rEPT2gA.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4111,7 +4095,7 @@
       "n": "ဟိုပုံး_v1",
       "u": "/Fonts/Language/Myanmar/Unicode/ဟိုပုံး_v1.ttf",
       "s": "195 KB",
-      "t": "xku0ejz.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4119,7 +4103,7 @@
       "n": "ဟိုပုံး",
       "u": "/Fonts/Language/Myanmar/Unicode/ဟိုပုံး.ttf",
       "s": "592 KB",
-      "t": "crPq84v.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4127,7 +4111,7 @@
       "n": "အသောက",
       "u": "/Fonts/Language/Myanmar/Unicode/အသောက.ttf",
       "s": "291 KB",
-      "t": "fAWuvMl.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4135,7 +4119,7 @@
       "n": "Cooljazz",
       "u": "/Fonts/Language/Myanmar/Unicode/Cooljazz.ttf",
       "s": "2.16 MB",
-      "t": "fcSoLFf.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4143,7 +4127,7 @@
       "n": "Kamjing",
       "u": "/Fonts/Language/Myanmar/Unicode/Kamjing.ttf",
       "s": "237 KB",
-      "t": "8L6jINP.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4151,7 +4135,7 @@
       "n": "MM_Grand_v1",
       "u": "/Fonts/Language/Myanmar/Unicode/MM_Grand_v1.ttf",
       "s": "234 KB",
-      "t": "7MizMg2.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4159,7 +4143,7 @@
       "n": "MM_Sangam",
       "u": "/Fonts/Language/Myanmar/Unicode/MM_Sangam.ttf",
       "s": "195 KB",
-      "t": "zhkKjyf.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4167,7 +4151,7 @@
       "n": "mon3",
       "u": "/Fonts/Language/Myanmar/Unicode/mon3.ttf",
       "s": "242 KB",
-      "t": "EcG0Mgd.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4175,7 +4159,7 @@
       "n": "MUA_Office",
       "u": "/Fonts/Language/Myanmar/Unicode/MUA_Office.ttf",
       "s": "236 KB",
-      "t": "pEsVnks.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4183,7 +4167,7 @@
       "n": "Myanmar3MultiOS",
       "u": "/Fonts/Language/Myanmar/Unicode/Myanmar3MultiOS.ttf",
       "s": "119 KB",
-      "t": "bFXBHBX.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4191,7 +4175,7 @@
       "n": "Myanmar3PaOh",
       "u": "/Fonts/Language/Myanmar/Unicode/Myanmar3PaOh.ttf",
       "s": "99 KB",
-      "t": "Js4nrrt.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4199,7 +4183,7 @@
       "n": "MyanmarAngoun",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarAngoun.ttf",
       "s": "67 KB",
-      "t": "s2RXHm6.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4207,7 +4191,7 @@
       "n": "MyanmarApril",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarApril.ttf",
       "s": "463 KB",
-      "t": "TXb6Drg.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4215,7 +4199,7 @@
       "n": "MyanmarAyarTyepwriter",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarAyarTyepwriter.ttf",
       "s": "219 KB",
-      "t": "PUctoYL.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4223,7 +4207,7 @@
       "n": "MyanmarBagan",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarBagan.ttf",
       "s": "201 KB",
-      "t": "PqsepCj.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4231,7 +4215,7 @@
       "n": "MyanmarBlack",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarBlack.ttf",
       "s": "38 KB",
-      "t": "UfQHEn4.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4239,7 +4223,7 @@
       "n": "MyanmarCensus",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarCensus.ttf",
       "s": "155 KB",
-      "t": "R3dqVxZ.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4247,7 +4231,7 @@
       "n": "MyanmarChatu",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarChatu.ttf",
       "s": "92 KB",
-      "t": "Q1y0oQ7.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4255,7 +4239,7 @@
       "n": "MyanmarCutekitten",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarCutekitten.ttf",
       "s": "237 KB",
-      "t": "H0sjq8m.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4263,7 +4247,7 @@
       "n": "MyanmarDreams",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarDreams.ttf",
       "s": "191 KB",
-      "t": "JrYVL1m.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4271,7 +4255,7 @@
       "n": "MyanmarEthnic",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarEthnic.ttf",
       "s": "181 KB",
-      "t": "ILEuF2J.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4279,7 +4263,7 @@
       "n": "MyanmarFlowerTwo",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarFlowerTwo.ttf",
       "s": "299 KB",
-      "t": "eF5EGGS.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4287,7 +4271,7 @@
       "n": "MyanmarGrand",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarGrand.ttf",
       "s": "207 KB",
-      "t": "vs877uB.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4295,7 +4279,7 @@
       "n": "MyanmarHoliday",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarHoliday.ttf",
       "s": "268 KB",
-      "t": "BNGizR8.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4303,7 +4287,7 @@
       "n": "MyanmarHopong",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarHopong.ttf",
       "s": "174 KB",
-      "t": "saArBCC.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4311,7 +4295,7 @@
       "n": "MyanmarJasmine",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarJasmine.ttf",
       "s": "330 KB",
-      "t": "1Ys18Q8.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4319,7 +4303,7 @@
       "n": "MyanmarJojar",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarJojar.ttf",
       "s": "139 KB",
-      "t": "eYUvWwZ.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4327,7 +4311,7 @@
       "n": "MyanmarJojarPro",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarJojarPro.ttf",
       "s": "200 KB",
-      "t": "m7f58bw.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4335,7 +4319,7 @@
       "n": "MyanmarKalay",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarKalay.ttf",
       "s": "173 KB",
-      "t": "Ljz2VtH.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4343,7 +4327,7 @@
       "n": "MyanmarKhyay",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarKhyay.ttf",
       "s": "40 KB",
-      "t": "m94N95d.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4351,7 +4335,7 @@
       "n": "MyanmarKitten",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarKitten.ttf",
       "s": "307 KB",
-      "t": "JB76L4b.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4359,7 +4343,7 @@
       "n": "MyanmarKitty",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarKitty.ttf",
       "s": "442 KB",
-      "t": "FvkJxAr.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4367,7 +4351,7 @@
       "n": "MyanmarKyaungChee",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarKyaungChee.ttf",
       "s": "265 KB",
-      "t": "7ZkS6K6.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4375,7 +4359,7 @@
       "n": "MyanmarLove",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarLove.ttf",
       "s": "231 KB",
-      "t": "HkGiOnW.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4383,7 +4367,7 @@
       "n": "MyanmarMON3Anonta",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarMON3Anonta.ttf",
       "s": "242 KB",
-      "t": "SC0tsQB.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4391,7 +4375,7 @@
       "n": "MyanmarNjaun",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarNjaun.ttf",
       "s": "39 KB",
-      "t": "ZwLzQpj.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4399,7 +4383,7 @@
       "n": "MyanmarNotes",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarNotes.ttf",
       "s": "212 KB",
-      "t": "HOVhQuS.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4407,7 +4391,7 @@
       "n": "MyanmarOS",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarOS.ttf",
       "s": "231 KB",
-      "t": "VDVd09d.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4415,7 +4399,7 @@
       "n": "MyanmarPadaung",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPadaung.ttf",
       "s": "203 KB",
-      "t": "DDW99Vr.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4423,7 +4407,7 @@
       "n": "MyanmarPangram",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPangram.ttf",
       "s": "215 KB",
-      "t": "pr2CGFE.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4431,7 +4415,7 @@
       "n": "MyanmarPaOhPyu",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPaOhPyu.ttf",
       "s": "154 KB",
-      "t": "nGIAnm1.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4439,7 +4423,7 @@
       "n": "MyanmarPauklay",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPauklay.ttf",
       "s": "122 KB",
-      "t": "zDUe67N.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4447,7 +4431,7 @@
       "n": "MyanmarPixel",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPixel.ttf",
       "s": "38 KB",
-      "t": "81ERmdc.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4455,7 +4439,7 @@
       "n": "MyanmarPixelSmooth",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPixelSmooth.ttf",
       "s": "39 KB",
-      "t": "2enyU0R.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4463,7 +4447,7 @@
       "n": "MyanmarPunk",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPunk.ttf",
       "s": "51 KB",
-      "t": "9HNqnUQ.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4471,7 +4455,7 @@
       "n": "MyanmarPyay",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPyay.ttf",
       "s": "159 KB",
-      "t": "6oBDokD.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4479,7 +4463,7 @@
       "n": "MyanmarPyayTwo",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPyayTwo.ttf",
       "s": "187 KB",
-      "t": "vonqynv.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4487,7 +4471,7 @@
       "n": "MyanmarPyidaungsu",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPyidaungsu.ttf",
       "s": "178 KB",
-      "t": "pP8a2UU.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4495,7 +4479,7 @@
       "n": "MyanmarPyu",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPyu.ttf",
       "s": "166 KB",
-      "t": "rEWELaH.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4503,7 +4487,7 @@
       "n": "MyanmarPyuPro",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarPyuPro.ttf",
       "s": "168 KB",
-      "t": "NzMX1mz.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4511,7 +4495,7 @@
       "n": "MyanmarRosemary",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarRosemary.ttf",
       "s": "1.48 MB",
-      "t": "FLIXmDL.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4519,7 +4503,7 @@
       "n": "MyanmarSagar",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSagar.ttf",
       "s": "158 KB",
-      "t": "WaEdhIE.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4527,7 +4511,7 @@
       "n": "MyanmarSansPro",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSansPro.ttf",
       "s": "39 KB",
-      "t": "WD7lLYV.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4535,7 +4519,7 @@
       "n": "MyanmarSketch",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSketch.ttf",
       "s": "315 KB",
-      "t": "oAKbWdi.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4543,7 +4527,7 @@
       "n": "MyanmarSquare",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSquare.ttf",
       "s": "149 KB",
-      "t": "ziCmBz7.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4551,7 +4535,7 @@
       "n": "MyanmarSquareLight",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSquareLight.ttf",
       "s": "75 KB",
-      "t": "jVVj9C5.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4559,7 +4543,7 @@
       "n": "MyanmarSweetie",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSweetie.ttf",
       "s": "468 KB",
-      "t": "XZPFqiY.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4567,7 +4551,7 @@
       "n": "MyanmarSweety",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarSweety.ttf",
       "s": "224 KB",
-      "t": "70zsjPL.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4575,7 +4559,7 @@
       "n": "MyanmarTagaung",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarTagaung.ttf",
       "s": "142 KB",
-      "t": "9DMvncM.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4583,7 +4567,7 @@
       "n": "MyanmarTaunggyi",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarTaunggyi.ttf",
       "s": "201 KB",
-      "t": "753bU1R.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4591,7 +4575,7 @@
       "n": "MyanmarTaungthu",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarTaungthu.ttf",
       "s": "256 KB",
-      "t": "V2R4dke.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4599,7 +4583,7 @@
       "n": "MyanmarText_Bold",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarText_Bold.ttf",
       "s": "243 KB",
-      "t": "6tPYyRG.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4607,7 +4591,7 @@
       "n": "MyanmarText_Regular",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarText_Regular.ttf",
       "s": "243 KB",
-      "t": "ImHBxgf.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4615,7 +4599,7 @@
       "n": "MyanmarText",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarText.ttf",
       "s": "346 KB",
-      "t": "tCWC8a7.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4623,7 +4607,7 @@
       "n": "MyanmarTextMelano",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarTextMelano.ttf",
       "s": "254 KB",
-      "t": "ttPolIH.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4631,7 +4615,7 @@
       "n": "MyanmarThanLwin",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarThanLwin.ttf",
       "s": "151 KB",
-      "t": "GfS9lRA.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4639,7 +4623,7 @@
       "n": "MyanmarUI",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarUI.ttf",
       "s": "150 KB",
-      "t": "8cBxbAn.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4647,7 +4631,7 @@
       "n": "MyanmarUni-ZG",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarUni-ZG.ttf",
       "s": "156 KB",
-      "t": "mWA2g7t.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4655,7 +4639,7 @@
       "n": "MyanmarWaitzar",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarWaitzar.ttf",
       "s": "180 KB",
-      "t": "bkvM961.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4663,7 +4647,7 @@
       "n": "MyanmarWazo",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarWazo.ttf",
       "s": "379 KB",
-      "t": "EjBipqi.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4671,7 +4655,7 @@
       "n": "MyanmarYellowflower",
       "u": "/Fonts/Language/Myanmar/Unicode/MyanmarYellowflower.ttf",
       "s": "196 KB",
-      "t": "EYPsjkx.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4679,7 +4663,7 @@
       "n": "NK_SSmart2",
       "u": "/Fonts/Language/Myanmar/Unicode/NK_SSmart2.ttf",
       "s": "404 KB",
-      "t": "RefTuy2.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4687,7 +4671,7 @@
       "n": "NK_SSmart3",
       "u": "/Fonts/Language/Myanmar/Unicode/NK_SSmart3.ttf",
       "s": "422 KB",
-      "t": "hTAnQmk.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4695,7 +4679,7 @@
       "n": "NK_SSmart4",
       "u": "/Fonts/Language/Myanmar/Unicode/NK_SSmart4.ttf",
       "s": "454 KB",
-      "t": "rYeuq1H.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4703,7 +4687,7 @@
       "n": "NKGrand",
       "u": "/Fonts/Language/Myanmar/Unicode/NKGrand.ttf",
       "s": "270 KB",
-      "t": "8ntUgfq.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4711,7 +4695,7 @@
       "n": "NotoSansMyanmar-Bold",
       "u": "/Fonts/Language/Myanmar/Unicode/NotoSansMyanmar-Bold.ttf",
       "s": "102 KB",
-      "t": "yH6OVyy.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4719,7 +4703,7 @@
       "n": "NotoSansMyanmar-Regular",
       "u": "/Fonts/Language/Myanmar/Unicode/NotoSansMyanmar-Regular.ttf",
       "s": "105 KB",
-      "t": "88c7zZz.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4727,7 +4711,7 @@
       "n": "NotoSansMyanmarUI-Bold",
       "u": "/Fonts/Language/Myanmar/Unicode/NotoSansMyanmarUI-Bold.ttf",
       "s": "92 KB",
-      "t": "dqv4qrK.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4735,7 +4719,7 @@
       "n": "NotoSansMyanmarUI-Regular",
       "u": "/Fonts/Language/Myanmar/Unicode/NotoSansMyanmarUI-Regular.ttf",
       "s": "91 KB",
-      "t": "6aUmTyG.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4743,7 +4727,7 @@
       "n": "PadaukSagar",
       "u": "/Fonts/Language/Myanmar/Unicode/PadaukSagar.ttf",
       "s": "338 KB",
-      "t": "mOc716Y.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4751,7 +4735,7 @@
       "n": "Pangram",
       "u": "/Fonts/Language/Myanmar/Unicode/Pangram.ttf",
       "s": "306 KB",
-      "t": "B9VCrBB.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4759,7 +4743,7 @@
       "n": "PangramBig",
       "u": "/Fonts/Language/Myanmar/Unicode/PangramBig.ttf",
       "s": "334 KB",
-      "t": "XrxN4we.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4767,7 +4751,7 @@
       "n": "PaohDragonApp",
       "u": "/Fonts/Language/Myanmar/Unicode/PaohDragonApp.ttf",
       "s": "87 KB",
-      "t": "jRQujh5.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4775,7 +4759,7 @@
       "n": "PaOhMyanmarGrand",
       "u": "/Fonts/Language/Myanmar/Unicode/PaOhMyanmarGrand.ttf",
       "s": "284 KB",
-      "t": "xEWUdtl.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4783,7 +4767,7 @@
       "n": "PaOhMyanmarPyum",
       "u": "/Fonts/Language/Myanmar/Unicode/PaOhMyanmarPyum.ttf",
       "s": "218 KB",
-      "t": "7g03CoB.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4791,7 +4775,7 @@
       "n": "PaOhShanWanhai",
       "u": "/Fonts/Language/Myanmar/Unicode/PaOhShanWanhai.ttf",
       "s": "340 KB",
-      "t": "w4aZvYX.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4799,7 +4783,7 @@
       "n": "Sabel",
       "u": "/Fonts/Language/Myanmar/Unicode/Sabel.ttf",
       "s": "1.96 MB",
-      "t": "fHdq4Ce.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4807,7 +4791,7 @@
       "n": "SamsungMyanmar",
       "u": "/Fonts/Language/Myanmar/Unicode/SamsungMyanmar.ttf",
       "s": "152 KB",
-      "t": "RfN7jgc.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4815,7 +4799,7 @@
       "n": "ShanUnicode",
       "u": "/Fonts/Language/Myanmar/Unicode/ShanUnicode.ttf",
       "s": "451 KB",
-      "t": "q9RAUmB.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4823,7 +4807,7 @@
       "n": "Uni-Yang_v2.5.3",
       "u": "/Fonts/Language/Myanmar/Unicode/Uni-Yang_v2.5.3.ttf",
       "s": "208 KB",
-      "t": "kEHzczU.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4831,7 +4815,7 @@
       "n": "Uni-Yang(wdc)_v2.5.3",
       "u": "/Fonts/Language/Myanmar/Unicode/Uni-Yang(wdc)_v2.5.3.ttf",
       "s": "207 KB",
-      "t": "LlY5UUr.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     },
     {
@@ -4839,7 +4823,7 @@
       "n": "UnicodeHeart",
       "u": "/Fonts/Language/Myanmar/Unicode/UnicodeHeart.ttf",
       "s": "262 KB",
-      "t": "9FOVGHF.png",
+      "t": "6TGANss.png",
       "a": "Kyaw Swar"
     }
   ]
